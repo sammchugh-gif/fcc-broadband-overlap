@@ -1,0 +1,526 @@
+rank,target,operator_as_filed,current_parent,overlap_bsls,pct_of_target_footprint,their_total_footprint_bsls,pct_of_their_footprint,overlap_their_fiber_bsls,overlap_their_cable_bsls
+1,Comcast (Xfinity),AT&T,AT&T (incl. Lumen consumer fiber),8153757,21.022,19375357,42.083,8153757,0
+2,Comcast (Xfinity),Verizon (Fios),Verizon (incl. Frontier),5472547,14.109,9364253,58.441,5472547,0
+3,Comcast (Xfinity),Lumen (Quantum Fiber / CenturyLink),AT&T (incl. Lumen consumer fiber),2012642,5.189,3157729,63.737,2012642,0
+4,Comcast (Xfinity),Frontier,Verizon (incl. Frontier),1584226,4.084,6545954,24.202,1584226,0
+5,Comcast (Xfinity),Astound Broadband,Astound Broadband,1456189,3.754,2518837,57.812,211459,1261233
+6,Comcast (Xfinity),WOW!,WOW!,992716,2.559,1733161,57.278,26857,965859
+7,Comcast (Xfinity),Metronet (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),768387,1.981,2612682,29.41,768387,0
+8,Comcast (Xfinity),Consolidated (Fidium),Consolidated (Fidium),562813,1.451,1058652,53.163,562559,254
+9,Comcast (Xfinity),Google Fiber,Google Fiber,513871,1.325,1886259,27.243,513871,0
+10,Comcast (Xfinity),Ziply Fiber (Bell Canada),Ziply Fiber (Bell Canada),513133,1.323,763929,67.17,513133,0
+11,Comcast (Xfinity),Charter (Spectrum),Charter + Cox (Spectrum),449654,1.159,35944137,1.251,54449,398852
+12,Comcast (Xfinity),Sonic,Sonic,377463,0.973,409147,92.256,377463,0
+13,Comcast (Xfinity),Brightspeed,Brightspeed,368412,0.95,1793486,20.542,368412,0
+14,Comcast (Xfinity),"Ezee Fiber Texas, LLC","Ezee Fiber Texas, LLC",351432,0.906,373234,94.159,351432,0
+15,Comcast (Xfinity),Optimum (Altice USA),Optimum (Altice USA),340126,0.877,5366001,6.339,177299,339997
+16,Comcast (Xfinity),Breezeline (Cogeco),Breezeline (Cogeco),277434,0.715,1333175,20.81,59197,218675
+17,Comcast (Xfinity),Shenandoah Telecommunications Company,Shenandoah Telecommunications Company,262816,0.678,530410,49.55,233111,29705
+18,Comcast (Xfinity),"Future Fiber FinCo, LLC","Future Fiber FinCo, LLC",236739,0.61,540181,43.826,236719,20
+19,Comcast (Xfinity),Windstream/Uniti (Kinetic),Windstream/Uniti (Kinetic),200184,0.516,1526157,13.117,193952,6811
+20,Comcast (Xfinity),"WH i3B Bidco LLC/WH i3B Topco, LLC","WH i3B Bidco LLC/WH i3B Topco, LLC",185369,0.478,313876,59.058,185369,0
+21,Comcast (Xfinity),Utah Telecommunication Open Infrastructure Agency,Utah Telecommunication Open Infrastructure Agency,175348,0.452,182973,95.833,175348,0
+22,Comcast (Xfinity),TDS Telecom,TDS Telecom,168805,0.435,1113559,15.159,146884,26591
+23,Comcast (Xfinity),Surf Internet,Surf Internet,159247,0.411,252177,63.149,159247,0
+24,Comcast (Xfinity),"Telapex, Inc.","Telapex, Inc.",159244,0.411,381068,41.789,159244,3
+25,Comcast (Xfinity),Tachus LLC,Tachus LLC,158901,0.41,178878,88.832,158901,0
+26,Comcast (Xfinity),Senawave LLC,Senawave LLC,155847,0.402,159498,97.711,155847,0
+27,Comcast (Xfinity),Beehive Telephone Companies,Beehive Telephone Companies,145368,0.375,155876,93.259,145368,0
+28,Comcast (Xfinity),EPB,EPB,134601,0.347,142651,94.357,134601,0
+29,Comcast (Xfinity),Ting,Ting,120042,0.309,204263,58.768,120042,0
+30,Comcast (Xfinity),"IQ Fiber Intermediate Holdings, LLC","IQ Fiber Intermediate Holdings, LLC",116414,0.3,145173,80.19,116414,0
+31,Comcast (Xfinity),Knoxville Utilities Board,Knoxville Utilities Board,115029,0.297,131468,87.496,115029,0
+32,Comcast (Xfinity),Cable One (Sparklight),Cable One (Sparklight),114085,0.294,2280032,5.004,10636,104388
+33,Comcast (Xfinity),"BIF IV Intrepid HoldCo, LLC","BIF IV Intrepid HoldCo, LLC",111656,0.288,125952,88.65,111656,0
+34,Comcast (Xfinity),Lumos (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),102359,0.264,641150,15.965,102359,0
+35,Comcast (Xfinity),Hotwire,Hotwire,93290,0.241,144179,64.704,92909,429
+36,Comcast (Xfinity),Palisade America's Investment LLC,Palisade America's Investment LLC,91274,0.235,94697,96.385,2866,88422
+37,Comcast (Xfinity),Point Broadband,Point Broadband,84440,0.218,348159,24.253,84440,0
+38,Comcast (Xfinity),"LiveOak Fiber, LLC","LiveOak Fiber, LLC",76307,0.197,155654,49.023,76307,0
+39,Comcast (Xfinity),Mediacom,Mediacom,75635,0.195,2668787,2.834,2336,75247
+40,Comcast (Xfinity),Connext Networks,Connext Networks,71907,0.185,72572,99.084,71907,0
+41,Comcast (Xfinity),"Ripple Fiber, LLC","Ripple Fiber, LLC",71251,0.184,206137,34.565,71251,0
+42,Comcast (Xfinity),Service Electric,Service Electric,71125,0.183,424904,16.739,3588,70908
+43,Comcast (Xfinity),"Schurz Communications, Inc.","Schurz Communications, Inc.",61448,0.158,127698,48.12,51391,24964
+44,Comcast (Xfinity),"Delta Communications, LLC","Delta Communications, LLC",60292,0.155,170364,35.39,60292,0
+45,Comcast (Xfinity),Allo Communications LLC,Allo Communications LLC,58002,0.15,436620,13.284,58002,0
+46,Comcast (Xfinity),Gateway Fiber Holdings LLC,Gateway Fiber Holdings LLC,55896,0.144,134105,41.681,55896,0
+47,Comcast (Xfinity),"Everfast Fiber Networks, LLC","Everfast Fiber Networks, LLC",55135,0.142,290684,18.967,55135,3537
+48,Comcast (Xfinity),"Conexon Connect, LLC","Conexon Connect, LLC",54117,0.14,415600,13.021,54117,0
+49,Comcast (Xfinity),"MTE Holdings, LLC","MTE Holdings, LLC",54034,0.139,104352,51.781,54034,0
+50,Comcast (Xfinity),"Race Telecommunications, Inc.","Race Telecommunications, Inc.",50946,0.131,142205,35.826,50946,0
+51,Comcast (Xfinity),"TPC ACC Acquisition, LLC","TPC ACC Acquisition, LLC",49870,0.129,74452,66.983,41492,11299
+52,Comcast (Xfinity),BAM Broadband OpCo LLC,BAM Broadband OpCo LLC,48633,0.125,60141,80.865,48633,0
+53,Comcast (Xfinity),"Underline El Paso, LLC","Underline El Paso, LLC",42267,0.109,42357,99.788,42267,0
+54,Comcast (Xfinity),City of Fort Collins,City of Fort Collins,41678,0.107,41781,99.753,41678,0
+55,Comcast (Xfinity),"Cumberland Connect, LLC","Cumberland Connect, LLC",41101,0.106,93828,43.805,41101,0
+56,Comcast (Xfinity),"Pavlov Media, Inc.","Pavlov Media, Inc.",38235,0.099,114421,33.416,38235,0
+57,Comcast (Xfinity),"IsoFusion, Inc.","IsoFusion, Inc.",37326,0.096,86134,43.335,37326,0
+58,Comcast (Xfinity),"Fastbridge Fiber, LLC","Fastbridge Fiber, LLC",36796,0.095,50637,72.666,36796,0
+59,Comcast (Xfinity),Armstrong,Armstrong,36138,0.093,462472,7.814,27953,12320
+60,Comcast (Xfinity),"GreyStone Connect, LLC","GreyStone Connect, LLC",35330,0.091,40990,86.192,35330,0
+61,Comcast (Xfinity),Hunter Communications & Technologies LLC,Hunter Communications & Technologies LLC,34937,0.09,89041,39.237,34937,0
+62,Comcast (Xfinity),"Greenlight Networks, LLC","Greenlight Networks, LLC",33874,0.087,286873,11.808,33874,0
+63,Comcast (Xfinity),"Falcon Broadband, Inc.","Falcon Broadband, Inc.",31957,0.082,34480,92.683,29882,2075
+64,Comcast (Xfinity),City of Loveland,City of Loveland,31645,0.082,32620,97.011,31645,0
+65,Comcast (Xfinity),City of Longmont,City of Longmont,30516,0.079,30983,98.493,30516,0
+66,Comcast (Xfinity),Empire Telephone Corporation/North Penn Telephone Company,Empire Telephone Corporation/North Penn Telephone Company,29261,0.075,161013,18.173,29261,0
+67,Comcast (Xfinity),"All West Communications, Inc.","All West Communications, Inc.",28492,0.073,60186,47.34,28492,0
+68,Comcast (Xfinity),Ritter,Ritter,26545,0.068,177817,14.928,23740,2811
+69,Comcast (Xfinity),Blue Ridge Communications,Blue Ridge Communications,24157,0.062,275256,8.776,16477,7680
+70,Comcast (Xfinity),Johnson City Energy Authority,Johnson City Energy Authority,22611,0.058,44974,50.276,22611,0
+71,Comcast (Xfinity),Brandenburg Communications Corp.,Brandenburg Communications Corp.,22334,0.058,54671,40.852,22334,0
+72,Comcast (Xfinity),"Orlando Telephone Company, Inc.","Orlando Telephone Company, Inc.",22217,0.057,34380,64.622,20909,1341
+73,Comcast (Xfinity),Midwest Energy Cooperative,Midwest Energy Cooperative,21892,0.056,90098,24.298,21892,0
+74,Comcast (Xfinity),First Electric Cooperative Corporation,First Electric Cooperative Corporation,21271,0.055,82726,25.713,21271,0
+75,Comcast (Xfinity),Northcentral Electric Cooperative,Northcentral Electric Cooperative,20833,0.054,26834,77.637,20833,0
+76,Comcast (Xfinity),"MCC Network Services, LLC","MCC Network Services, LLC",20475,0.053,121140,16.902,20475,0
+77,Comcast (Xfinity),Tillman Global Holdings,Tillman Global Holdings,20036,0.052,85790,23.355,20036,0
+78,Comcast (Xfinity),"City of Lehi, Utah","City of Lehi, Utah",19372,0.05,19878,97.454,19372,0
+79,Comcast (Xfinity),"Aeneas Communications, LLC","Aeneas Communications, LLC",19017,0.049,78549,24.21,19017,0
+80,Comcast (Xfinity),Adams Telephone Co-Operative,Adams Telephone Co-Operative,18882,0.049,31534,59.878,18882,0
+81,Comcast (Xfinity),"Home Telephone Company, Inc. (SC)","Home Telephone Company, Inc. (SC)",18476,0.048,68367,27.025,17487,996
+82,Comcast (Xfinity),"Salsgiver, Inc.","Salsgiver, Inc.",18418,0.047,21044,87.521,18418,0
+83,Comcast (Xfinity),"Zito West Holding, LLC","Zito West Holding, LLC",18077,0.047,265591,6.806,809,17862
+84,Comcast (Xfinity),"Reserve Holdings, Inc.","Reserve Holdings, Inc.",16551,0.043,33436,49.501,28,16547
+85,Comcast (Xfinity),Hancock Rural Telephone Corporation,Hancock Rural Telephone Corporation,15674,0.04,26955,58.149,15674,0
+86,Comcast (Xfinity),"Smithville Holding Company, Inc.","Smithville Holding Company, Inc.",15615,0.04,29729,52.524,15615,0
+87,Comcast (Xfinity),Wire 3 Holdings,Wire 3 Holdings,15502,0.04,119263,12.998,15502,0
+88,Comcast (Xfinity),Direct Management Company,Direct Management Company,15044,0.039,37407,40.217,13985,1060
+89,Comcast (Xfinity),"New Paris Telephone Company, Inc.","New Paris Telephone Company, Inc.",15027,0.039,26237,57.274,14114,4304
+90,Comcast (Xfinity),Lenoir City Utility Board,Lenoir City Utility Board,15002,0.039,34362,43.659,15002,0
+91,Comcast (Xfinity),Westfield Gas & Electric,Westfield Gas & Electric,14949,0.039,26848,55.68,14949,0
+92,Comcast (Xfinity),"123.Net, Inc.","123.Net, Inc.",13670,0.035,30983,44.121,13670,0
+93,Comcast (Xfinity),Tombigbee Electric Power Association,Tombigbee Electric Power Association,12834,0.033,43221,29.694,12834,0
+94,Comcast (Xfinity),"D & P Communications, Inc.","D & P Communications, Inc.",12552,0.032,18995,66.081,11002,2967
+95,Comcast (Xfinity),Spanish Fork City,Spanish Fork City,12379,0.032,12664,97.75,12379,12379
+96,Comcast (Xfinity),"Lyte Fiber, LLC","Lyte Fiber, LLC",12000,0.031,27250,44.037,12000,0
+97,Comcast (Xfinity),City of Dickson Department of Electricity,City of Dickson Department of Electricity,11909,0.031,18301,65.073,11909,0
+98,Comcast (Xfinity),"Highland Telephone Cooperative, Inc. (KY & TN)","Highland Telephone Cooperative, Inc. (KY & TN)",11873,0.031,29889,39.724,11873,0
+99,Comcast (Xfinity),"Vermont Telephone Company, Inc.","Vermont Telephone Company, Inc.",11670,0.03,16134,72.332,11670,0
+100,Comcast (Xfinity),Central Virginia Electric Cooperative,Central Virginia Electric Cooperative,11655,0.03,74153,15.718,11655,0
+101,Comcast (Xfinity),"MSEC Communications, LLC","MSEC Communications, LLC",11603,0.03,40856,28.4,11603,0
+102,Comcast (Xfinity),"Palmetto Rural Telephone Cooperative, Inc.","Palmetto Rural Telephone Cooperative, Inc.",11518,0.03,41495,27.758,11518,0
+103,Comcast (Xfinity),"Talkie Communications, Inc.","Talkie Communications, Inc.",11518,0.03,35773,32.197,11518,0
+104,Comcast (Xfinity),Johnson County Rural Electric Membership Cooperative,Johnson County Rural Electric Membership Cooperative,11093,0.029,16076,69.003,11093,0
+105,Comcast (Xfinity),"CarolinaConnect Cooperative, Inc.","CarolinaConnect Cooperative, Inc.",10750,0.028,111725,9.622,10750,0
+106,Comcast (Xfinity),East Mississippi Electric Power Association,East Mississippi Electric Power Association,10608,0.027,35291,30.059,10608,0
+107,Comcast (Xfinity),Wilkes Telephone Membership Corporation,Wilkes Telephone Membership Corporation,10607,0.027,61212,17.328,10607,0
+108,Comcast (Xfinity),"DE Fastlink, LLC","DE Fastlink, LLC",10206,0.026,36714,27.799,10206,0
+109,Comcast (Xfinity),Holland Board of Public Works,Holland Board of Public Works,9937,0.026,10158,97.824,9937,0
+110,Comcast (Xfinity),"DeKalb Telephone Cooperative, Inc.","DeKalb Telephone Cooperative, Inc.",9886,0.025,31540,31.344,9886,0
+111,Comcast (Xfinity),"ENMR Telephone Cooperative, Inc.","ENMR Telephone Cooperative, Inc.",9736,0.025,63317,15.377,9736,0
+112,Comcast (Xfinity),"Planters Rural Telephone Cooperative, Inc.","Planters Rural Telephone Cooperative, Inc.",9659,0.025,19726,48.966,9659,0
+113,Comcast (Xfinity),Alcorn County Electric Power Association,Alcorn County Electric Power Association,9626,0.025,25497,37.753,9626,0
+114,Comcast (Xfinity),Greeneville Energy Authority,Greeneville Energy Authority,8992,0.023,9978,90.118,8992,0
+115,Comcast (Xfinity),Citizens Telephone Company of Kecksburg,Citizens Telephone Company of Kecksburg,8962,0.023,12627,70.975,8962,0
+116,Comcast (Xfinity),South Central Indiana Rural Electric Membership Corporation,South Central Indiana Rural Electric Membership Corporation,8838,0.023,29274,30.191,8838,0
+117,Comcast (Xfinity),Cox,Charter + Cox (Spectrum),8812,0.023,7297869,0.121,305,8526
+118,Comcast (Xfinity),LICT Corporation,LICT Corporation,8582,0.022,73489,11.678,7542,3581
+119,Comcast (Xfinity),East Central Vermont Telecommunications District,East Central Vermont Telecommunications District,8502,0.022,25000,34.008,8502,0
+120,Comcast (Xfinity),"West Carolina Rural Telephone Cooperative, Inc.","West Carolina Rural Telephone Cooperative, Inc.",8364,0.022,102861,8.131,8364,0
+121,Comcast (Xfinity),Granite State Communications,Granite State Communications,8232,0.021,9981,82.477,8232,0
+122,Comcast (Xfinity),ZiTEL LLC,ZiTEL LLC,7883,0.02,23074,34.164,7883,0
+123,Comcast (Xfinity),Adams CATV Inc.,Adams CATV Inc.,7722,0.02,37007,20.866,4072,3650
+124,Comcast (Xfinity),City of Hillsboro,City of Hillsboro,7713,0.02,7751,99.51,7713,0
+125,Comcast (Xfinity),Mid Century Telephone Co-operative,Mid Century Telephone Co-operative,7681,0.02,23145,33.186,7681,0
+126,Comcast (Xfinity),Centric Infrastructure Group LLC,Centric Infrastructure Group LLC,7223,0.019,22062,32.74,7223,0
+127,Comcast (Xfinity),Twin Lakes Telephone Cooperative Corporation,Twin Lakes Telephone Cooperative Corporation,7209,0.019,67484,10.683,7209,0
+128,Comcast (Xfinity),NITCO Holding Corporation,NITCO Holding Corporation,6985,0.018,11253,62.072,6985,0
+129,Comcast (Xfinity),KEPS Technologies Inc.,KEPS Technologies Inc.,6824,0.018,8533,79.972,6824,0
+130,Comcast (Xfinity),"Nuvera Communications, Inc.","Nuvera Communications, Inc.",6789,0.018,41685,16.286,6279,510
+131,Comcast (Xfinity),"Great Plains Communications, Inc.","Great Plains Communications, Inc.",6729,0.017,77515,8.681,6729,0
+132,Comcast (Xfinity),"North Central Telephone Cooperative, Inc.","North Central Telephone Cooperative, Inc.",6689,0.017,66713,10.027,6689,0
+133,Comcast (Xfinity),Tipmont Rural Electric Membership Corporation,Tipmont Rural Electric Membership Corporation,6610,0.017,17654,37.442,6610,0
+134,Comcast (Xfinity),Southeast Colorado Power Association,Southeast Colorado Power Association,6609,0.017,15177,43.546,6609,0
+135,Comcast (Xfinity),altafiber (Cincinnati Bell),altafiber (Cincinnati Bell),6580,0.017,953589,0.69,6580,0
+136,Comcast (Xfinity),Southeastern Indiana Rural Electric Membership Corporation,Southeastern Indiana Rural Electric Membership Corporation,6406,0.017,20449,31.327,6406,0
+137,Comcast (Xfinity),"Agri-Valley Communications, Inc.","Agri-Valley Communications, Inc.",6353,0.016,7266,87.435,6353,0
+138,Comcast (Xfinity),"ITC Broadband Operating, LLC","ITC Broadband Operating, LLC",6279,0.016,59428,10.566,6279,0
+139,Comcast (Xfinity),Erwin Utilities,Erwin Utilities,6236,0.016,7531,82.804,6236,0
+140,Comcast (Xfinity),Norwood Light Department Broadband Division,Norwood Light Department Broadband Division,6235,0.016,6245,99.84,466,5769
+141,Comcast (Xfinity),MTCO Corporation,MTCO Corporation,6101,0.016,11538,52.877,6101,0
+142,Comcast (Xfinity),"Mercury Broadband, LLC","Mercury Broadband, LLC",6101,0.016,19506,31.278,6101,0
+143,Comcast (Xfinity),"Rochester Telephone Company, Inc.","Rochester Telephone Company, Inc.",5963,0.015,20613,28.928,5963,0
+144,Comcast (Xfinity),South Hadley Electric Light Department,South Hadley Electric Light Department,5938,0.015,7652,77.601,5938,0
+145,Comcast (Xfinity),Wintek Corporation,Wintek Corporation,5916,0.015,6969,84.89,5916,0
+146,Comcast (Xfinity),"Clay County Rural Telephone Cooperative, Inc.","Clay County Rural Telephone Cooperative, Inc.",5856,0.015,32217,18.177,5856,0
+147,Comcast (Xfinity),"VFN Holdings, Inc.","VFN Holdings, Inc.",5832,0.015,52739,11.058,5832,0
+148,Comcast (Xfinity),"New Lisbon Telephone Company, Inc.","New Lisbon Telephone Company, Inc.",5764,0.015,8569,67.266,5764,0
+149,Comcast (Xfinity),"Abound Ventures, Inc.","Abound Ventures, Inc.",5692,0.015,7400,76.919,5692,0
+150,Comcast (Xfinity),"Lintel, Inc.","Lintel, Inc.",5554,0.014,14409,38.545,5005,550
+151,Comcast (Xfinity),Wyyerd,Wyyerd,5445,0.014,184790,2.947,5445,0
+152,Comcast (Xfinity),Kosciusko Rural Electric Membership Cooperative ,Kosciusko Rural Electric Membership Cooperative ,5400,0.014,18216,29.644,5400,0
+153,Comcast (Xfinity),Socket Telecom LLC,Socket Telecom LLC,5237,0.014,118266,4.428,5237,0
+154,Comcast (Xfinity),"Roosevelt County Rural Telephone Cooperative, Inc.","Roosevelt County Rural Telephone Cooperative, Inc.",5163,0.013,9089,56.805,5163,0
+155,Comcast (Xfinity),Orange County Broadband Authority,Orange County Broadband Authority,5142,0.013,11599,44.331,5142,0
+156,Comcast (Xfinity),"Massillon Cable TV, Inc.","Massillon Cable TV, Inc.",5136,0.013,84599,6.071,2259,2932
+157,Comcast (Xfinity),"TruVista Communications, Inc.","TruVista Communications, Inc.",5059,0.013,72345,6.993,5055,4
+158,Comcast (Xfinity),"Pulaski White Rural Telephone Cooperative, Inc.","Pulaski White Rural Telephone Cooperative, Inc.",5031,0.013,9036,55.677,5031,0
+159,Comcast (Xfinity),Boston Omaha Corporation,Boston Omaha Corporation,4924,0.013,25690,19.167,4924,0
+160,Comcast (Xfinity),"Smiling J, LLC","Smiling J, LLC",4848,0.012,6242,77.667,4848,0
+161,Comcast (Xfinity),Fail Telecommunication Corporation,Fail Telecommunication Corporation,4818,0.012,13021,37.002,4818,0
+162,Comcast (Xfinity),"Hiawatha Broadband Communications, Inc.","Hiawatha Broadband Communications, Inc.",4805,0.012,34465,13.942,4805,0
+163,Comcast (Xfinity),Franklin Electric Plant Board,Franklin Electric Plant Board,4629,0.012,5941,77.916,4629,0
+164,Comcast (Xfinity),"Darien Telephone Company, Inc.","Darien Telephone Company, Inc.",4553,0.012,7183,63.386,1687,2866
+165,Comcast (Xfinity),"Town of Concord, Massachusetts","Town of Concord, Massachusetts",4544,0.012,4552,99.824,4544,0
+166,Comcast (Xfinity),"City of Elberton, Georgia","City of Elberton, Georgia",4518,0.012,8709,51.877,610,3941
+167,Comcast (Xfinity),"Avative, LLC","Avative, LLC",4485,0.012,4523,99.16,4485,0
+168,Comcast (Xfinity),"Pineland Telephone Cooperative, Inc.","Pineland Telephone Cooperative, Inc.",4468,0.012,36524,12.233,4468,0
+169,Comcast (Xfinity),Sebastian Enterprises,Sebastian Enterprises,4464,0.012,7410,60.243,4464,0
+170,Comcast (Xfinity),"4-County Fiber, LLC","4-County Fiber, LLC",4456,0.011,36449,12.225,4456,0
+171,Comcast (Xfinity),"Open Infra, Inc.","Open Infra, Inc.",4407,0.011,87397,5.043,4407,0
+172,Comcast (Xfinity),Newport Utilities,Newport Utilities,4259,0.011,19294,22.074,4259,0
+173,Comcast (Xfinity),Beaver Creek Cooperative Telephone Company,Beaver Creek Cooperative Telephone Company,4251,0.011,8615,49.344,1961,3659
+174,Comcast (Xfinity),UnWired Broadband Holding LLC,UnWired Broadband Holding LLC,4096,0.011,10152,40.347,4096,0
+175,Comcast (Xfinity),Selectronics Corporation,Selectronics Corporation,3987,0.01,11289,35.318,3987,0
+176,Comcast (Xfinity),"City of Sherwood, Oregon","City of Sherwood, Oregon",3957,0.01,4204,94.125,3957,0
+177,Comcast (Xfinity),Day Management Corporation,Day Management Corporation,3947,0.01,22749,17.35,3947,0
+178,Comcast (Xfinity),"Pembroke Telephone Company, Inc.","Pembroke Telephone Company, Inc.",3940,0.01,8161,48.278,3940,0
+179,Comcast (Xfinity),"Perry-Spencer Rural Telephone Cooperative, Inc.","Perry-Spencer Rural Telephone Cooperative, Inc.",3921,0.01,22676,17.291,3921,0
+180,Comcast (Xfinity),Kraus Electronics Systems Inc.,Kraus Electronics Systems Inc.,3875,0.01,8234,47.061,1167,3284
+181,Comcast (Xfinity),Jackson County Rural Electric Membership Corporation,Jackson County Rural Electric Membership Corporation,3845,0.01,26431,14.547,3845,0
+182,Comcast (Xfinity),Holston Electric Cooperative,Holston Electric Cooperative,3831,0.01,27565,13.898,3831,0
+183,Comcast (Xfinity),Kit Carson Electric Cooperative Inc.,Kit Carson Electric Cooperative Inc.,3771,0.01,20036,18.821,3771,0
+184,Comcast (Xfinity),South Central Rural Telecommunications Cooperative Inc.,South Central Rural Telecommunications Cooperative Inc.,3749,0.01,33754,11.107,3749,0
+185,Comcast (Xfinity),"New Hampshire Electric Cooperative, Inc.","New Hampshire Electric Cooperative, Inc.",3702,0.01,37942,9.757,3702,0
+186,Comcast (Xfinity),"Joink, LLC","Joink, LLC",3653,0.009,48734,7.496,3653,0
+187,Comcast (Xfinity),Foursight Communications LLC,Foursight Communications LLC,3631,0.009,44615,8.139,3631,0
+188,Comcast (Xfinity),Stayton Cooperative Telephone Company,Stayton Cooperative Telephone Company,3581,0.009,6784,52.786,3581,0
+189,Comcast (Xfinity),Rural Communications Holding Corporation,Rural Communications Holding Corporation,3529,0.009,28900,12.211,3529,0
+190,Comcast (Xfinity),Pearl River Valley Electric Power Association,Pearl River Valley Electric Power Association,3472,0.009,34276,10.13,3472,0
+191,Comcast (Xfinity),BerryComm LLC,BerryComm LLC,3449,0.009,5761,59.868,3449,0
+192,Comcast (Xfinity),City of Glenwood Springs,City of Glenwood Springs,3427,0.009,3450,99.333,3427,0
+193,Comcast (Xfinity),"Florida WiFi, LLC","Florida WiFi, LLC",3409,0.009,3412,99.912,3409,0
+194,Comcast (Xfinity),Benton Ridge Telephone Company,Benton Ridge Telephone Company,3390,0.009,9248,36.657,3390,0
+195,Comcast (Xfinity),"UBTA-UBET Communications, Inc.","UBTA-UBET Communications, Inc.",3364,0.009,20693,16.257,3364,0
+196,Comcast (Xfinity),"CASCO Communications, Inc.","CASCO Communications, Inc.",3357,0.009,6328,53.05,3357,0
+197,Comcast (Xfinity),"Strickland Communications, Inc.","Strickland Communications, Inc.",3353,0.009,11099,30.21,3353,0
+198,Comcast (Xfinity),"Ben Lomand Rural Telephone Coop., Inc.","Ben Lomand Rural Telephone Coop., Inc.",3265,0.008,65387,4.993,3265,0
+199,Comcast (Xfinity),McDonough Telephone Cooperative Inc.,McDonough Telephone Cooperative Inc.,3183,0.008,14286,22.281,3183,0
+200,Comcast (Xfinity),"JAB Wireless, Inc.","JAB Wireless, Inc.",3181,0.008,89596,3.55,3181,0
+201,Comcast (Xfinity),"Geneseo Communications, Inc.","Geneseo Communications, Inc.",3173,0.008,40226,7.888,3173,0
+202,Comcast (Xfinity),"City of Salem, Utah","City of Salem, Utah",3119,0.008,3220,96.863,3119,0
+203,Comcast (Xfinity),"New Hope Telephone Cooperative, Inc. (AL)","New Hope Telephone Cooperative, Inc. (AL)",3115,0.008,11107,28.045,3115,0
+204,Comcast (Xfinity),Tel-Star Communications of Florida Inc.,Tel-Star Communications of Florida Inc.,3090,0.008,3115,99.197,3090,0
+205,Comcast (Xfinity),Bay Country Communications,Bay Country Communications,3060,0.008,4476,68.365,65,3008
+206,Comcast (Xfinity),Ringgold Telephone Company,Ringgold Telephone Company,3047,0.008,11811,25.798,3047,0
+207,Comcast (Xfinity),"PCC Holdings, Inc.","PCC Holdings, Inc.",3008,0.008,41929,7.174,3008,0
+208,Comcast (Xfinity),"QCOL, Inc.","QCOL, Inc.",2888,0.007,13076,22.086,2888,0
+209,Comcast (Xfinity),"Dycom Holding, Inc.","Dycom Holding, Inc.",2867,0.007,12051,23.791,2867,0
+210,Comcast (Xfinity),Court Square Capital Partners,Court Square Capital Partners,2855,0.007,21035,13.573,2855,0
+211,Comcast (Xfinity),"Computer Techniques, Inc.","Computer Techniques, Inc.",2768,0.007,29140,9.499,2768,0
+212,Comcast (Xfinity),"LightGig Communications, LLC","LightGig Communications, LLC",2760,0.007,2850,96.842,2760,0
+213,Comcast (Xfinity),Jefferson County Cable,Jefferson County Cable,2741,0.007,13989,19.594,169,2572
+214,Comcast (Xfinity),Scott County Telephone Cooperative,Scott County Telephone Cooperative,2714,0.007,47277,5.741,2714,0
+215,Comcast (Xfinity),Netwave Broadband,Netwave Broadband,2691,0.007,9161,29.375,2691,0
+216,Comcast (Xfinity),Coastal Electric Membership Corporation,Coastal Electric Membership Corporation,2667,0.007,7535,35.395,2667,0
+217,Comcast (Xfinity),"Cambridge TelCom, Inc.","Cambridge TelCom, Inc.",2652,0.007,5209,50.912,2652,0
+218,Comcast (Xfinity),"Suwannee Valley Electric Cooperative, Inc.","Suwannee Valley Electric Cooperative, Inc.",2616,0.007,21354,12.251,2616,0
+219,Comcast (Xfinity),Telephone Electronics Corporation,Telephone Electronics Corporation,2585,0.007,45372,5.697,2585,0
+220,Comcast (Xfinity),Choptank Electric Cooperative,Choptank Electric Cooperative,2556,0.007,13997,18.261,2556,0
+221,Comcast (Xfinity),"Home Town Cable TV, LLC","Home Town Cable TV, LLC",2556,0.007,13022,19.628,2550,10
+222,Comcast (Xfinity),"Wi-Fiber, Inc.","Wi-Fiber, Inc.",2504,0.006,13266,18.875,2504,0
+223,Comcast (Xfinity),"MGW Communications, Inc.","MGW Communications, Inc.",2460,0.006,6301,39.041,2460,0
+224,Comcast (Xfinity),City of Mont Belvieu,City of Mont Belvieu,2456,0.006,3457,71.044,2456,0
+225,Comcast (Xfinity),City of Anacortes,City of Anacortes,2452,0.006,2468,99.352,2452,0
+226,Comcast (Xfinity),"DoveTel Communications, LLC","DoveTel Communications, LLC",2443,0.006,15196,16.077,2443,0
+227,Comcast (Xfinity),JMZ Corporation,JMZ Corporation,2418,0.006,34925,6.923,2418,0
+228,Comcast (Xfinity),"Zoom Telcom, LLC","Zoom Telcom, LLC",2409,0.006,6244,38.581,2409,0
+229,Comcast (Xfinity),Luminate Fiber LLC,Luminate Fiber LLC,2377,0.006,9025,26.338,2377,0
+230,Comcast (Xfinity),Optic Loop Communications LLC,Optic Loop Communications LLC,2368,0.006,2549,92.899,2368,0
+231,Comcast (Xfinity),Quad State Internet LLC,Quad State Internet LLC,2342,0.006,2376,98.569,2342,0
+232,Comcast (Xfinity),"Citynet, LLC","Citynet, LLC",2330,0.006,27601,8.442,2330,0
+233,Comcast (Xfinity),"Omni Fiber, LLC","Omni Fiber, LLC",2313,0.006,207853,1.113,2313,0
+234,Comcast (Xfinity),Fiberhawk,Fiberhawk,2312,0.006,4722,48.962,2312,0
+235,Comcast (Xfinity),Tri-County Electric Membership Corporation,Tri-County Electric Membership Corporation,2305,0.006,31959,7.212,2305,0
+236,Comcast (Xfinity),"City of Griffin, Georgia","City of Griffin, Georgia",2292,0.006,2348,97.615,2292,0
+237,Comcast (Xfinity),Pioneer Telephone Cooperative (OR),Pioneer Telephone Cooperative (OR),2224,0.006,3893,57.128,2224,0
+238,Comcast (Xfinity),Meriwether Lewis Electric Cooperative,Meriwether Lewis Electric Cooperative,2173,0.006,32651,6.655,2173,0
+239,Comcast (Xfinity),"Laurel Highland Total Communications, Inc.","Laurel Highland Total Communications, Inc.",2116,0.005,13949,15.17,2116,0
+240,Comcast (Xfinity),Clear Creek Mutual Telephone Company,Clear Creek Mutual Telephone Company,2099,0.005,3486,60.212,11,2088
+241,Comcast (Xfinity),BARC Electric Cooperative,BARC Electric Cooperative,2089,0.005,10612,19.685,2089,0
+242,Comcast (Xfinity),Gervais Telephone Company,Gervais Telephone Company,1972,0.005,3701,53.283,1972,0
+243,Comcast (Xfinity),NEK Community Broadband,NEK Community Broadband,1946,0.005,9852,19.752,1946,0
+244,Comcast (Xfinity),Mecklenburg Electric Cooperative,Mecklenburg Electric Cooperative,1944,0.005,23921,8.127,1944,0
+245,Comcast (Xfinity),Monon Telephone Company Inc.,Monon Telephone Company Inc.,1939,0.005,2381,81.436,1939,0
+246,Comcast (Xfinity),Logonix Corporation,Logonix Corporation,1932,0.005,3129,61.745,1932,0
+247,Comcast (Xfinity),Green Hills Telephone Corporation,Green Hills Telephone Corporation,1925,0.005,13863,13.886,444,1493
+248,Comcast (Xfinity),Prince George Electric Cooperative,Prince George Electric Cooperative,1914,0.005,13312,14.378,1914,0
+249,Comcast (Xfinity),LTD Broadband LLC,LTD Broadband LLC,1886,0.005,18470,10.211,1886,0
+250,Comcast (Xfinity),"Force Broadband, LLC","Force Broadband, LLC",1855,0.005,5361,34.602,1855,0
+251,Comcast (Xfinity),"Aspire Networks 1, LLC","Aspire Networks 1, LLC",1844,0.005,44794,4.117,1844,0
+252,Comcast (Xfinity),West Kentucky Rural Telephone Cooperative Corp. Inc.,West Kentucky Rural Telephone Cooperative Corp. Inc.,1837,0.005,66625,2.757,1837,0
+253,Comcast (Xfinity),"Eastex Telephone Cooperative, Inc.","Eastex Telephone Cooperative, Inc.",1833,0.005,41866,4.378,1833,0
+254,Comcast (Xfinity),"Fiber by Central Florida, LLC","Fiber by Central Florida, LLC",1826,0.005,34851,5.239,1826,0
+255,Comcast (Xfinity),Mason County Public Utility District No. 3,Mason County Public Utility District No. 3,1823,0.005,6825,26.711,1823,0
+256,Comcast (Xfinity),Mulberry Cooperative Telephone Co. Inc.,Mulberry Cooperative Telephone Co. Inc.,1816,0.005,6484,28.007,1816,0
+257,Comcast (Xfinity),"Mountain Communications, LLC","Mountain Communications, LLC",1805,0.005,3471,52.002,1805,0
+258,Comcast (Xfinity),"Acme Communications, Inc.","Acme Communications, Inc.",1792,0.005,2020,88.713,1792,0
+259,Comcast (Xfinity),"Virginia Everywhere, LLC","Virginia Everywhere, LLC",1776,0.005,25263,7.03,1776,0
+260,Comcast (Xfinity),"Ballard Rural Telephone Cooperative Corporation, Inc.","Ballard Rural Telephone Cooperative Corporation, Inc.",1689,0.004,6630,25.475,1689,0
+261,Comcast (Xfinity),Southeastern Indiana Rural Telephone Cooperative,Southeastern Indiana Rural Telephone Cooperative,1670,0.004,8326,20.058,1670,0
+262,Comcast (Xfinity),WVVA.net Inc.,WVVA.net Inc.,1641,0.004,4068,40.339,1641,0
+263,Comcast (Xfinity),Pea River Electric Cooperative,Pea River Electric Cooperative,1639,0.004,20228,8.103,1639,0
+264,Comcast (Xfinity),TEPA Connect LLC,TEPA Connect LLC,1585,0.004,10551,15.022,1585,0
+265,Comcast (Xfinity),"Bloomingdale Telephone Company, Inc.","Bloomingdale Telephone Company, Inc.",1572,0.004,9683,16.235,1572,0
+266,Comcast (Xfinity),RJB Telecommunications Corp.,RJB Telecommunications Corp.,1571,0.004,13174,11.925,517,1435
+267,Comcast (Xfinity),Duke Broadband Inc.,Duke Broadband Inc.,1566,0.004,2037,76.878,1566,0
+268,Comcast (Xfinity),"Electric Plant Board of the City of Paducah, Kentucky","Electric Plant Board of the City of Paducah, Kentucky",1561,0.004,1561,100.0,1561,0
+269,Comcast (Xfinity),"Maverix Broadband, Inc.","Maverix Broadband, Inc.",1557,0.004,6783,22.954,1557,0
+270,Comcast (Xfinity),Plant Telephone Company,Plant Telephone Company,1543,0.004,26773,5.763,1543,0
+271,Comcast (Xfinity),"Quantum Telecommunications, Inc.","Quantum Telecommunications, Inc.",1521,0.004,2797,54.38,1521,0
+272,Comcast (Xfinity),Ellijay Telephone Company,Ellijay Telephone Company,1509,0.004,53645,2.813,1180,501
+273,Comcast (Xfinity),Altamaha Electric Corporation,Altamaha Electric Corporation,1497,0.004,18952,7.899,1497,0
+274,Comcast (Xfinity),"Hickory Utility Services, Inc.","Hickory Utility Services, Inc.",1453,0.004,7516,19.332,1453,0
+275,Comcast (Xfinity),Duo County Telephone Cooperative Inc.,Duo County Telephone Cooperative Inc.,1448,0.004,26042,5.56,1448,0
+276,Comcast (Xfinity),EATEL Corp.,EATEL Corp.,1441,0.004,91270,1.579,1439,2
+277,Comcast (Xfinity),Vyve Broadband,Vyve Broadband,1426,0.004,560197,0.255,1,1425
+278,Comcast (Xfinity),Davis Communications Inc.,Davis Communications Inc.,1426,0.004,3582,39.81,0,1426
+279,Comcast (Xfinity),"Declaration Networks Group, Inc.","Declaration Networks Group, Inc.",1355,0.003,3918,34.584,761,594
+280,Comcast (Xfinity),"Gargoyle Technologies, Inc.","Gargoyle Technologies, Inc.",1354,0.003,3305,40.968,1354,0
+281,Comcast (Xfinity),AMG Technology Investment Group LLC,AMG Technology Investment Group LLC,1332,0.003,103541,1.286,1332,0
+282,Comcast (Xfinity),Fort Pierce Utilities Authority,Fort Pierce Utilities Authority,1305,0.003,1324,98.565,1305,0
+283,Comcast (Xfinity),Douglas Electric Cooperative Inc.,Douglas Electric Cooperative Inc.,1285,0.003,56411,2.278,1285,0
+284,Comcast (Xfinity),"Centre WISP Venture Company, LLC","Centre WISP Venture Company, LLC",1282,0.003,5435,23.588,1282,0
+285,Comcast (Xfinity),Seimitsu Corporation,Seimitsu Corporation,1260,0.003,1296,97.222,1260,0
+286,Comcast (Xfinity),Digital Network Access Communications Inc.,Digital Network Access Communications Inc.,1225,0.003,1325,92.453,1225,0
+287,Comcast (Xfinity),Scatter Creek Ltd.,Scatter Creek Ltd.,1201,0.003,2360,50.89,1201,0
+288,Comcast (Xfinity),Lakeland Internet,Lakeland Internet,1193,0.003,3612,33.029,1193,0
+289,Comcast (Xfinity),"ACU Global, LLC","ACU Global, LLC",1186,0.003,1187,99.916,1186,0
+290,Comcast (Xfinity),Addison County Communications Union District,Addison County Communications Union District,1128,0.003,3348,33.692,1128,0
+291,Comcast (Xfinity),Signal West LLC,Signal West LLC,1128,0.003,1169,96.493,1128,0
+292,Comcast (Xfinity),"Little Miami Gig, LLC","Little Miami Gig, LLC",1080,0.003,8182,13.2,1080,0
+293,Comcast (Xfinity),"Hub66, Inc.","Hub66, Inc.",1035,0.003,5468,18.928,1035,0
+294,Comcast (Xfinity),AIRCELL Inc.,AIRCELL Inc.,1022,0.003,1980,51.616,1022,0
+295,Comcast (Xfinity),"Precision Data Solutions, LLC","Precision Data Solutions, LLC",994,0.003,1189,83.6,994,0
+296,Comcast (Xfinity),"Public Utility District #1 of Kitsap County, Washington","Public Utility District #1 of Kitsap County, Washington",985,0.003,2672,36.864,985,0
+297,Comcast (Xfinity),"Ponderosa Communications, Inc.","Ponderosa Communications, Inc.",982,0.003,4186,23.459,982,0
+298,Comcast (Xfinity),"Digital Connections, Inc.","Digital Connections, Inc.",906,0.002,10658,8.501,906,0
+299,Comcast (Xfinity),"Mainstream Fiber Networks, LLC","Mainstream Fiber Networks, LLC",879,0.002,35863,2.451,879,0
+300,Comcast (Xfinity),"Townes Telecommunications, Inc.","Townes Telecommunications, Inc.",877,0.002,10566,8.3,877,0
+301,Comcast (Xfinity),"WEHCO Video, Inc.","WEHCO Video, Inc.",866,0.002,172012,0.503,0,866
+302,Comcast (Xfinity),Brazoria Telephone Company,Brazoria Telephone Company,860,0.002,8160,10.539,294,567
+303,Comcast (Xfinity),"Carbon Valley Internet, LLC","Carbon Valley Internet, LLC",856,0.002,856,100.0,856,0
+304,Comcast (Xfinity),"Alyrica Networks, Inc.","Alyrica Networks, Inc.",856,0.002,2098,40.801,856,0
+305,Comcast (Xfinity),"City of Taunton, Massachusetts","City of Taunton, Massachusetts",855,0.002,863,99.073,855,0
+306,Comcast (Xfinity),American Heartland Fiber Networks LLC,American Heartland Fiber Networks LLC,847,0.002,5602,15.12,847,0
+307,Comcast (Xfinity),Sail Internet Holdings LLC,Sail Internet Holdings LLC,812,0.002,814,99.754,812,0
+308,Comcast (Xfinity),Satellite Operations Inc.,Satellite Operations Inc.,801,0.002,2416,33.154,801,0
+309,Comcast (Xfinity),Christensen Communications Company,Christensen Communications Company,792,0.002,1484,53.369,792,0
+310,Comcast (Xfinity),Glenwood Telephone Company,Glenwood Telephone Company,735,0.002,2364,31.091,735,0
+311,Comcast (Xfinity),Pennsylvania Telephone Company,Pennsylvania Telephone Company,733,0.002,917,79.935,733,0
+312,Comcast (Xfinity),Pierce Pepin Cooperative Services,Pierce Pepin Cooperative Services,714,0.002,8669,8.236,714,0
+313,Comcast (Xfinity),Wabash Mutual Telephone Company,Wabash Mutual Telephone Company,699,0.002,11632,6.009,699,0
+314,Comcast (Xfinity),"LaHarpe Telephone Company, Inc. (IL)","LaHarpe Telephone Company, Inc. (IL)",654,0.002,1273,51.375,654,0
+315,Comcast (Xfinity),"Tekify, LLC","Tekify, LLC",639,0.002,647,98.764,639,0
+316,Comcast (Xfinity),Mifflin County Wireless,Mifflin County Wireless,630,0.002,631,99.842,630,0
+317,Comcast (Xfinity),Citizens Telephone Cooperative (VA),Citizens Telephone Cooperative (VA),618,0.002,14074,4.391,616,2
+318,Comcast (Xfinity),"connectSCP, LLC","connectSCP, LLC",584,0.002,11498,5.079,584,0
+319,Comcast (Xfinity),Yeoman Telephone Company,Yeoman Telephone Company,575,0.001,693,82.973,575,0
+320,Comcast (Xfinity),Sebewaing Light and Water,Sebewaing Light and Water,567,0.001,605,93.719,567,0
+321,Comcast (Xfinity),"Eastern Slope Rural Telephone Association, Inc.","Eastern Slope Rural Telephone Association, Inc.",560,0.001,5063,11.061,560,0
+322,Comcast (Xfinity),"Air Advantage, LLC","Air Advantage, LLC",555,0.001,2398,23.144,555,0
+323,Comcast (Xfinity),"Baldwin Telecom, Inc.","Baldwin Telecom, Inc.",540,0.001,11849,4.557,540,0
+324,Comcast (Xfinity),"Clearnetworx, LLC","Clearnetworx, LLC",517,0.001,42928,1.204,517,0
+325,Comcast (Xfinity),Bijou Telephone Cooperative Association Inc.,Bijou Telephone Cooperative Association Inc.,509,0.001,1909,26.663,509,0
+326,Comcast (Xfinity),Thumb Electric Cooperative,Thumb Electric Cooperative,508,0.001,16635,3.054,508,0
+327,Comcast (Xfinity),Jasper County Rural Electric Membership Corporation,Jasper County Rural Electric Membership Corporation,481,0.001,4916,9.784,481,0
+328,Comcast (Xfinity),Sand Creek Communications Company,Sand Creek Communications Company,437,0.001,1370,31.898,437,0
+329,Comcast (Xfinity),Patriot Cable System LLC,Patriot Cable System LLC,430,0.001,826,52.058,0,430
+330,Comcast (Xfinity),SMR Communications,SMR Communications,405,0.001,953,42.497,0,405
+331,Comcast (Xfinity),New Hope Telephone Cooperative (VA),New Hope Telephone Cooperative (VA),394,0.001,1070,36.822,394,0
+332,Comcast (Xfinity),"Kinex Telecom, Inc.","Kinex Telecom, Inc.",392,0.001,7274,5.389,392,0
+333,Comcast (Xfinity),"Great Lakes Energy Connections, Inc.","Great Lakes Energy Connections, Inc.",380,0.001,64091,0.593,380,0
+334,Comcast (Xfinity),"Dunbarton Telephone Company, Inc.","Dunbarton Telephone Company, Inc.",360,0.001,1486,24.226,360,0
+335,Comcast (Xfinity),Geetingsville Telephone Company Inc.,Geetingsville Telephone Company Inc.,351,0.001,1099,31.938,351,0
+336,Comcast (Xfinity),Surfnet Communications,Surfnet Communications,339,0.001,3455,9.812,339,0
+337,Comcast (Xfinity),"iGo Technology, Inc.","iGo Technology, Inc.",324,0.001,2852,11.36,324,0
+338,Comcast (Xfinity),"Visionary Communications, Inc.","Visionary Communications, Inc.",303,0.001,49399,0.613,303,0
+339,Comcast (Xfinity),Lincolnville Telephone Company,Lincolnville Telephone Company,288,0.001,11214,2.568,288,0
+340,Comcast (Xfinity),Red Spectrum Communications LLC,Red Spectrum Communications LLC,286,0.001,1609,17.775,286,0
+341,Comcast (Xfinity),"Fiber Broadband, Inc.","Fiber Broadband, Inc.",285,0.001,319,89.342,285,0
+342,Comcast (Xfinity),Uplink Internet LLC,Uplink Internet LLC,256,0.001,2925,8.752,256,0
+343,Comcast (Xfinity),Aerux LLP,Aerux LLP,238,0.001,631,37.718,238,0
+344,Comcast (Xfinity),Biddeford Internet Corporation,Biddeford Internet Corporation,236,0.001,1927,12.247,236,0
+345,Comcast (Xfinity),"Starry, Inc.","Starry, Inc.",231,0.001,331,69.789,231,0
+346,Comcast (Xfinity),"Cass Communications Management, Inc.","Cass Communications Management, Inc.",223,0.001,30811,0.724,223,0
+347,Comcast (Xfinity),"On-Ramp Indiana, Inc.","On-Ramp Indiana, Inc.",223,0.001,1335,16.704,223,0
+348,Comcast (Xfinity),Silo Communications,Silo Communications,208,0.001,1279,16.263,208,0
+349,Comcast (Xfinity),Bristol Tennessee Essential Services,Bristol Tennessee Essential Services,196,0.001,26539,0.739,196,0
+350,Comcast (Xfinity),Morristown Utility System,Morristown Utility System,195,0.001,13148,1.483,195,0
+351,Comcast (Xfinity),"Alma Telecom, Inc.","Alma Telecom, Inc.",191,0.0,17893,1.067,191,0
+352,Comcast (Xfinity),Tri-County Electric Cooperative,Tri-County Electric Cooperative,190,0.0,29100,0.653,190,0
+353,Comcast (Xfinity),In The Stix Broadband LLC,In The Stix Broadband LLC,183,0.0,577,31.716,183,0
+354,Comcast (Xfinity),"NMsurf, Inc.","NMsurf, Inc.",180,0.0,183,98.361,180,0
+355,Comcast (Xfinity),"Electric Plant Board of the City of Hopkinsville, Kentucky","Electric Plant Board of the City of Hopkinsville, Kentucky",179,0.0,30955,0.578,179,0
+356,Comcast (Xfinity),Chicopee Municipal Lighting Plant,Chicopee Municipal Lighting Plant,176,0.0,14430,1.22,176,0
+357,Comcast (Xfinity),"James Bouse Enterprises, LLC","James Bouse Enterprises, LLC",173,0.0,6929,2.497,173,0
+358,Comcast (Xfinity),Tallahatchie Valley Internet Services,Tallahatchie Valley Internet Services,173,0.0,27041,0.64,173,0
+359,Comcast (Xfinity),Canby Telephone Association,Canby Telephone Association,171,0.0,10677,1.602,171,0
+360,Comcast (Xfinity),Habersham Electric Membership Corporation,Habersham Electric Membership Corporation,169,0.0,32123,0.526,169,0
+361,Comcast (Xfinity),"Internet Management Services, Inc.","Internet Management Services, Inc.",167,0.0,1456,11.47,167,0
+362,Comcast (Xfinity),"HiCountryNet, LLC","HiCountryNet, LLC",165,0.0,401,41.147,165,0
+363,Comcast (Xfinity),"High Mountain Farm, LLC","High Mountain Farm, LLC",162,0.0,1405,11.53,162,0
+364,Comcast (Xfinity),"Llancunet Solutions, LLC","Llancunet Solutions, LLC",161,0.0,161,100.0,161,0
+365,Comcast (Xfinity),"Simple Fiber, LLC","Simple Fiber, LLC",161,0.0,162,99.383,161,0
+366,Comcast (Xfinity),Velofi LLC,Velofi LLC,153,0.0,423,36.17,153,0
+367,Comcast (Xfinity),"Knightcom, Inc.","Knightcom, Inc.",153,0.0,409,37.408,153,0
+368,Comcast (Xfinity),"TelAtlantic, Inc.","TelAtlantic, Inc.",152,0.0,2429,6.258,152,0
+369,Comcast (Xfinity),"WiFast, LLC","WiFast, LLC",147,0.0,176,83.523,147,0
+370,Comcast (Xfinity),Craig-Botetourt Electric Cooperative,Craig-Botetourt Electric Cooperative,142,0.0,1440,9.861,142,0
+371,Comcast (Xfinity),"Airwave Networks, LLC","Airwave Networks, LLC",128,0.0,331,38.671,128,0
+372,Comcast (Xfinity),Ace Telephone Association,Ace Telephone Association,121,0.0,30309,0.399,121,0
+373,Comcast (Xfinity),Cruzio Internet,Cruzio Internet,120,0.0,123,97.561,120,0
+374,Comcast (Xfinity),City of Wyandotte,City of Wyandotte,118,0.0,9876,1.195,118,118
+375,Comcast (Xfinity),"NocTel Communications, Inc.","NocTel Communications, Inc.",118,0.0,685,17.226,118,0
+376,Comcast (Xfinity),"DMCI Broadband, LLC","DMCI Broadband, LLC",115,0.0,2911,3.951,115,0
+377,Comcast (Xfinity),Midco,Midco,108,0.0,650944,0.017,61,47
+378,Comcast (Xfinity),"Claverack Communications, Inc.","Claverack Communications, Inc.",105,0.0,12100,0.868,105,0
+379,Comcast (Xfinity),BreezeAir Networks LLC,BreezeAir Networks LLC,105,0.0,689,15.239,105,0
+380,Comcast (Xfinity),Happy Cycling LLC,Happy Cycling LLC,98,0.0,98,100.0,98,0
+381,Comcast (Xfinity),Chapin Communications Corporation,Chapin Communications Corporation,98,0.0,2876,3.408,98,0
+382,Comcast (Xfinity),"Block Communications, Inc.","Block Communications, Inc.",97,0.0,326208,0.03,39,67
+383,Comcast (Xfinity),"Franklin Telephone Co., Inc.","Franklin Telephone Co., Inc.",96,0.0,902,10.643,96,0
+384,Comcast (Xfinity),"Enlightened by Woodruff Electric, LLC","Enlightened by Woodruff Electric, LLC",96,0.0,7890,1.217,96,0
+385,Comcast (Xfinity),VITALink LLC,VITALink LLC,92,0.0,7076,1.3,92,0
+386,Comcast (Xfinity),Pear Networks LLC,Pear Networks LLC,85,0.0,1619,5.25,85,0
+387,Comcast (Xfinity),Newaygo County Regional Educational Service Agency,Newaygo County Regional Educational Service Agency,81,0.0,407,19.902,81,0
+388,Comcast (Xfinity),LaGrange County Rural Membership Corporation,LaGrange County Rural Membership Corporation,79,0.0,10582,0.747,79,0
+389,Comcast (Xfinity),Getwireless.net,Getwireless.net,78,0.0,83,93.976,78,0
+390,Comcast (Xfinity),"Eastern Indiana WIFI, Inc.","Eastern Indiana WIFI, Inc.",77,0.0,77,100.0,77,0
+391,Comcast (Xfinity),"SVE Connect, LLC","SVE Connect, LLC",72,0.0,12732,0.566,72,0
+392,Comcast (Xfinity),DayStarr LLC,DayStarr LLC,67,0.0,12347,0.543,67,0
+393,Comcast (Xfinity),"Arvig Enterprises, Inc.","Arvig Enterprises, Inc.",66,0.0,86237,0.077,66,0
+394,Comcast (Xfinity),Lennon Telephone Company,Lennon Telephone Company,64,0.0,4377,1.462,0,64
+395,Comcast (Xfinity),"FastTrack Communications, Inc.","FastTrack Communications, Inc.",62,0.0,509,12.181,62,0
+396,Comcast (Xfinity),Deerfield Valley Communications Union District,Deerfield Valley Communications Union District,61,0.0,2700,2.259,61,0
+397,Comcast (Xfinity),Los Altos Hills Community Fiber,Los Altos Hills Community Fiber,59,0.0,68,86.765,59,0
+398,Comcast (Xfinity),Somerfield Cable TV,Somerfield Cable TV,57,0.0,932,6.116,0,57
+399,Comcast (Xfinity),Pathfinder LLC,Pathfinder LLC,57,0.0,156,36.538,57,0
+400,Comcast (Xfinity),ClearPath Fiber LLC,ClearPath Fiber LLC,53,0.0,737,7.191,53,0
+401,Comcast (Xfinity),ZMP Holding Company,ZMP Holding Company,50,0.0,587,8.518,50,0
+402,Comcast (Xfinity),"ATN International, Inc.","ATN International, Inc.",50,0.0,41780,0.12,50,0
+403,Comcast (Xfinity),"Southeastern Services, Inc.","Southeastern Services, Inc.",50,0.0,80,62.5,50,0
+404,Comcast (Xfinity),Haywire,Haywire,47,0.0,136,34.559,47,0
+405,Comcast (Xfinity),Lyme Fiber LLC,Lyme Fiber LLC,46,0.0,1051,4.377,46,0
+406,Comcast (Xfinity),"Mansfield Community Fiber, Inc.","Mansfield Community Fiber, Inc.",43,0.0,1691,2.543,43,0
+407,Comcast (Xfinity),Us New Era Internet Corp.,Us New Era Internet Corp.,42,0.0,43,97.674,42,0
+408,Comcast (Xfinity),The North-Eastern Pennsylvania Telephone Company,The North-Eastern Pennsylvania Telephone Company,42,0.0,15588,0.269,42,0
+409,Comcast (Xfinity),"Myakka Communications, Inc.","Myakka Communications, Inc.",39,0.0,4950,0.788,39,0
+410,Comcast (Xfinity),Skyline Telephone Membership Corporation,Skyline Telephone Membership Corporation,38,0.0,60122,0.063,38,0
+411,Comcast (Xfinity),"Planet Networks, Inc.","Planet Networks, Inc.",35,0.0,52084,0.067,35,0
+412,Comcast (Xfinity),Gearheart Communications,Gearheart Communications,34,0.0,36819,0.092,0,34
+413,Comcast (Xfinity),CG Computer Works LLC,CG Computer Works LLC,33,0.0,22621,0.146,33,0
+414,Comcast (Xfinity),"Northeast Communications of Wisconsin, Inc.","Northeast Communications of Wisconsin, Inc.",31,0.0,10491,0.295,31,0
+415,Comcast (Xfinity),"Michwave Technologies, Inc.","Michwave Technologies, Inc.",29,0.0,491,5.906,29,0
+416,Comcast (Xfinity),"Southeast MN Wifi, LLC","Southeast MN Wifi, LLC",23,0.0,1199,1.918,23,0
+417,Comcast (Xfinity),Nevada County Fiber Inc.,Nevada County Fiber Inc.,22,0.0,309,7.12,22,0
+418,Comcast (Xfinity),"Ogden Communications, Inc.","Ogden Communications, Inc.",22,0.0,543,4.052,22,0
+419,Comcast (Xfinity),"Montgomery County, Maryland","Montgomery County, Maryland",22,0.0,22,100.0,22,0
+420,Comcast (Xfinity),"TecInfo Communications, LLC","TecInfo Communications, LLC",21,0.0,4369,0.481,21,0
+421,Comcast (Xfinity),"Albion Telephone Company, Inc.","Albion Telephone Company, Inc.",21,0.0,5551,0.378,21,0
+422,Comcast (Xfinity),OpenCape Corporation,OpenCape Corporation,20,0.0,20,100.0,20,0
+423,Comcast (Xfinity),"Tel-Star Cablevision, Inc.","Tel-Star Cablevision, Inc.",17,0.0,5501,0.309,0,17
+424,Comcast (Xfinity),OGC Fiber Networks Lago Mar,OGC Fiber Networks Lago Mar,17,0.0,27,62.963,17,0
+425,Comcast (Xfinity),"Eastern Shore Communications, LLC","Eastern Shore Communications, LLC",16,0.0,1945,0.823,16,0
+426,Comcast (Xfinity),"Fatbeam Holdings, LLC","Fatbeam Holdings, LLC",16,0.0,16958,0.094,16,0
+427,Comcast (Xfinity),Fusion Networks,Fusion Networks,16,0.0,16,100.0,16,0
+428,Comcast (Xfinity),Easton Utilities Commission,Easton Utilities Commission,16,0.0,11698,0.137,12,4
+429,Comcast (Xfinity),"Etheric Communications, LLC.","Etheric Communications, LLC.",15,0.0,15,100.0,15,0
+430,Comcast (Xfinity),"Springcom, Inc.","Springcom, Inc.",14,0.0,2101,0.666,14,14
+431,Comcast (Xfinity),Raymond Mazeika,Raymond Mazeika,13,0.0,16,81.25,13,0
+432,Comcast (Xfinity),Volcano Communications Company,Volcano Communications Company,13,0.0,6319,0.206,13,0
+433,Comcast (Xfinity),"Farmers Telecommunications Cooperative, Inc.","Farmers Telecommunications Cooperative, Inc.",12,0.0,38365,0.031,12,0
+434,Comcast (Xfinity),"Consolidated Smart Broadband Systems, LLC","Consolidated Smart Broadband Systems, LLC",11,0.0,83,13.253,7,4
+435,Comcast (Xfinity),Alpha Technologies Inc.,Alpha Technologies Inc.,10,0.0,32,31.25,10,0
+436,Comcast (Xfinity),Craighead Elecric Cooperative Corporation,Craighead Elecric Cooperative Corporation,10,0.0,29472,0.034,10,0
+437,Comcast (Xfinity),"CableSouth Media III, LLC","CableSouth Media III, LLC",9,0.0,119756,0.008,1,8
+438,Comcast (Xfinity),Tri-County Rural Electric Cooperative,Tri-County Rural Electric Cooperative,9,0.0,18971,0.047,9,0
+439,Comcast (Xfinity),CDE Lightband,CDE Lightband,9,0.0,68828,0.013,9,0
+440,Comcast (Xfinity),Inyo Networks Inc.,Inyo Networks Inc.,9,0.0,6146,0.146,9,0
+441,Comcast (Xfinity),"MiFiber Holding, LLC","MiFiber Holding, LLC",8,0.0,6131,0.13,8,0
+442,Comcast (Xfinity),Jo-Carroll Electric Cooperative Inc.,Jo-Carroll Electric Cooperative Inc.,8,0.0,25878,0.031,8,0
+443,Comcast (Xfinity),"Aervivo, Inc.","Aervivo, Inc.",8,0.0,9,88.889,8,0
+444,Comcast (Xfinity),ICS Advanced Technologies,ICS Advanced Technologies,8,0.0,252,3.175,8,0
+445,Comcast (Xfinity),"D and B Broadband, LLC","D and B Broadband, LLC",7,0.0,9,77.778,7,0
+446,Comcast (Xfinity),"SkyNet360, LLC","SkyNet360, LLC",6,0.0,6,100.0,6,0
+447,Comcast (Xfinity),"Ligonier Telephone Co., Inc.","Ligonier Telephone Co., Inc.",6,0.0,19165,0.031,6,0
+448,Comcast (Xfinity),"Jackson Broadband, Inc.","Jackson Broadband, Inc.",6,0.0,823,0.729,4,2
+449,Comcast (Xfinity),"Tombigbee Electric Cooperative, Inc.","Tombigbee Electric Cooperative, Inc.",5,0.0,49873,0.01,5,0
+450,Comcast (Xfinity),Alma Communications Company,Alma Communications Company,5,0.0,383,1.305,5,0
+451,Comcast (Xfinity),"Diverse Power, Inc.","Diverse Power, Inc.",5,0.0,5364,0.093,5,0
+452,Comcast (Xfinity),"East Creek Networks, LLC","East Creek Networks, LLC",5,0.0,5,100.0,5,0
+453,Comcast (Xfinity),SkyRider Communications LLC,SkyRider Communications LLC,5,0.0,1604,0.312,5,0
+454,Comcast (Xfinity),Arrive Internet,Arrive Internet,5,0.0,2611,0.191,5,0
+455,Comcast (Xfinity),"Wellcom Technologies Highlands, LP","Wellcom Technologies Highlands, LP",5,0.0,853,0.586,5,0
+456,Comcast (Xfinity),Litebridge LLC,Litebridge LLC,4,0.0,175,2.286,4,0
+457,Comcast (Xfinity),"Electric Plant Board of the City of Glasgow, KY","Electric Plant Board of the City of Glasgow, KY",4,0.0,7788,0.051,0,4
+458,Comcast (Xfinity),"IBT Group USA, LLC","IBT Group USA, LLC",4,0.0,4,100.0,4,0
+459,Comcast (Xfinity),"Generate-Ubiquity Holdings, LLC","Generate-Ubiquity Holdings, LLC",4,0.0,179727,0.002,4,0
+460,Comcast (Xfinity),"9Stone, LLC","9Stone, LLC",4,0.0,10,40.0,4,0
+461,Comcast (Xfinity),"CalNeva Broadband, LLC","CalNeva Broadband, LLC",4,0.0,5507,0.073,0,4
+462,Comcast (Xfinity),Beaver Valley Cable Company,Beaver Valley Cable Company,4,0.0,2122,0.189,0,4
+463,Comcast (Xfinity),"Ragland Telephone Co., Inc.","Ragland Telephone Co., Inc.",3,0.0,1151,0.261,3,0
+464,Comcast (Xfinity),"Velocity Communications, Inc. (WA)","Velocity Communications, Inc. (WA)",3,0.0,61,4.918,3,0
+465,Comcast (Xfinity),"Xiber, LLC","Xiber, LLC",3,0.0,8,37.5,3,0
+466,Comcast (Xfinity),"DSI Management Holdings, LLC","DSI Management Holdings, LLC",3,0.0,252,1.19,3,0
+467,Comcast (Xfinity),Northwest Open Access Network,Northwest Open Access Network,3,0.0,2440,0.123,3,0
+468,Comcast (Xfinity),Aristotle Unified Communications Inc.,Aristotle Unified Communications Inc.,3,0.0,1319,0.227,3,0
+469,Comcast (Xfinity),"KC Web, Inc.","KC Web, Inc.",3,0.0,7,42.857,3,0
+470,Comcast (Xfinity),"Bulloch County Rural Telephone Cooperative, Inc.","Bulloch County Rural Telephone Cooperative, Inc.",3,0.0,17833,0.017,3,0
+471,Comcast (Xfinity),Nelson County Cablevision Corp.,Nelson County Cablevision Corp.,3,0.0,3173,0.095,3,0
+472,Comcast (Xfinity),iWiSP LLC,iWiSP LLC,3,0.0,1910,0.157,3,0
+473,Comcast (Xfinity),Ayva Limited,Ayva Limited,3,0.0,19,15.789,3,0
+474,Comcast (Xfinity),Tishomingo County Electric Power Association,Tishomingo County Electric Power Association,3,0.0,12107,0.025,3,0
+475,Comcast (Xfinity),"Taluslink, LLC","Taluslink, LLC",3,0.0,3,100.0,3,0
+476,Comcast (Xfinity),"City of Marshall, Michigan","City of Marshall, Michigan",3,0.0,2745,0.109,3,0
+477,Comcast (Xfinity),City of Greenfield,City of Greenfield,3,0.0,3,100.0,3,0
+478,Comcast (Xfinity),"yondoo Broadband, LLC","yondoo Broadband, LLC",2,0.0,2951,0.068,0,2
+479,Comcast (Xfinity),1 Point Communications,1 Point Communications,2,0.0,14,14.286,2,0
+480,Comcast (Xfinity),"Hawk Networks, Inc.","Hawk Networks, Inc.",2,0.0,2,100.0,0,2
+481,Comcast (Xfinity),Bledsoe Telephone Cooperative Inc.,Bledsoe Telephone Cooperative Inc.,2,0.0,14305,0.014,2,0
+482,Comcast (Xfinity),Sebago Fiber & Wifi LLC,Sebago Fiber & Wifi LLC,2,0.0,2492,0.08,2,0
+483,Comcast (Xfinity),The Toledo Telephone Company,The Toledo Telephone Company,2,0.0,4844,0.041,2,0
+484,Comcast (Xfinity),Gibson Electric Membership Corporation,Gibson Electric Membership Corporation,2,0.0,37411,0.005,2,0
+485,Comcast (Xfinity),City of Holyoke Gas & Electric Department,City of Holyoke Gas & Electric Department,2,0.0,2,100.0,2,0
+486,Comcast (Xfinity),Archtop Fiber Holdings LLC,Archtop Fiber Holdings LLC,2,0.0,24884,0.008,2,0
+487,Comcast (Xfinity),Pocomoke Holdings,Pocomoke Holdings,2,0.0,230,0.87,2,0
+488,Comcast (Xfinity),Bayou Cable Inc.,Bayou Cable Inc.,2,0.0,2823,0.071,0,2
+489,Comcast (Xfinity),Borough of Kutztown,Borough of Kutztown,2,0.0,1653,0.121,2,0
+490,Comcast (Xfinity),"Royell Communications, Inc.","Royell Communications, Inc.",2,0.0,5982,0.033,2,0
+491,Comcast (Xfinity),ORI.NET LLC,ORI.NET LLC,2,0.0,2,100.0,2,0
+492,Comcast (Xfinity),Aureon Network Services Inc.,Aureon Network Services Inc.,2,0.0,26,7.692,0,2
+493,Comcast (Xfinity),"CresComm WiFi, LLC","CresComm WiFi, LLC",1,0.0,20,5.0,1,0
+494,Comcast (Xfinity),Oak Run Associates Ltd.,Oak Run Associates Ltd.,1,0.0,4458,0.022,0,1
+495,Comcast (Xfinity),"Firstlight Fiber, Inc.","Firstlight Fiber, Inc.",1,0.0,5081,0.02,1,0
+496,Comcast (Xfinity),"Citizens Telephone Company of Hammond NY, Inc.","Citizens Telephone Company of Hammond NY, Inc.",1,0.0,7590,0.013,1,0
+497,Comcast (Xfinity),"Progressive Rural Telephone Co-Op., Inc.","Progressive Rural Telephone Co-Op., Inc.",1,0.0,8627,0.012,1,0
+498,Comcast (Xfinity),Trenton Telephone Co.,Trenton Telephone Co.,1,0.0,7792,0.013,1,0
+499,Comcast (Xfinity),"Anza Electric Cooperative, Inc.","Anza Electric Cooperative, Inc.",1,0.0,2572,0.039,1,0
+500,Comcast (Xfinity),Prentiss County Electric Power Association,Prentiss County Electric Power Association,1,0.0,12242,0.008,1,0
+501,Comcast (Xfinity),Natchez Trace Electric Power Association,Natchez Trace Electric Power Association,1,0.0,14221,0.007,1,0
+502,Comcast (Xfinity),"Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA","Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA",1,0.0,23094,0.004,1,0
+503,Comcast (Xfinity),"South Central Utah Telephone Association, Inc.","South Central Utah Telephone Association, Inc.",1,0.0,36185,0.003,1,0
+504,Comcast (Xfinity),Inland Cellular Telephone Company,Inland Cellular Telephone Company,1,0.0,7649,0.013,1,0
+505,Comcast (Xfinity),"Newmax, LLC","Newmax, LLC",1,0.0,7438,0.013,1,0
+506,Comcast (Xfinity),Petit Jean Electric Cooperative Corp.,Petit Jean Electric Cooperative Corp.,1,0.0,18323,0.005,1,0
+507,Comcast (Xfinity),"Decatur Holding Company, Inc.","Decatur Holding Company, Inc.",1,0.0,2982,0.034,1,0
+508,Comcast (Xfinity),"MachTen, Inc.","MachTen, Inc.",1,0.0,11007,0.009,1,0
+509,Comcast (Xfinity),"Schwartz Ventures, Inc.","Schwartz Ventures, Inc.",1,0.0,14242,0.007,0,1
+510,Comcast (Xfinity),Town of Shrewsbury,Town of Shrewsbury,1,0.0,11033,0.009,1,1
+511,Comcast (Xfinity),"Logan Telephone Cooperative, Inc.","Logan Telephone Cooperative, Inc.",1,0.0,8699,0.011,1,0
+512,Comcast (Xfinity),Monroe Telephone Company,Monroe Telephone Company,1,0.0,1435,0.07,1,0
+513,Comcast (Xfinity),Venus Telephone Corporation,Venus Telephone Corporation,1,0.0,1221,0.082,1,0
+514,Comcast (Xfinity),"Piedmont Rural Telephone Cooperative, Inc.","Piedmont Rural Telephone Cooperative, Inc.",1,0.0,17471,0.006,1,0
+515,Comcast (Xfinity),County of Orangeburg,County of Orangeburg,1,0.0,8150,0.012,1,0
+516,Comcast (Xfinity),"NE Colorado Cellular, Inc.","NE Colorado Cellular, Inc.",1,0.0,905,0.11,1,0
+517,Comcast (Xfinity),Nunn Telephone Company,Nunn Telephone Company,1,0.0,1147,0.087,1,0
+518,Comcast (Xfinity),Orange County REMC,Orange County REMC,1,0.0,22290,0.004,1,0
+519,Comcast (Xfinity),City of Auburn,City of Auburn,1,0.0,10919,0.009,1,0
+520,Comcast (Xfinity),"Believe Wireless, LLC","Believe Wireless, LLC",1,0.0,1,100.0,1,0
+521,Comcast (Xfinity),Jackson Energy Authority,Jackson Energy Authority,1,0.0,31207,0.003,1,0
+522,Comcast (Xfinity),"Cal.net, Inc.","Cal.net, Inc.",1,0.0,103,0.971,1,0
+523,Comcast (Xfinity),Tullahoma Utilities Authority,Tullahoma Utilities Authority,1,0.0,8647,0.012,1,0
+524,Comcast (Xfinity),Om Networks,Om Networks,1,0.0,152,0.658,1,0
+525,Comcast (Xfinity),"Clear Lake Telephone Company, Inc.","Clear Lake Telephone Company, Inc.",1,0.0,3833,0.026,1,0

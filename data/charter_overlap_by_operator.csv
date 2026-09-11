@@ -1,0 +1,657 @@
+rank,target,operator_as_filed,current_parent,overlap_bsls,pct_of_target_footprint,their_total_footprint_bsls,pct_of_their_footprint,overlap_their_fiber_bsls,overlap_their_cable_bsls
+1,Charter (Spectrum),AT&T,AT&T (incl. Lumen consumer fiber),8080483,22.481,19375357,41.705,8080483,0
+2,Charter (Spectrum),Frontier,Verizon (incl. Frontier),3861869,10.744,6545954,58.996,3861869,0
+3,Charter (Spectrum),Google Fiber,Google Fiber,1178036,3.277,1886259,62.454,1178036,0
+4,Charter (Spectrum),Verizon (Fios),Verizon (incl. Frontier),993490,2.764,9364253,10.609,993490,0
+5,Charter (Spectrum),altafiber (Cincinnati Bell),altafiber (Cincinnati Bell),894441,2.488,953589,93.797,894440,4
+6,Charter (Spectrum),Metronet (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),836986,2.329,2612682,32.036,836986,0
+7,Charter (Spectrum),Brightspeed,Brightspeed,795282,2.213,1793486,44.343,795282,0
+8,Charter (Spectrum),WOW!,WOW!,635130,1.767,1733161,36.646,120118,515012
+9,Charter (Spectrum),Breezeline (Cogeco),Breezeline (Cogeco),609584,1.696,1333175,45.724,40,609546
+10,Charter (Spectrum),Windstream/Uniti (Kinetic),Windstream/Uniti (Kinetic),532084,1.48,1526157,34.864,509695,24038
+11,Charter (Spectrum),TDS Telecom,TDS Telecom,484466,1.348,1113559,43.506,460700,28389
+12,Charter (Spectrum),Lumos (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),455893,1.268,641150,71.106,455893,0
+13,Charter (Spectrum),Comcast (Xfinity),Comcast (Xfinity),449654,1.251,38786664,1.159,33980,415782
+14,Charter (Spectrum),Astound Broadband,Astound Broadband,413261,1.15,2518837,16.407,79685,339706
+15,Charter (Spectrum),Consolidated (Fidium),Consolidated (Fidium),314293,0.874,1058652,29.688,314291,2
+16,Charter (Spectrum),"Greenlight Networks, LLC","Greenlight Networks, LLC",244786,0.681,286873,85.329,244786,0
+17,Charter (Spectrum),Allo Communications LLC,Allo Communications LLC,237448,0.661,436620,54.383,237448,0
+18,Charter (Spectrum),"Everfast Fiber Networks, LLC","Everfast Fiber Networks, LLC",229866,0.64,290684,79.078,229866,125926
+19,Charter (Spectrum),Lumen (Quantum Fiber / CenturyLink),AT&T (incl. Lumen consumer fiber),209515,0.583,3157729,6.635,209515,0
+20,Charter (Spectrum),"Future Fiber FinCo, LLC","Future Fiber FinCo, LLC",183487,0.51,540181,33.968,183487,0
+21,Charter (Spectrum),Ziply Fiber (Bell Canada),Ziply Fiber (Bell Canada),162364,0.452,763929,21.254,162364,0
+22,Charter (Spectrum),"Omni Fiber, LLC","Omni Fiber, LLC",155938,0.434,207853,75.023,155938,0
+23,Charter (Spectrum),"Ripple Fiber, LLC","Ripple Fiber, LLC",122979,0.342,206137,59.659,122979,0
+24,Charter (Spectrum),Empire Telephone Corporation/North Penn Telephone Company,Empire Telephone Corporation/North Penn Telephone Company,111643,0.311,161013,69.338,111643,0
+25,Charter (Spectrum),"Horry Telephone Cooperative, Inc.","Horry Telephone Cooperative, Inc.",108775,0.303,159187,68.332,102410,6377
+26,Charter (Spectrum),Point Broadband,Point Broadband,101959,0.284,348159,29.285,101959,0
+27,Charter (Spectrum),"WH i3B Bidco LLC/WH i3B Topco, LLC","WH i3B Bidco LLC/WH i3B Topco, LLC",97478,0.271,313876,31.056,97478,0
+28,Charter (Spectrum),Wire 3 Holdings,Wire 3 Holdings,91623,0.255,119263,76.824,91623,0
+29,Charter (Spectrum),"Generate-Ubiquity Holdings, LLC","Generate-Ubiquity Holdings, LLC",75834,0.211,179727,42.194,75834,0
+30,Charter (Spectrum),Ting,Ting,69934,0.195,204263,34.237,69934,0
+31,Charter (Spectrum),Tillman Global Holdings,Tillman Global Holdings,68795,0.191,85790,80.19,68795,0
+32,Charter (Spectrum),"Telapex, Inc.","Telapex, Inc.",67334,0.187,381068,17.67,67334,2804
+33,Charter (Spectrum),Optimum (Altice USA),Optimum (Altice USA),67055,0.187,5366001,1.25,18392,67055
+34,Charter (Spectrum),Gateway Fiber Holdings LLC,Gateway Fiber Holdings LLC,66424,0.185,134105,49.531,66424,0
+35,Charter (Spectrum),CDE Lightband,CDE Lightband,63249,0.176,68828,91.894,63249,0
+36,Charter (Spectrum),Cable One (Sparklight),Cable One (Sparklight),61363,0.171,2280032,2.691,32052,33645
+37,Charter (Spectrum),"Race Telecommunications, Inc.","Race Telecommunications, Inc.",60894,0.169,142205,42.821,60894,0
+38,Charter (Spectrum),Atlantic Telephone Membership Corporation,Atlantic Telephone Membership Corporation,56206,0.156,131703,42.676,54683,1523
+39,Charter (Spectrum),"CarolinaConnect Cooperative, Inc.","CarolinaConnect Cooperative, Inc.",55271,0.154,111725,49.471,55271,0
+40,Charter (Spectrum),Bluepeak,Bluepeak,53409,0.149,316917,16.853,50332,4044
+41,Charter (Spectrum),"Open Infra, Inc.","Open Infra, Inc.",50447,0.14,87397,57.722,50447,0
+42,Charter (Spectrum),"Comporium, Inc.","Comporium, Inc.",49271,0.137,198803,24.784,39364,9907
+43,Charter (Spectrum),"Conexon Connect, LLC","Conexon Connect, LLC",49065,0.137,415600,11.806,49065,0
+44,Charter (Spectrum),"IsoFusion, Inc.","IsoFusion, Inc.",45805,0.127,86134,53.179,45805,0
+45,Charter (Spectrum),Hunter Communications & Technologies LLC,Hunter Communications & Technologies LLC,45638,0.127,89041,51.255,45567,98
+46,Charter (Spectrum),"Delta Communications, LLC","Delta Communications, LLC",44792,0.125,170364,26.292,44792,0
+47,Charter (Spectrum),"JAB Wireless, Inc.","JAB Wireless, Inc.",42829,0.119,89596,47.802,42829,0
+48,Charter (Spectrum),The Chillicothe Telephone Co,The Chillicothe Telephone Co,40675,0.113,42794,95.048,40675,0
+49,Charter (Spectrum),Socket Telecom LLC,Socket Telecom LLC,39905,0.111,118266,33.742,39905,0
+50,Charter (Spectrum),Yadkin Valley Telephone Membership Corporation,Yadkin Valley Telephone Membership Corporation,39460,0.11,53687,73.5,39460,0
+51,Charter (Spectrum),"Guadalupe Valley Telephone Cooperative, Inc.","Guadalupe Valley Telephone Cooperative, Inc.",38712,0.108,81887,47.275,37830,4182
+52,Charter (Spectrum),Douglas Electric Cooperative Inc.,Douglas Electric Cooperative Inc.,37148,0.103,56411,65.852,37148,0
+53,Charter (Spectrum),"West Carolina Rural Telephone Cooperative, Inc.","West Carolina Rural Telephone Cooperative, Inc.",36408,0.101,102861,35.395,36408,0
+54,Charter (Spectrum),"Ben Lomand Rural Telephone Coop., Inc.","Ben Lomand Rural Telephone Coop., Inc.",35686,0.099,65387,54.577,35686,0
+55,Charter (Spectrum),Cox,Charter + Cox (Spectrum),35624,0.099,7297869,0.488,7330,28318
+56,Charter (Spectrum),"Block Communications, Inc.","Block Communications, Inc.",35564,0.099,326208,10.902,21035,17044
+57,Charter (Spectrum),"Farmers Telephone Cooperative, Inc. (SC)","Farmers Telephone Cooperative, Inc. (SC)",34454,0.096,66496,51.814,34454,0
+58,Charter (Spectrum),"Atlas Connectivity, LLC","Atlas Connectivity, LLC",33748,0.094,57676,58.513,33748,0
+59,Charter (Spectrum),"Cumberland Connect, LLC","Cumberland Connect, LLC",29122,0.081,93828,31.038,29122,0
+60,Charter (Spectrum),"Clearnetworx, LLC","Clearnetworx, LLC",29101,0.081,42928,67.79,29099,2
+61,Charter (Spectrum),"Joink, LLC","Joink, LLC",28292,0.079,48734,58.054,28292,0
+62,Charter (Spectrum),"Visionary Communications, Inc.","Visionary Communications, Inc.",28033,0.078,49399,56.748,28033,0
+63,Charter (Spectrum),Sonic,Sonic,28011,0.078,409147,6.846,28011,0
+64,Charter (Spectrum),Jackson Energy Authority,Jackson Energy Authority,27974,0.078,31207,89.64,27974,0
+65,Charter (Spectrum),Hotwire,Hotwire,27132,0.075,144179,18.818,27132,0
+66,Charter (Spectrum),Foursight Communications LLC,Foursight Communications LLC,27027,0.075,44615,60.578,27027,0
+67,Charter (Spectrum),"Flying Bull Internet, LLC","Flying Bull Internet, LLC",26742,0.074,26985,99.099,26742,0
+68,Charter (Spectrum),JWEMC Communications LLC,JWEMC Communications LLC,26657,0.074,35240,75.644,26657,0
+69,Charter (Spectrum),"ITC Broadband Operating, LLC","ITC Broadband Operating, LLC",25850,0.072,59428,43.498,25850,0
+70,Charter (Spectrum),City of Wilson,City of Wilson,24392,0.068,27013,90.297,24392,0
+71,Charter (Spectrum),Bristol Tennessee Essential Services,Bristol Tennessee Essential Services,24368,0.068,26539,91.82,24368,0
+72,Charter (Spectrum),Surf Internet,Surf Internet,24109,0.067,252177,9.56,24109,0
+73,Charter (Spectrum),"Pavlov Media, Inc.","Pavlov Media, Inc.",23571,0.066,114421,20.6,23571,0
+74,Charter (Spectrum),"City of Cleveland, Indiana","City of Cleveland, Indiana",23562,0.066,25081,93.944,23562,0
+75,Charter (Spectrum),Cullman Electric Cooperative,Cullman Electric Cooperative,23478,0.065,38219,61.43,23478,0
+76,Charter (Spectrum),Giggle Fiber LLC,Giggle Fiber LLC,23341,0.065,24079,96.935,1451,21892
+77,Charter (Spectrum),"Valley Telephone Cooperative, Inc. (TX)","Valley Telephone Cooperative, Inc. (TX)",23267,0.065,34398,67.641,23267,0
+78,Charter (Spectrum),"Great Lakes Energy Connections, Inc.","Great Lakes Energy Connections, Inc.",23221,0.065,64091,36.231,23221,0
+79,Charter (Spectrum),"Smartcom Telephone, LLC","Smartcom Telephone, LLC",23084,0.064,30929,74.635,23084,0
+80,Charter (Spectrum),"New Knoxville Telephone Company/GoldStar Communications, LLC","New Knoxville Telephone Company/GoldStar Communications, LLC",22776,0.063,26223,86.855,22702,74
+81,Charter (Spectrum),"Velocity.Net Communications, Inc.","Velocity.Net Communications, Inc.",22468,0.063,23068,97.399,22468,0
+82,Charter (Spectrum),Twin Lakes Telephone Cooperative Corporation,Twin Lakes Telephone Cooperative Corporation,22075,0.061,67484,32.711,22075,0
+83,Charter (Spectrum),Armstrong,Armstrong,21918,0.061,462472,4.739,19514,2755
+84,Charter (Spectrum),Shenandoah Telecommunications Company,Shenandoah Telecommunications Company,21792,0.061,530410,4.109,21418,374
+85,Charter (Spectrum),Archtop Fiber Holdings LLC,Archtop Fiber Holdings LLC,21293,0.059,24884,85.569,21293,0
+86,Charter (Spectrum),Mediacom,Mediacom,20751,0.058,2668787,0.778,1136,20521
+87,Charter (Spectrum),"Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA","Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA",20745,0.058,23094,89.829,20745,0
+88,Charter (Spectrum),Johnson City Energy Authority,Johnson City Energy Authority,20278,0.056,44974,45.088,20278,0
+89,Charter (Spectrum),Gibson Electric Membership Corporation,Gibson Electric Membership Corporation,20088,0.056,37411,53.695,20088,0
+90,Charter (Spectrum),PUD No. 1 of Chelan County,PUD No. 1 of Chelan County,19223,0.053,30417,63.198,19223,0
+91,Charter (Spectrum),"Native Network, Inc.","Native Network, Inc.",18779,0.052,28607,65.645,18779,0
+92,Charter (Spectrum),Skyline Telephone Membership Corporation,Skyline Telephone Membership Corporation,18762,0.052,60122,31.207,18762,0
+93,Charter (Spectrum),Columbia Power and Water Systems,Columbia Power and Water Systems,18596,0.052,19452,95.599,2459,16137
+94,Charter (Spectrum),"Zito West Holding, LLC","Zito West Holding, LLC",18215,0.051,265591,6.858,8391,11754
+95,Charter (Spectrum),Lenoir City Utility Board,Lenoir City Utility Board,17390,0.048,34362,50.608,17390,0
+96,Charter (Spectrum),Eastern Shore of Virginia Broadband Authority,Eastern Shore of Virginia Broadband Authority,17309,0.048,22724,76.171,17309,0
+97,Charter (Spectrum),"Hiawatha Broadband Communications, Inc.","Hiawatha Broadband Communications, Inc.",17271,0.048,34465,50.112,12682,5322
+98,Charter (Spectrum),"Mainstream Fiber Networks, LLC","Mainstream Fiber Networks, LLC",17206,0.048,35863,47.977,17206,0
+99,Charter (Spectrum),"Aeneas Communications, LLC","Aeneas Communications, LLC",17143,0.048,78549,21.825,17143,0
+100,Charter (Spectrum),"Hanson Communications, Inc.","Hanson Communications, Inc.",17141,0.048,40192,42.648,10653,6925
+101,Charter (Spectrum),Vyve Broadband,Vyve Broadband,17112,0.048,560197,3.055,1600,15528
+102,Charter (Spectrum),Surry Telephone Membership Corporation,Surry Telephone Membership Corporation,17111,0.048,32305,52.967,15675,1625
+103,Charter (Spectrum),"MTE Holdings, LLC","MTE Holdings, LLC",16877,0.047,104352,16.173,16877,0
+104,Charter (Spectrum),"Home Telephone Company, Inc. (SC)","Home Telephone Company, Inc. (SC)",16828,0.047,68367,24.614,16794,37
+105,Charter (Spectrum),Wood County Telephone Company,Wood County Telephone Company,16785,0.047,27192,61.728,16785,0
+106,Charter (Spectrum),Montana Opticom LLC,Montana Opticom LLC,16459,0.046,20451,80.48,16459,0
+107,Charter (Spectrum),Central Alabama Electric Cooperative,Central Alabama Electric Cooperative,16263,0.045,48904,33.255,16263,0
+108,Charter (Spectrum),"Guadalupe Valley Electric Cooperative, Inc.","Guadalupe Valley Electric Cooperative, Inc.",16073,0.045,39590,40.599,16073,0
+109,Charter (Spectrum),"New Hampshire Electric Cooperative, Inc.","New Hampshire Electric Cooperative, Inc.",15919,0.044,37942,41.956,15919,0
+110,Charter (Spectrum),"Tombigbee Electric Cooperative, Inc.","Tombigbee Electric Cooperative, Inc.",15150,0.042,49873,30.377,15150,0
+111,Charter (Spectrum),Telephone Electronics Corporation,Telephone Electronics Corporation,14588,0.041,45372,32.152,14588,0
+112,Charter (Spectrum),Chicopee Municipal Lighting Plant,Chicopee Municipal Lighting Plant,14427,0.04,14430,99.979,14427,0
+113,Charter (Spectrum),Hilbert Communications LLC,Hilbert Communications LLC,14310,0.04,25201,56.783,14310,0
+114,Charter (Spectrum),"Ezee Fiber Texas, LLC","Ezee Fiber Texas, LLC",14198,0.04,373234,3.804,14198,0
+115,Charter (Spectrum),"BIF IV Intrepid HoldCo, LLC","BIF IV Intrepid HoldCo, LLC",14198,0.04,125952,11.273,14198,0
+116,Charter (Spectrum),Brandenburg Communications Corp.,Brandenburg Communications Corp.,13753,0.038,54671,25.156,13753,0
+117,Charter (Spectrum),Blue Mountain Networks LLC,Blue Mountain Networks LLC,13712,0.038,25873,52.997,11014,6032
+118,Charter (Spectrum),"Reserve Holdings, Inc.","Reserve Holdings, Inc.",13688,0.038,33436,40.938,0,13688
+119,Charter (Spectrum),Delta Montrose Electric Association,Delta Montrose Electric Association,13655,0.038,30946,44.125,13655,0
+120,Charter (Spectrum),Lumbee River Electric Membership Corporation,Lumbee River Electric Membership Corporation,13374,0.037,18752,71.32,13374,0
+121,Charter (Spectrum),Centric Infrastructure Group LLC,Centric Infrastructure Group LLC,13276,0.037,22062,60.176,13276,0
+122,Charter (Spectrum),Baraga Telephone Company Inc.,Baraga Telephone Company Inc.,13142,0.037,17834,73.691,13142,0
+123,Charter (Spectrum),West Kentucky Rural Telephone Cooperative Corp. Inc.,West Kentucky Rural Telephone Cooperative Corp. Inc.,12833,0.036,66625,19.262,12833,0
+124,Charter (Spectrum),Wilkes Telephone Membership Corporation,Wilkes Telephone Membership Corporation,12475,0.035,61212,20.38,12475,0
+125,Charter (Spectrum),"Big River Telephone, LLC","Big River Telephone, LLC",12412,0.035,19198,64.653,12412,0
+126,Charter (Spectrum),Monmouth Independence Network,Monmouth Independence Network,12373,0.034,12859,96.221,12373,0
+127,Charter (Spectrum),"Aspire Networks 1, LLC","Aspire Networks 1, LLC",12356,0.034,44794,27.584,12356,0
+128,Charter (Spectrum),"Sandhill Telephone Cooperative, Inc.","Sandhill Telephone Cooperative, Inc.",12288,0.034,26233,46.842,7269,6451
+129,Charter (Spectrum),"North Central Telephone Cooperative, Inc.","North Central Telephone Cooperative, Inc.",12260,0.034,66713,18.377,12260,0
+130,Charter (Spectrum),Owensboro Municipal Utilities,Owensboro Municipal Utilities,12232,0.034,12536,97.575,12232,0
+131,Charter (Spectrum),Morristown Utility System,Morristown Utility System,12045,0.034,13148,91.611,12045,0
+132,Charter (Spectrum),"United Electric Cooperative, Inc.","United Electric Cooperative, Inc.",12040,0.033,81763,14.725,12040,0
+133,Charter (Spectrum),Kingdom Telephone Company,Kingdom Telephone Company,11847,0.033,19989,59.268,11847,0
+134,Charter (Spectrum),eNCore Connects,eNCore Connects,11845,0.033,23901,49.559,11845,0
+135,Charter (Spectrum),Holston Electric Cooperative,Holston Electric Cooperative,11730,0.033,27565,42.554,11730,0
+136,Charter (Spectrum),"United Electric Cooperative Services, Inc.","United Electric Cooperative Services, Inc.",11691,0.033,57644,20.281,11691,0
+137,Charter (Spectrum),Ace Telephone Association,Ace Telephone Association,11535,0.032,30309,38.058,11535,0
+138,Charter (Spectrum),"Beacon Broadband, Inc.","Beacon Broadband, Inc.",11521,0.032,14883,77.41,11521,0
+139,Charter (Spectrum),"TruVista Communications, Inc.","TruVista Communications, Inc.",11029,0.031,72345,15.245,6267,4762
+140,Charter (Spectrum),"Community Telephone Co., Inc.","Community Telephone Co., Inc.",10694,0.03,22525,47.476,10694,0
+141,Charter (Spectrum),Coast Electric Power Association,Coast Electric Power Association,10691,0.03,65325,16.366,10691,0
+142,Charter (Spectrum),Consolidated Telephone Company,Consolidated Telephone Company,10617,0.03,40431,26.26,10617,0
+143,Charter (Spectrum),Lafayette City Parish Consolidated Government,Lafayette City Parish Consolidated Government,10253,0.029,89130,11.503,10253,0
+144,Charter (Spectrum),"Co-Mo Electric Cooperative, Inc.","Co-Mo Electric Cooperative, Inc.",10025,0.028,55238,18.149,10025,0
+145,Charter (Spectrum),Tachus LLC,Tachus LLC,9939,0.028,178878,5.556,9939,0
+146,Charter (Spectrum),Knoxville Utilities Board,Knoxville Utilities Board,9799,0.027,131468,7.454,9799,0
+147,Charter (Spectrum),"City of Lexington, Tennessee","City of Lexington, Tennessee",9786,0.027,17633,55.498,9786,0
+148,Charter (Spectrum),"Great Plains Communications, Inc.","Great Plains Communications, Inc.",9759,0.027,77515,12.59,9648,111
+149,Charter (Spectrum),DayStarr LLC,DayStarr LLC,9521,0.026,12347,77.112,9521,0
+150,Charter (Spectrum),"Palmetto Rural Telephone Cooperative, Inc.","Palmetto Rural Telephone Cooperative, Inc.",9494,0.026,41495,22.88,9494,0
+151,Charter (Spectrum),"Santa Rosa Telephone Cooperative, Inc.","Santa Rosa Telephone Cooperative, Inc.",9450,0.026,35091,26.93,9450,0
+152,Charter (Spectrum),"Farmers Telecommunications Cooperative, Inc.","Farmers Telecommunications Cooperative, Inc.",9317,0.026,38365,24.285,9317,0
+153,Charter (Spectrum),City of Wadsworth,City of Wadsworth,9285,0.026,9512,97.614,4713,4572
+154,Charter (Spectrum),"VFN Holdings, Inc.","VFN Holdings, Inc.",9259,0.026,52739,17.556,9259,0
+155,Charter (Spectrum),"Cityside Networks, LLC","Cityside Networks, LLC",9100,0.025,27395,33.218,9100,0
+156,Charter (Spectrum),"Piedmont Rural Telephone Cooperative, Inc.","Piedmont Rural Telephone Cooperative, Inc.",9081,0.025,17471,51.978,9081,0
+157,Charter (Spectrum),"SVE Connect, LLC","SVE Connect, LLC",8971,0.025,12732,70.46,8971,0
+158,Charter (Spectrum),"Fastbridge Fiber, LLC","Fastbridge Fiber, LLC",8964,0.025,50637,17.702,8964,0
+159,Charter (Spectrum),"Electric Plant Board of the City of Hopkinsville, Kentucky","Electric Plant Board of the City of Hopkinsville, Kentucky",8964,0.025,30955,28.958,8964,0
+160,Charter (Spectrum),"Amplex Electric, Inc.","Amplex Electric, Inc.",8822,0.025,14890,59.248,8822,0
+161,Charter (Spectrum),"BHT Holdings, Inc.","BHT Holdings, Inc.",8770,0.024,16535,53.039,8770,0
+162,Charter (Spectrum),"Wtechlink, Inc.","Wtechlink, Inc.",8758,0.024,10286,85.145,8758,0
+163,Charter (Spectrum),"Pinpoint Holdings, Inc.","Pinpoint Holdings, Inc.",8660,0.024,19333,44.794,8660,0
+164,Charter (Spectrum),Henderson Municipal Power & Light,Henderson Municipal Power & Light,8471,0.024,9048,93.623,8471,0
+165,Charter (Spectrum),GEUS,GEUS,8415,0.023,8564,98.26,0,8415
+166,Charter (Spectrum),LTD Broadband LLC,LTD Broadband LLC,8092,0.023,18470,43.812,8092,0
+167,Charter (Spectrum),Tullahoma Utilities Authority,Tullahoma Utilities Authority,8034,0.022,8647,92.911,8034,0
+168,Charter (Spectrum),"Tri-County Electric Cooperative, Inc.","Tri-County Electric Cooperative, Inc.",7899,0.022,22013,35.883,7899,0
+169,Charter (Spectrum),AMG Technology Investment Group LLC,AMG Technology Investment Group LLC,7858,0.022,103541,7.589,7858,0
+170,Charter (Spectrum),Tri-County Electric Membership Corporation,Tri-County Electric Membership Corporation,7835,0.022,31959,24.516,7835,0
+171,Charter (Spectrum),Presque Isle Electric & Gas Co-op,Presque Isle Electric & Gas Co-op,7751,0.022,18967,40.866,7751,0
+172,Charter (Spectrum),"DoveTel Communications, LLC","DoveTel Communications, LLC",7710,0.021,15196,50.737,7710,0
+173,Charter (Spectrum),EATEL Corp.,EATEL Corp.,7670,0.021,91270,8.404,7622,50
+174,Charter (Spectrum),"Arvig Enterprises, Inc.","Arvig Enterprises, Inc.",7619,0.021,86237,8.835,4348,3326
+175,Charter (Spectrum),Meriwether Lewis Electric Cooperative,Meriwether Lewis Electric Cooperative,7465,0.021,32651,22.863,7465,0
+176,Charter (Spectrum),Ringgold Telephone Company,Ringgold Telephone Company,7381,0.021,11811,62.493,7381,0
+177,Charter (Spectrum),Wabash Mutual Telephone Company,Wabash Mutual Telephone Company,7318,0.02,11632,62.913,7318,0
+178,Charter (Spectrum),SEMO Electric Cooperative,SEMO Electric Cooperative,6919,0.019,22464,30.8,6919,0
+179,Charter (Spectrum),Randolph Telephone Membership Corporation,Randolph Telephone Membership Corporation,6859,0.019,29338,23.379,6859,0
+180,Charter (Spectrum),"MachTen, Inc.","MachTen, Inc.",6666,0.019,11007,60.561,6666,0
+181,Charter (Spectrum),"Planet Networks, Inc.","Planet Networks, Inc.",6524,0.018,52084,12.526,6524,0
+182,Charter (Spectrum),"Smithville Holding Company, Inc.","Smithville Holding Company, Inc.",6485,0.018,29729,21.814,6485,0
+183,Charter (Spectrum),"City of Fairlawn, Ohio","City of Fairlawn, Ohio",6439,0.018,6860,93.863,6439,0
+184,Charter (Spectrum),North Alabama Electric Cooperative,North Alabama Electric Cooperative,6323,0.018,12484,50.649,6323,0
+185,Charter (Spectrum),"Pioneer Wireless, Inc.","Pioneer Wireless, Inc.",6290,0.017,10692,58.829,6290,0
+186,Charter (Spectrum),Hancock Rural Telephone Corporation,Hancock Rural Telephone Corporation,6267,0.017,26955,23.25,6267,0
+187,Charter (Spectrum),"Little Miami Gig, LLC","Little Miami Gig, LLC",6228,0.017,8182,76.118,6228,0
+188,Charter (Spectrum),Newport Utilities,Newport Utilities,6121,0.017,19294,31.725,6121,0
+189,Charter (Spectrum),"Stupp Fiber, LLC","Stupp Fiber, LLC",6055,0.017,6154,98.391,6055,0
+190,Charter (Spectrum),"Orlando Telephone Company, Inc.","Orlando Telephone Company, Inc.",6013,0.017,34380,17.49,3818,2206
+191,Charter (Spectrum),Foothills Broadband LLC,Foothills Broadband LLC,5858,0.016,6381,91.804,5858,0
+192,Charter (Spectrum),Inyo Networks Inc.,Inyo Networks Inc.,5804,0.016,6146,94.435,5804,0
+193,Charter (Spectrum),Oregon Telephone Corporation,Oregon Telephone Corporation,5800,0.016,22660,25.596,5800,0
+194,Charter (Spectrum),"Covington Electric Cooperative, Inc.","Covington Electric Cooperative, Inc.",5737,0.016,24558,23.361,5737,0
+195,Charter (Spectrum),The Conneaut Telephone Company,The Conneaut Telephone Company,5734,0.016,6376,89.931,5478,3246
+196,Charter (Spectrum),"Churchill County, State of Nevada","Churchill County, State of Nevada",5665,0.016,12427,45.586,5665,0
+197,Charter (Spectrum),Murray Electric System,Murray Electric System,5649,0.016,6156,91.764,3298,5633
+198,Charter (Spectrum),Peoples Telephone Cooperative,Peoples Telephone Cooperative,5647,0.016,54161,10.426,5647,0
+199,Charter (Spectrum),"123.Net, Inc.","123.Net, Inc.",5562,0.015,30983,17.952,5562,0
+200,Charter (Spectrum),Lincolnville Telephone Company,Lincolnville Telephone Company,5552,0.015,11214,49.51,5552,0
+201,Charter (Spectrum),"Clay County Rural Telephone Cooperative, Inc.","Clay County Rural Telephone Cooperative, Inc.",5489,0.015,32217,17.038,5489,0
+202,Charter (Spectrum),"Massillon Cable TV, Inc.","Massillon Cable TV, Inc.",5462,0.015,84599,6.456,5274,547
+203,Charter (Spectrum),CMS Internet LLC,CMS Internet LLC,5423,0.015,10576,51.276,5423,0
+204,Charter (Spectrum),"Consolidated Electric Cooperative, Inc.","Consolidated Electric Cooperative, Inc.",5404,0.015,11914,45.358,5404,0
+205,Charter (Spectrum),"Range Telephone Cooperative, Inc.","Range Telephone Cooperative, Inc.",5350,0.015,14574,36.709,5350,0
+206,Charter (Spectrum),Doylestown Telephone Company,Doylestown Telephone Company,5336,0.015,6267,85.144,4714,3525
+207,Charter (Spectrum),Scottsboro Electric Power Board,Scottsboro Electric Power Board,5319,0.015,6088,87.369,5319,5319
+208,Charter (Spectrum),"Northeast Communications of Wisconsin, Inc.","Northeast Communications of Wisconsin, Inc.",5250,0.015,10491,50.043,5250,0
+209,Charter (Spectrum),"Hilliary Communications, LLC","Hilliary Communications, LLC",5211,0.014,40574,12.843,5211,0
+210,Charter (Spectrum),Cherokee County Electric Cooperative Association,Cherokee County Electric Cooperative Association,5102,0.014,14354,35.544,5102,0
+211,Charter (Spectrum),"Lyte Fiber, LLC","Lyte Fiber, LLC",5096,0.014,27250,18.701,5096,0
+212,Charter (Spectrum),PocketiNet Communications Inc.,PocketiNet Communications Inc.,5025,0.014,6168,81.469,5025,0
+213,Charter (Spectrum),Tri-County Electric Cooperative,Tri-County Electric Cooperative,4975,0.014,29100,17.096,4975,0
+214,Charter (Spectrum),Coldwater Board of Public Utilities,Coldwater Board of Public Utilities,4863,0.014,5202,93.483,4356,4852
+215,Charter (Spectrum),"Hiawatha Communications, Inc.","Hiawatha Communications, Inc.",4778,0.013,11255,42.452,4778,0
+216,Charter (Spectrum),"Westelcom Network, Inc.","Westelcom Network, Inc.",4767,0.013,4859,98.107,4767,0
+217,Charter (Spectrum),Fayetteville Public Utilities,Fayetteville Public Utilities,4763,0.013,13909,34.244,1795,2968
+218,Charter (Spectrum),Pulaski Electric System,Pulaski Electric System,4738,0.013,10868,43.596,4738,0
+219,Charter (Spectrum),Pea River Electric Cooperative,Pea River Electric Cooperative,4642,0.013,20228,22.948,4642,0
+220,Charter (Spectrum),"Blackfoot Telephone Cooperative, Inc.","Blackfoot Telephone Cooperative, Inc.",4609,0.013,22880,20.144,4609,0
+221,Charter (Spectrum),Chariton Valley Telephone Corporation,Chariton Valley Telephone Corporation,4604,0.013,30581,15.055,4604,0
+222,Charter (Spectrum),HTC Holding Co.,HTC Holding Co.,4597,0.013,7129,64.483,4597,0
+223,Charter (Spectrum),"Highland Telephone Cooperative, Inc. (KY & TN)","Highland Telephone Cooperative, Inc. (KY & TN)",4594,0.013,29889,15.37,4594,0
+224,Charter (Spectrum),The Utilities Board of the City of Sylacauga,The Utilities Board of the City of Sylacauga,4570,0.013,4914,93.0,4570,0
+225,Charter (Spectrum),"Chibardun Telephone Cooperative, Inc.","Chibardun Telephone Cooperative, Inc.",4569,0.013,17482,26.135,4569,0
+226,Charter (Spectrum),Delhi Telephone Company,Delhi Telephone Company,4538,0.013,12643,35.893,4538,0
+227,Charter (Spectrum),Tennessee Valley Electric Cooperative,Tennessee Valley Electric Cooperative,4538,0.013,9413,48.21,4538,0
+228,Charter (Spectrum),"Alenco Communications, Inc.","Alenco Communications, Inc.",4533,0.013,16645,27.233,4533,0
+229,Charter (Spectrum),Reedsburg Utility Commission,Reedsburg Utility Commission,4500,0.013,12532,35.908,4500,0
+230,Charter (Spectrum),"CIBL, Inc.","CIBL, Inc.",4424,0.012,6649,66.536,4424,0
+231,Charter (Spectrum),The Middleburgh Telephone Company,The Middleburgh Telephone Company,4423,0.012,10647,41.542,4423,0
+232,Charter (Spectrum),"NfinityLink Communications, Inc.","NfinityLink Communications, Inc.",4347,0.012,19806,21.948,4302,45
+233,Charter (Spectrum),"Siuslaw Broadband, LLC","Siuslaw Broadband, LLC",4204,0.012,4705,89.352,4204,0
+234,Charter (Spectrum),"Triangle Telephone Cooperative Assn., Inc.","Triangle Telephone Cooperative Assn., Inc.",4116,0.011,20191,20.385,4116,0
+235,Charter (Spectrum),County of Orangeburg,County of Orangeburg,4114,0.011,8150,50.479,4114,0
+236,Charter (Spectrum),Jackson County Rural Electric Membership Corporation,Jackson County Rural Electric Membership Corporation,4056,0.011,26431,15.346,4056,0
+237,Charter (Spectrum),Union City Energy Authority,Union City Energy Authority,3957,0.011,4060,97.463,3957,0
+238,Charter (Spectrum),Trenton Telephone Co.,Trenton Telephone Co.,3949,0.011,7792,50.68,3949,0
+239,Charter (Spectrum),Luminate Fiber LLC,Luminate Fiber LLC,3937,0.011,9025,43.623,3937,0
+240,Charter (Spectrum),American Heartland Fiber Networks LLC,American Heartland Fiber Networks LLC,3899,0.011,5602,69.6,3899,0
+241,Charter (Spectrum),French Broad Electric Membership Corporation,French Broad Electric Membership Corporation,3873,0.011,22166,17.473,3873,0
+242,Charter (Spectrum),"Wabash Telephone Cooperative, Inc.","Wabash Telephone Cooperative, Inc.",3823,0.011,34393,11.116,3823,0
+243,Charter (Spectrum),"DeKalb Telephone Cooperative, Inc.","DeKalb Telephone Cooperative, Inc.",3817,0.011,31540,12.102,3817,0
+244,Charter (Spectrum),JMZ Corporation,JMZ Corporation,3787,0.011,34925,10.843,3787,0
+245,Charter (Spectrum),Highland Communication Services,Highland Communication Services,3784,0.011,4032,93.849,3784,0
+246,Charter (Spectrum),City of Monticello,City of Monticello,3770,0.01,4022,93.734,3770,0
+247,Charter (Spectrum),Winnebago Cooperative Telecom Association,Winnebago Cooperative Telecom Association,3698,0.01,19939,18.547,3698,0
+248,Charter (Spectrum),"Aspire Broadband Holdings, LLC","Aspire Broadband Holdings, LLC",3657,0.01,3659,99.945,3657,0
+249,Charter (Spectrum),"Citynet, LLC","Citynet, LLC",3621,0.01,27601,13.119,3621,0
+250,Charter (Spectrum),Cloud 9 Wireless LLC,Cloud 9 Wireless LLC,3529,0.01,4491,78.579,3529,0
+251,Charter (Spectrum),"Perry-Spencer Rural Telephone Cooperative, Inc.","Perry-Spencer Rural Telephone Cooperative, Inc.",3528,0.01,22676,15.558,3528,0
+252,Charter (Spectrum),Mount Horeb Telephone Company,Mount Horeb Telephone Company,3510,0.01,5332,65.829,3510,0
+253,Charter (Spectrum),Coosa Valley Electric Cooperative,Coosa Valley Electric Cooperative,3475,0.01,20648,16.83,3475,0
+254,Charter (Spectrum),"Skyrunner, Inc.","Skyrunner, Inc.",3469,0.01,8591,40.379,3469,0
+255,Charter (Spectrum),Lemonweir Valley Telephone Company,Lemonweir Valley Telephone Company,3447,0.01,10987,31.373,3447,0
+256,Charter (Spectrum),"Ultimate Internet Access, Inc.","Ultimate Internet Access, Inc.",3383,0.009,7462,45.336,3383,0
+257,Charter (Spectrum),Lennon Telephone Company,Lennon Telephone Company,3354,0.009,4377,76.628,48,3306
+258,Charter (Spectrum),LakeNet LLC,LakeNet LLC,3319,0.009,8691,38.189,3319,0
+259,Charter (Spectrum),Southeast Colorado Power Association,Southeast Colorado Power Association,3299,0.009,15177,21.737,3299,0
+260,Charter (Spectrum),"MontanaSky Networks, Inc.","MontanaSky Networks, Inc.",3261,0.009,4325,75.399,3261,0
+261,Charter (Spectrum),Midco,Midco,3179,0.009,650944,0.488,127,3052
+262,Charter (Spectrum),Edge Broadband LLC,Edge Broadband LLC,3153,0.009,8425,37.424,3153,0
+263,Charter (Spectrum),"Horizon Communications, Inc.","Horizon Communications, Inc.",3126,0.009,34801,8.983,3126,0
+264,Charter (Spectrum),"Bandera Electric Cooperative, Inc.","Bandera Electric Cooperative, Inc.",3087,0.009,25261,12.22,3087,0
+265,Charter (Spectrum),"Hill Country Telephone Cooperative, Inc.","Hill Country Telephone Cooperative, Inc.",3054,0.008,20113,15.184,3054,0
+266,Charter (Spectrum),Glenwood Telephone Membership Corp.,Glenwood Telephone Membership Corp.,3028,0.008,16354,18.515,3028,0
+267,Charter (Spectrum),"StarVision, Inc.","StarVision, Inc.",3001,0.008,10652,28.173,3001,0
+268,Charter (Spectrum),"Allen's TV Cable Service, Inc.","Allen's TV Cable Service, Inc.",2976,0.008,23929,12.437,2778,2005
+269,Charter (Spectrum),"West Wisconsin Telcom Cooperative, Inc.","West Wisconsin Telcom Cooperative, Inc.",2964,0.008,12403,23.897,2964,0
+270,Charter (Spectrum),"HDD Broadband, Inc.","HDD Broadband, Inc.",2941,0.008,3559,82.636,2941,0
+271,Charter (Spectrum),Bascom Mutual Telephone Company,Bascom Mutual Telephone Company,2927,0.008,5868,49.881,2927,0
+272,Charter (Spectrum),"City of Buffalo, Minnesota","City of Buffalo, Minnesota",2904,0.008,3160,91.899,2904,0
+273,Charter (Spectrum),The Champaign Telephone Company,The Champaign Telephone Company,2856,0.008,3220,88.696,2856,0
+274,Charter (Spectrum),"Logan County Gig, LLC","Logan County Gig, LLC",2849,0.008,3076,92.62,2849,0
+275,Charter (Spectrum),City of Scottsburg,City of Scottsburg,2838,0.008,3375,84.089,2838,0
+276,Charter (Spectrum),Columbia Energy LLC,Columbia Energy LLC,2763,0.008,3992,69.213,2763,0
+277,Charter (Spectrum),"Firstlight Fiber, Inc.","Firstlight Fiber, Inc.",2690,0.007,5081,52.942,2690,0
+278,Charter (Spectrum),Kasson & Mantorville Telephone Company,Kasson & Mantorville Telephone Company,2683,0.007,6884,38.974,2683,0
+279,Charter (Spectrum),Chazy & Westport Telephone Corp.,Chazy & Westport Telephone Corp.,2538,0.007,3636,69.802,2538,0
+280,Charter (Spectrum),Milan Department of Public Utilities,Milan Department of Public Utilities,2514,0.007,2566,97.973,2514,0
+281,Charter (Spectrum),"MiFiber Holding, LLC","MiFiber Holding, LLC",2508,0.007,6131,40.907,2508,0
+282,Charter (Spectrum),Intercept Wireless,Intercept Wireless,2437,0.007,2584,94.311,2437,0
+283,Charter (Spectrum),Bloomer Telephone Company,Bloomer Telephone Company,2415,0.007,6123,39.441,2415,0
+284,Charter (Spectrum),"CommunityTel, Inc.","CommunityTel, Inc.",2371,0.007,9632,24.616,2371,0
+285,Charter (Spectrum),"Kentec Communications, Inc.","Kentec Communications, Inc.",2357,0.007,4005,58.851,2357,0
+286,Charter (Spectrum),Northland Telephone Systems,Northland Telephone Systems,2345,0.007,3628,64.636,2345,0
+287,Charter (Spectrum),"Marquette-Adams Telephone Cooperative, Inc.","Marquette-Adams Telephone Cooperative, Inc.",2312,0.006,14297,16.171,2312,0
+288,Charter (Spectrum),"Cumby Telephone Cooperative, Inc.","Cumby Telephone Cooperative, Inc.",2295,0.006,6230,36.838,2295,0
+289,Charter (Spectrum),"e-Polk, Inc.","e-Polk, Inc.",2289,0.006,7189,31.84,2289,0
+290,Charter (Spectrum),"connectSCP, LLC","connectSCP, LLC",2275,0.006,11498,19.786,2275,0
+291,Charter (Spectrum),Star Telephone Membership Corporation,Star Telephone Membership Corporation,2263,0.006,23219,9.746,2263,0
+292,Charter (Spectrum),EPB,EPB,2256,0.006,142651,1.581,2256,0
+293,Charter (Spectrum),"Callabyte Technology, LLC","Callabyte Technology, LLC",2236,0.006,21602,10.351,2236,0
+294,Charter (Spectrum),"Chequamegon Communications Cooperative, Inc.","Chequamegon Communications Cooperative, Inc.",2214,0.006,20970,10.558,2214,0
+295,Charter (Spectrum),"Glandorf Telephone Co., Inc.","Glandorf Telephone Co., Inc.",2198,0.006,2879,76.346,2198,0
+296,Charter (Spectrum),Minford Telephone Company,Minford Telephone Company,2198,0.006,4664,47.127,2198,0
+297,Charter (Spectrum),"San Luis Valley Rural Electric Cooperative, Inc.","San Luis Valley Rural Electric Cooperative, Inc.",2167,0.006,10860,19.954,2167,0
+298,Charter (Spectrum),FiberSpark Inc.,FiberSpark Inc.,2156,0.006,2685,80.298,2156,0
+299,Charter (Spectrum),Digital Technology Solutions Inc.,Digital Technology Solutions Inc.,2133,0.006,3170,67.287,2133,0
+300,Charter (Spectrum),"Victoria Electric Cooperative, Inc.","Victoria Electric Cooperative, Inc.",2125,0.006,8406,25.28,2125,0
+301,Charter (Spectrum),Speedwavz LLC,Speedwavz LLC,2104,0.006,3438,61.198,2104,0
+302,Charter (Spectrum),"Southeast Nebraska Communications, Inc.","Southeast Nebraska Communications, Inc.",2079,0.006,3985,52.171,2079,0
+303,Charter (Spectrum),Town of Pineville,Town of Pineville,2078,0.006,2476,83.926,2078,0
+304,Charter (Spectrum),Tipmont Rural Electric Membership Corporation,Tipmont Rural Electric Membership Corporation,2071,0.006,17654,11.731,2071,0
+305,Charter (Spectrum),Amherst Telephone Company,Amherst Telephone Company,2035,0.006,16115,12.628,2035,0
+306,Charter (Spectrum),Ridgeville Telephone Company,Ridgeville Telephone Company,1989,0.006,3359,59.214,1989,0
+307,Charter (Spectrum),City of Morganton,City of Morganton,1980,0.006,5213,37.982,131,1946
+308,Charter (Spectrum),"Richland-Grant Telephone Cooperative, Inc.","Richland-Grant Telephone Cooperative, Inc.",1975,0.005,6044,32.677,1975,0
+309,Charter (Spectrum),Palisade America's Investment LLC,Palisade America's Investment LLC,1962,0.005,94697,2.072,1962,0
+310,Charter (Spectrum),GreatWave Communications,GreatWave Communications,1928,0.005,2271,84.897,1928,0
+311,Charter (Spectrum),The Nebraska Central Telephone Co.,The Nebraska Central Telephone Co.,1923,0.005,9462,20.323,1923,0
+312,Charter (Spectrum),LICT Corporation,LICT Corporation,1920,0.005,73489,2.613,1920,0
+313,Charter (Spectrum),"Forked Deer Electric Cooperative, Inc.","Forked Deer Electric Cooperative, Inc.",1910,0.005,9480,20.148,1910,0
+314,Charter (Spectrum),Tennessee Telecommunications Company,Tennessee Telecommunications Company,1902,0.005,3240,58.704,1902,0
+315,Charter (Spectrum),Champlain Telephone Company,Champlain Telephone Company,1880,0.005,2285,82.276,1880,0
+316,Charter (Spectrum),HDER Link Ltd.,HDER Link Ltd.,1878,0.005,2003,93.759,1878,0
+317,Charter (Spectrum),"New Hope Telephone Cooperative, Inc. (AL)","New Hope Telephone Cooperative, Inc. (AL)",1877,0.005,11107,16.899,1877,0
+318,Charter (Spectrum),UnWired Broadband Holding LLC,UnWired Broadband Holding LLC,1869,0.005,10152,18.41,1869,0
+319,Charter (Spectrum),"UniTek, Inc.","UniTek, Inc.",1828,0.005,5165,35.392,1828,0
+320,Charter (Spectrum),"TPC ACC Acquisition, LLC","TPC ACC Acquisition, LLC",1815,0.005,74452,2.438,1773,78
+321,Charter (Spectrum),MTC Cable,MTC Cable,1763,0.005,11882,14.838,1725,38
+322,Charter (Spectrum),"Nelsonville TV Cable, Inc.","Nelsonville TV Cable, Inc.",1753,0.005,10190,17.203,0,1753
+323,Charter (Spectrum),Cozad Telephone Company,Cozad Telephone Company,1753,0.005,2618,66.96,1753,0
+324,Charter (Spectrum),"Camellia City Fiber, LLC","Camellia City Fiber, LLC",1730,0.005,1757,98.463,1730,0
+325,Charter (Spectrum),Orange County REMC,Orange County REMC,1715,0.005,22290,7.694,1715,0
+326,Charter (Spectrum),"GreyStone Connect, LLC","GreyStone Connect, LLC",1692,0.005,40990,4.128,1692,0
+327,Charter (Spectrum),Emily Cooperative Telephone Company,Emily Cooperative Telephone Company,1621,0.005,5594,28.977,1621,0
+328,Charter (Spectrum),"D & P Communications, Inc.","D & P Communications, Inc.",1611,0.004,18995,8.481,421,1269
+329,Charter (Spectrum),East Central Vermont Telecommunications District,East Central Vermont Telecommunications District,1608,0.004,25000,6.432,1608,0
+330,Charter (Spectrum),LitFiber,LitFiber,1571,0.004,2233,70.354,1571,0
+331,Charter (Spectrum),"Hillsboro Telephone Company, Inc.","Hillsboro Telephone Company, Inc.",1553,0.004,3205,48.456,1553,0
+332,Charter (Spectrum),Wahkiakum West Inc.,Wahkiakum West Inc.,1552,0.004,2695,57.588,1552,0
+333,Charter (Spectrum),"Citizens Telephone Cooperative, Inc. (WI)","Citizens Telephone Cooperative, Inc. (WI)",1529,0.004,7844,19.493,1529,0
+334,Charter (Spectrum),"Defiance Holdings, LLC","Defiance Holdings, LLC",1521,0.004,4525,33.613,1521,0
+335,Charter (Spectrum),Sebago Fiber & Wifi LLC,Sebago Fiber & Wifi LLC,1519,0.004,2492,60.955,1519,0
+336,Charter (Spectrum),"Town of Dryden, New York","Town of Dryden, New York",1483,0.004,1537,96.487,1483,0
+337,Charter (Spectrum),"Nuvera Communications, Inc.","Nuvera Communications, Inc.",1448,0.004,41685,3.474,1448,0
+338,Charter (Spectrum),VVD Funding LLC,VVD Funding LLC,1411,0.004,13524,10.433,1411,0
+339,Charter (Spectrum),"Inventive Wireless of Nebraska, LLC","Inventive Wireless of Nebraska, LLC",1393,0.004,2731,51.007,1393,0
+340,Charter (Spectrum),"yondoo Broadband, LLC","yondoo Broadband, LLC",1367,0.004,2951,46.323,879,1367
+341,Charter (Spectrum),"Cherry Capital Connection, LLC","Cherry Capital Connection, LLC",1350,0.004,4232,31.9,1350,0
+342,Charter (Spectrum),Crown Point Telephone Corporation,Crown Point Telephone Corporation,1341,0.004,1964,68.279,1341,0
+343,Charter (Spectrum),ZiTEL LLC,ZiTEL LLC,1333,0.004,23074,5.777,1333,0
+344,Charter (Spectrum),Inland Cellular Telephone Company,Inland Cellular Telephone Company,1313,0.004,7649,17.166,1313,0
+345,Charter (Spectrum),"Bartlett Electric Cooperative, Inc.","Bartlett Electric Cooperative, Inc.",1305,0.004,5385,24.234,1305,0
+346,Charter (Spectrum),"Fiber Connect, LLC.","Fiber Connect, LLC.",1299,0.004,3227,40.254,1299,0
+347,Charter (Spectrum),Washington County Rural Telephone Cooperative,Washington County Rural Telephone Cooperative,1285,0.004,4473,28.728,1285,0
+348,Charter (Spectrum),"Ralls Technologies, LLC","Ralls Technologies, LLC",1269,0.004,9201,13.792,1269,0
+349,Charter (Spectrum),Megawatt Communications LLC,Megawatt Communications LLC,1268,0.004,2227,56.938,1268,0
+350,Charter (Spectrum),Benton Ridge Telephone Company,Benton Ridge Telephone Company,1243,0.003,9248,13.441,1243,0
+351,Charter (Spectrum),"Otsego Electric Cooperative, Inc.","Otsego Electric Cooperative, Inc.",1221,0.003,7006,17.428,1221,0
+352,Charter (Spectrum),NEK Community Broadband,NEK Community Broadband,1217,0.003,9852,12.353,1217,0
+353,Charter (Spectrum),Sharon Telephone Company (IL & WI),Sharon Telephone Company (IL & WI),1193,0.003,2102,56.755,1193,0
+354,Charter (Spectrum),Bertram Communications LLC,Bertram Communications LLC,1193,0.003,2267,52.625,1193,0
+355,Charter (Spectrum),NCI Datacom,NCI Datacom,1191,0.003,1477,80.636,1191,0
+356,Charter (Spectrum),"Zeta Broadband, Inc.","Zeta Broadband, Inc.",1189,0.003,1805,65.873,1189,0
+357,Charter (Spectrum),Blanca Telephone Company/Jade Communications LLC,Blanca Telephone Company/Jade Communications LLC,1177,0.003,10209,11.529,1177,0
+358,Charter (Spectrum),Grase Communications LLC,Grase Communications LLC,1173,0.003,1190,98.571,1173,0
+359,Charter (Spectrum),"Diverse Power, Inc.","Diverse Power, Inc.",1133,0.003,5364,21.122,1133,0
+360,Charter (Spectrum),"CableSouth Media III, LLC","CableSouth Media III, LLC",1124,0.003,119756,0.939,119,1005
+361,Charter (Spectrum),Mountain West Technologies Corporation,Mountain West Technologies Corporation,1111,0.003,1322,84.039,1111,0
+362,Charter (Spectrum),"Lynches River Communications, Inc.","Lynches River Communications, Inc.",1104,0.003,21486,5.138,1104,0
+363,Charter (Spectrum),Sycamore Telephone Company,Sycamore Telephone Company,1066,0.003,2465,43.245,1066,0
+364,Charter (Spectrum),"Public Utility District of Grant County, Washington","Public Utility District of Grant County, Washington",1045,0.003,34301,3.047,1045,0
+365,Charter (Spectrum),3 Rooms Communications LLC,3 Rooms Communications LLC,1025,0.003,2514,40.772,1025,0
+366,Charter (Spectrum),Barry County Services Company,Barry County Services Company,1018,0.003,5347,19.039,1018,0
+367,Charter (Spectrum),Eastern Cable Corporation,Eastern Cable Corporation,1008,0.003,3221,31.295,1008,0
+368,Charter (Spectrum),"Thacker-Grigsby Telephone Company, Inc.","Thacker-Grigsby Telephone Company, Inc.",1001,0.003,28687,3.489,947,54
+369,Charter (Spectrum),Chapin Communications Corporation,Chapin Communications Corporation,995,0.003,2876,34.597,995,0
+370,Charter (Spectrum),Duo County Telephone Cooperative Inc.,Duo County Telephone Cooperative Inc.,994,0.003,26042,3.817,994,0
+371,Charter (Spectrum),"Mercury Broadband, LLC","Mercury Broadband, LLC",989,0.003,19506,5.07,989,0
+372,Charter (Spectrum),DMEA Utilities Services LLC,DMEA Utilities Services LLC,987,0.003,6016,16.406,987,0
+373,Charter (Spectrum),"Peoples Rural Telephone Cooperative Corporation, Inc.","Peoples Rural Telephone Cooperative Corporation, Inc.",982,0.003,18266,5.376,982,0
+374,Charter (Spectrum),COLI Inc.,COLI Inc.,974,0.003,2664,36.562,974,0
+375,Charter (Spectrum),Albany Mutual Telephone Association,Albany Mutual Telephone Association,952,0.003,7068,13.469,952,0
+376,Charter (Spectrum),"Hub66, Inc.","Hub66, Inc.",935,0.003,5468,17.099,935,0
+377,Charter (Spectrum),"Progressive Rural Telephone Co-Op., Inc.","Progressive Rural Telephone Co-Op., Inc.",924,0.003,8627,10.711,924,0
+378,Charter (Spectrum),"City of Superior, Wisconsin","City of Superior, Wisconsin",922,0.003,951,96.951,922,0
+379,Charter (Spectrum),Midwest Energy Cooperative,Midwest Energy Cooperative,906,0.003,90098,1.006,906,0
+380,Charter (Spectrum),Gonthier Inc.,Gonthier Inc.,905,0.003,4374,20.69,905,0
+381,Charter (Spectrum),Montana Internet Corporation,Montana Internet Corporation,890,0.002,1482,60.054,890,0
+382,Charter (Spectrum),Haefele TV Inc.,Haefele TV Inc.,884,0.002,13845,6.385,791,93
+383,Charter (Spectrum),South Central Rural Telecommunications Cooperative Inc.,South Central Rural Telecommunications Cooperative Inc.,853,0.002,33754,2.527,853,0
+384,Charter (Spectrum),"Brazos Telephone Cooperative, Inc.","Brazos Telephone Cooperative, Inc.",851,0.002,9390,9.063,851,0
+385,Charter (Spectrum),Union River Telephone Company,Union River Telephone Company,846,0.002,3053,27.71,846,0
+386,Charter (Spectrum),"Fiber by Central Florida, LLC","Fiber by Central Florida, LLC",843,0.002,34851,2.419,843,0
+387,Charter (Spectrum),Aptitude Internet LLC,Aptitude Internet LLC,822,0.002,7008,11.729,822,0
+388,Charter (Spectrum),Eclipse Communications,Eclipse Communications,821,0.002,1084,75.738,821,0
+389,Charter (Spectrum),"Etex Telephone Cooperative, Inc.","Etex Telephone Cooperative, Inc.",816,0.002,27266,2.993,816,0
+390,Charter (Spectrum),Richmond Telephone Company LLC,Richmond Telephone Company LLC,806,0.002,823,97.934,806,0
+391,Charter (Spectrum),"Standard Tobacco Company, Inc.","Standard Tobacco Company, Inc.",803,0.002,7768,10.337,0,803
+392,Charter (Spectrum),"Air Advantage, LLC","Air Advantage, LLC",796,0.002,2398,33.194,796,0
+393,Charter (Spectrum),"Shawnee Communications, Inc.","Shawnee Communications, Inc.",793,0.002,12345,6.424,793,0
+394,Charter (Spectrum),"Southern Ohio Communication Services, Inc.","Southern Ohio Communication Services, Inc.",793,0.002,5175,15.324,793,0
+395,Charter (Spectrum),"Beamspeed, LLC","Beamspeed, LLC",789,0.002,3845,20.52,315,474
+396,Charter (Spectrum),"Country Wireless, LLC","Country Wireless, LLC",787,0.002,849,92.697,787,0
+397,Charter (Spectrum),"Varcomm Holdings, Inc.","Varcomm Holdings, Inc.",764,0.002,1030,74.175,764,0
+398,Charter (Spectrum),Barbourville Utility Commission,Barbourville Utility Commission,751,0.002,3331,22.546,751,0
+399,Charter (Spectrum),"Newmax, LLC","Newmax, LLC",730,0.002,7438,9.814,707,27
+400,Charter (Spectrum),"Tri-Co Technologies, LLC","Tri-Co Technologies, LLC",728,0.002,5131,14.188,728,0
+401,Charter (Spectrum),Crystal Broadband Networks,Crystal Broadband Networks,716,0.002,7338,9.757,716,0
+402,Charter (Spectrum),Tri-County Rural Electric Cooperative,Tri-County Rural Electric Cooperative,700,0.002,18971,3.69,700,0
+403,Charter (Spectrum),Court Square Capital Partners,Court Square Capital Partners,699,0.002,21035,3.323,699,0
+404,Charter (Spectrum),Arthur Mutual Telephone Company,Arthur Mutual Telephone Company,697,0.002,2844,24.508,697,0
+405,Charter (Spectrum),"Mountain Rural Telephone Cooperative Corporation, Inc.","Mountain Rural Telephone Cooperative Corporation, Inc.",695,0.002,19539,3.557,695,0
+406,Charter (Spectrum),Axiom Technologies,Axiom Technologies,684,0.002,4862,14.068,684,0
+407,Charter (Spectrum),"UpNet WI, LLC","UpNet WI, LLC",679,0.002,832,81.611,679,0
+408,Charter (Spectrum),Boston Omaha Corporation,Boston Omaha Corporation,676,0.002,25690,2.631,676,0
+409,Charter (Spectrum),American Broadband Holding Company,American Broadband Holding Company,668,0.002,56888,1.174,668,0
+410,Charter (Spectrum),"Sweetser Rural Telephone Company, Inc.","Sweetser Rural Telephone Company, Inc.",666,0.002,3002,22.185,666,0
+411,Charter (Spectrum),Ravalli Electric Cooperative,Ravalli Electric Cooperative,657,0.002,6579,9.986,657,0
+412,Charter (Spectrum),Mid-Hudson Cablevision,Mid-Hudson Cablevision,655,0.002,35818,1.829,626,269
+413,Charter (Spectrum),Alamo Broadband Inc.,Alamo Broadband Inc.,654,0.002,1700,38.471,623,31
+414,Charter (Spectrum),ENC Access Investments LLC,ENC Access Investments LLC,648,0.002,1694,38.253,648,0
+415,Charter (Spectrum),"New Lisbon Telephone Company, Inc.","New Lisbon Telephone Company, Inc.",647,0.002,8569,7.55,647,0
+416,Charter (Spectrum),"Progressive Voice & Data, Inc.","Progressive Voice & Data, Inc.",640,0.002,1418,45.134,640,0
+417,Charter (Spectrum),McClure Telephone Company,McClure Telephone Company,630,0.002,2622,24.027,630,0
+418,Charter (Spectrum),Thumb Electric Cooperative,Thumb Electric Cooperative,626,0.002,16635,3.763,626,0
+419,Charter (Spectrum),"Nedelco, Inc.","Nedelco, Inc.",622,0.002,7357,8.455,622,0
+420,Charter (Spectrum),"NETworx Broadband, Inc.","NETworx Broadband, Inc.",599,0.002,1562,38.348,599,0
+421,Charter (Spectrum),"Nemont Telephone Cooperative, Inc.","Nemont Telephone Cooperative, Inc.",589,0.002,12564,4.688,589,0
+422,Charter (Spectrum),"Comelec Services, Inc.","Comelec Services, Inc.",588,0.002,5452,10.785,588,0
+423,Charter (Spectrum),"Steelville Telephone Exchange, Inc.","Steelville Telephone Exchange, Inc.",581,0.002,4192,13.86,581,0
+424,Charter (Spectrum),"3 Rivers Telephone Cooperative, Inc.","3 Rivers Telephone Cooperative, Inc.",580,0.002,17773,3.263,580,0
+425,Charter (Spectrum),Imagine Networks,Imagine Networks,575,0.002,1649,34.87,575,0
+426,Charter (Spectrum),Southeastern Indiana Rural Telephone Cooperative,Southeastern Indiana Rural Telephone Cooperative,568,0.002,8326,6.822,568,0
+427,Charter (Spectrum),"PATHWAYZ Communications, Inc.","PATHWAYZ Communications, Inc.",542,0.002,16276,3.33,542,0
+428,Charter (Spectrum),"AccessOn Networks, Inc.","AccessOn Networks, Inc.",540,0.002,714,75.63,540,0
+429,Charter (Spectrum),Franklin Electric Plant Board,Franklin Electric Plant Board,536,0.001,5941,9.022,536,0
+430,Charter (Spectrum),"SS Ventures, Inc.","SS Ventures, Inc.",531,0.001,538,98.699,531,0
+431,Charter (Spectrum),KEPS Technologies Inc.,KEPS Technologies Inc.,526,0.001,8533,6.164,526,0
+432,Charter (Spectrum),Hood River Electric Cooperative,Hood River Electric Cooperative,526,0.001,2845,18.489,526,0
+433,Charter (Spectrum),Tech Stack 4,Tech Stack 4,497,0.001,587,84.668,497,0
+434,Charter (Spectrum),Waitsfield & Champlain Valley Telecom,Waitsfield & Champlain Valley Telecom,491,0.001,1163,42.218,491,0
+435,Charter (Spectrum),"Alhambra-Grantfork Communications, Inc.","Alhambra-Grantfork Communications, Inc.",482,0.001,4072,11.837,482,0
+436,Charter (Spectrum),"Wi-Fiber, Inc.","Wi-Fiber, Inc.",482,0.001,13266,3.633,482,0
+437,Charter (Spectrum),"Coba Systems, LLC","Coba Systems, LLC",480,0.001,1973,24.328,0,480
+438,Charter (Spectrum),Mecklenburg Electric Cooperative,Mecklenburg Electric Cooperative,479,0.001,23921,2.002,479,0
+439,Charter (Spectrum),"Wisper ISP, Inc.","Wisper ISP, Inc.",472,0.001,498,94.779,472,0
+440,Charter (Spectrum),"MCC Network Services, LLC","MCC Network Services, LLC",468,0.001,121140,0.386,468,0
+441,Charter (Spectrum),OACYS Technology,OACYS Technology,456,0.001,478,95.397,456,0
+442,Charter (Spectrum),City of Hudson,City of Hudson,455,0.001,642,70.872,455,0
+443,Charter (Spectrum),BreezeAir Networks LLC,BreezeAir Networks LLC,447,0.001,689,64.877,447,0
+444,Charter (Spectrum),"Eastex Telephone Cooperative, Inc.","Eastex Telephone Cooperative, Inc.",445,0.001,41866,1.063,445,0
+445,Charter (Spectrum),"WEHCO Video, Inc.","WEHCO Video, Inc.",443,0.001,172012,0.258,0,443
+446,Charter (Spectrum),Meeker Cooperative Light & Power Association,Meeker Cooperative Light & Power Association,435,0.001,12309,3.534,435,0
+447,Charter (Spectrum),"City of Bardstown, KY","City of Bardstown, KY",433,0.001,17769,2.437,274,417
+448,Charter (Spectrum),Innercity Fibernet LLC,Innercity Fibernet LLC,422,0.001,467,90.364,422,0
+449,Charter (Spectrum),"LaValle Telephone Cooperative, Inc.","LaValle Telephone Cooperative, Inc.",420,0.001,3807,11.032,420,0
+450,Charter (Spectrum),GLW Broadband Inc.,GLW Broadband Inc.,406,0.001,9321,4.356,0,406
+451,Charter (Spectrum),Biddeford Internet Corporation,Biddeford Internet Corporation,405,0.001,1927,21.017,405,0
+452,Charter (Spectrum),Altamaha Electric Corporation,Altamaha Electric Corporation,404,0.001,18952,2.132,404,0
+453,Charter (Spectrum),Ayersville Telephone Company,Ayersville Telephone Company,400,0.001,1095,36.53,400,0
+454,Charter (Spectrum),"Bays-ET Highspeed, LLC","Bays-ET Highspeed, LLC",396,0.001,1318,30.046,396,0
+455,Charter (Spectrum),Pattersonville Telephone Company (NY),Pattersonville Telephone Company (NY),388,0.001,559,69.41,388,0
+456,Charter (Spectrum),Wyoming.Com,Wyoming.Com,385,0.001,486,79.218,385,0
+457,Charter (Spectrum),"Air Link Rural Broadband, LLC","Air Link Rural Broadband, LLC",370,0.001,7479,4.947,370,0
+458,Charter (Spectrum),"On-Ramp Indiana, Inc.","On-Ramp Indiana, Inc.",366,0.001,1335,27.416,366,0
+459,Charter (Spectrum),North Coast Wireless Communications,North Coast Wireless Communications,351,0.001,2929,11.984,351,0
+460,Charter (Spectrum),"Bloomingdale Telephone Company, Inc.","Bloomingdale Telephone Company, Inc.",351,0.001,9683,3.625,351,0
+461,Charter (Spectrum),"InterBel Telephone Cooperative, Inc.","InterBel Telephone Cooperative, Inc.",349,0.001,5721,6.1,349,0
+462,Charter (Spectrum),Surfnet Communications,Surfnet Communications,328,0.001,3455,9.493,328,0
+463,Charter (Spectrum),Pioneer Telephone Cooperative (OR),Pioneer Telephone Cooperative (OR),324,0.001,3893,8.323,324,0
+464,Charter (Spectrum),Oak Run Associates Ltd.,Oak Run Associates Ltd.,319,0.001,4458,7.156,0,319
+465,Charter (Spectrum),Buckland Telephone Co.,Buckland Telephone Co.,317,0.001,807,39.281,317,0
+466,Charter (Spectrum),Electric and Water Plant Board of the City of Frankfort,Electric and Water Plant Board of the City of Frankfort,315,0.001,18762,1.679,315,302
+467,Charter (Spectrum),City of North Kansas,City of North Kansas,310,0.001,404,76.733,310,0
+468,Charter (Spectrum),"Vernon Telephone Cooperative, Inc.","Vernon Telephone Cooperative, Inc.",305,0.001,14564,2.094,305,0
+469,Charter (Spectrum),"DCM Cable, Inc.","DCM Cable, Inc.",296,0.001,2294,12.903,36,260
+470,Charter (Spectrum),RTA of America,RTA of America,290,0.001,993,29.204,290,0
+471,Charter (Spectrum),"Broadband MDU Holdings, LLC","Broadband MDU Holdings, LLC",287,0.001,345,83.188,287,0
+472,Charter (Spectrum),Town of Shrewsbury,Town of Shrewsbury,287,0.001,11033,2.601,226,197
+473,Charter (Spectrum),"Sherwood Mutual Telephone Association, Inc.","Sherwood Mutual Telephone Association, Inc.",273,0.001,4962,5.502,273,0
+474,Charter (Spectrum),Habersham Electric Membership Corporation,Habersham Electric Membership Corporation,269,0.001,32123,0.837,269,0
+475,Charter (Spectrum),"Consolidated Companies, Inc.","Consolidated Companies, Inc.",269,0.001,5931,4.535,269,0
+476,Charter (Spectrum),Holland Board of Public Works,Holland Board of Public Works,257,0.001,10158,2.53,257,0
+477,Charter (Spectrum),Fail Telecommunication Corporation,Fail Telecommunication Corporation,251,0.001,13021,1.928,251,0
+478,Charter (Spectrum),Farmers Mutual Telephone Company (OH),Farmers Mutual Telephone Company (OH),248,0.001,1467,16.905,248,0
+479,Charter (Spectrum),"Schwartz Ventures, Inc.","Schwartz Ventures, Inc.",247,0.001,14242,1.734,247,0
+480,Charter (Spectrum),Scott County Telephone Cooperative,Scott County Telephone Cooperative,236,0.001,47277,0.499,236,0
+481,Charter (Spectrum),"Nevill Holdings, Inc.","Nevill Holdings, Inc.",226,0.001,14574,1.551,226,0
+482,Charter (Spectrum),Gardonville Cooperative Telephone Association,Gardonville Cooperative Telephone Association,222,0.001,5515,4.025,222,0
+483,Charter (Spectrum),"Cajun Broadband, Inc.","Cajun Broadband, Inc.",220,0.001,5465,4.026,220,0
+484,Charter (Spectrum),Allband Communications Cooperative,Allband Communications Cooperative,218,0.001,2403,9.072,218,0
+485,Charter (Spectrum),Pine Belt Communications Co. Inc.,Pine Belt Communications Co. Inc.,213,0.001,8806,2.419,213,0
+486,Charter (Spectrum),ConnectTo Communications Inc.,ConnectTo Communications Inc.,211,0.001,214,98.598,211,0
+487,Charter (Spectrum),Cable TV of East Alabama,Cable TV of East Alabama,204,0.001,40432,0.505,204,4
+488,Charter (Spectrum),"Virginia Everywhere, LLC","Virginia Everywhere, LLC",204,0.001,25263,0.808,204,0
+489,Charter (Spectrum),"FastTrack Communications, Inc.","FastTrack Communications, Inc.",200,0.001,509,39.293,200,0
+490,Charter (Spectrum),Fort Jennings Telephone Company,Fort Jennings Telephone Company,197,0.001,1298,15.177,197,0
+491,Charter (Spectrum),Broadband Corp.,Broadband Corp.,196,0.001,13184,1.487,196,0
+492,Charter (Spectrum),"Colorado Valley Telephone Cooperative, Inc.","Colorado Valley Telephone Cooperative, Inc.",195,0.001,11505,1.695,195,0
+493,Charter (Spectrum),SonicNet Inc.,SonicNet Inc.,195,0.001,610,31.967,195,0
+494,Charter (Spectrum),"Citizens Telephone Company of Hammond NY, Inc.","Citizens Telephone Company of Hammond NY, Inc.",194,0.001,7590,2.556,194,0
+495,Charter (Spectrum),Northern Arapaho Tribal Industries,Northern Arapaho Tribal Industries,192,0.001,1284,14.953,192,0
+496,Charter (Spectrum),Hankins Information Technology,Hankins Information Technology,191,0.001,2508,7.616,191,0
+497,Charter (Spectrum),"JB-Nets, LLC","JB-Nets, LLC",183,0.001,1671,10.952,183,0
+498,Charter (Spectrum),"Adirondack Techs, LLC","Adirondack Techs, LLC",181,0.001,1602,11.298,181,0
+499,Charter (Spectrum),Adams CATV Inc.,Adams CATV Inc.,180,0.001,37007,0.486,21,159
+500,Charter (Spectrum),"Claverack Communications, Inc.","Claverack Communications, Inc.",177,0.0,12100,1.463,177,0
+501,Charter (Spectrum),"Lightwave Communications, LLC","Lightwave Communications, LLC",177,0.0,484,36.57,177,0
+502,Charter (Spectrum),Newaygo County Regional Educational Service Agency,Newaygo County Regional Educational Service Agency,177,0.0,407,43.489,177,0
+503,Charter (Spectrum),Prince George Electric Cooperative,Prince George Electric Cooperative,175,0.0,13312,1.315,175,0
+504,Charter (Spectrum),South Hadley Electric Light Department,South Hadley Electric Light Department,172,0.0,7652,2.248,172,0
+505,Charter (Spectrum),City of Dickson Department of Electricity,City of Dickson Department of Electricity,167,0.0,18301,0.913,167,0
+506,Charter (Spectrum),"Bruce Telephone Company, Inc.","Bruce Telephone Company, Inc.",166,0.0,1773,9.363,166,0
+507,Charter (Spectrum),Benton Cooperative Telephone Company,Benton Cooperative Telephone Company,156,0.0,11205,1.392,156,0
+508,Charter (Spectrum),"Gigabeam Internet, LLC","Gigabeam Internet, LLC",153,0.0,155,98.71,153,0
+509,Charter (Spectrum),Northwest Open Access Network,Northwest Open Access Network,149,0.0,2440,6.107,149,0
+510,Charter (Spectrum),Rural Communications Holding Corporation,Rural Communications Holding Corporation,148,0.0,28900,0.512,148,0
+511,Charter (Spectrum),West Central Telephone Assn.,West Central Telephone Assn.,147,0.0,7271,2.022,147,0
+512,Charter (Spectrum),"DMCI Broadband, LLC","DMCI Broadband, LLC",145,0.0,2911,4.981,145,0
+513,Charter (Spectrum),"Myakka Communications, Inc.","Myakka Communications, Inc.",145,0.0,4950,2.929,145,0
+514,Charter (Spectrum),Westfield Gas & Electric,Westfield Gas & Electric,135,0.0,26848,0.503,135,0
+515,Charter (Spectrum),Cable Co-Op,Cable Co-Op,135,0.0,2327,5.801,6,129
+516,Charter (Spectrum),PCs for People,PCs for People,132,0.0,174,75.862,2,131
+517,Charter (Spectrum),4ip Technology and Media LLC,4ip Technology and Media LLC,132,0.0,1364,9.677,132,0
+518,Charter (Spectrum),Egyptian Telephone Cooperative Association,Egyptian Telephone Cooperative Association,129,0.0,2304,5.599,129,0
+519,Charter (Spectrum),"Southwest Arkansas Electric Cooperative, Inc.","Southwest Arkansas Electric Cooperative, Inc.",127,0.0,22668,0.56,127,0
+520,Charter (Spectrum),Coon Valley Farmers Telephone Company,Coon Valley Farmers Telephone Company,125,0.0,4096,3.052,125,0
+521,Charter (Spectrum),Park Region Mutual Telephone Company,Park Region Mutual Telephone Company,125,0.0,10526,1.188,125,0
+522,Charter (Spectrum),"Logan Telephone Cooperative, Inc.","Logan Telephone Cooperative, Inc.",121,0.0,8699,1.391,121,0
+523,Charter (Spectrum),Okanogan County PUD No. 1,Okanogan County PUD No. 1,118,0.0,522,22.605,118,0
+524,Charter (Spectrum),Mille Lacs Energy Cooperative,Mille Lacs Energy Cooperative,117,0.0,4482,2.61,117,0
+525,Charter (Spectrum),Advanced Internet,Advanced Internet,114,0.0,231,49.351,114,0
+526,Charter (Spectrum),Wittenberg Telephone Company,Wittenberg Telephone Company,112,0.0,7222,1.551,112,0
+527,Charter (Spectrum),"Eastern Shore Communications, LLC","Eastern Shore Communications, LLC",100,0.0,1945,5.141,100,0
+528,Charter (Spectrum),"Tri-County Communications Cooperative, Inc.","Tri-County Communications Cooperative, Inc.",96,0.0,14525,0.661,48,48
+529,Charter (Spectrum),"Clear Lake Telephone Company, Inc.","Clear Lake Telephone Company, Inc.",96,0.0,3833,2.505,96,0
+530,Charter (Spectrum),"Sprocket Networks, Inc.","Sprocket Networks, Inc.",92,0.0,211,43.602,92,0
+531,Charter (Spectrum),"Geneva On-Line, Inc.","Geneva On-Line, Inc.",90,0.0,130,69.231,90,0
+532,Charter (Spectrum),"Lakeland Communications, Inc.","Lakeland Communications, Inc.",86,0.0,11379,0.756,86,0
+533,Charter (Spectrum),DigitalC,DigitalC,82,0.0,82,100.0,0,82
+534,Charter (Spectrum),Paulding Putnam Electric & Internet,Paulding Putnam Electric & Internet,77,0.0,718,10.724,77,0
+535,Charter (Spectrum),"LiveOak Fiber, LLC","LiveOak Fiber, LLC",75,0.0,155654,0.048,75,0
+536,Charter (Spectrum),Haywire,Haywire,75,0.0,136,55.147,75,0
+537,Charter (Spectrum),"Michwave Technologies, Inc.","Michwave Technologies, Inc.",71,0.0,491,14.46,71,0
+538,Charter (Spectrum),BlueBit Networks LLC,BlueBit Networks LLC,68,0.0,424,16.038,68,0
+539,Charter (Spectrum),"TelAtlantic, Inc.","TelAtlantic, Inc.",62,0.0,2429,2.552,62,0
+540,Charter (Spectrum),Southeastern Indiana Rural Electric Membership Corporation,Southeastern Indiana Rural Electric Membership Corporation,62,0.0,20449,0.303,62,0
+541,Charter (Spectrum),"Waimana Enterprises, Inc.","Waimana Enterprises, Inc.",61,0.0,61,100.0,61,0
+542,Charter (Spectrum),"Konceptio Data Services, LLC","Konceptio Data Services, LLC",61,0.0,1332,4.58,61,0
+543,Charter (Spectrum),"Alternative Choice Wireless, LLC","Alternative Choice Wireless, LLC",60,0.0,63,95.238,60,0
+544,Charter (Spectrum),"Consolidated Smart Broadband Systems, LLC","Consolidated Smart Broadband Systems, LLC",59,0.0,83,71.084,19,40
+545,Charter (Spectrum),Paul Bunyan Rural Telephone Cooperative,Paul Bunyan Rural Telephone Cooperative,58,0.0,62651,0.093,58,0
+546,Charter (Spectrum),Grand River Mutual Telephone Corporation,Grand River Mutual Telephone Corporation,55,0.0,27791,0.198,55,0
+547,Charter (Spectrum),"Anza Electric Cooperative, Inc.","Anza Electric Cooperative, Inc.",54,0.0,2572,2.1,54,0
+548,Charter (Spectrum),"CASCO Communications, Inc.","CASCO Communications, Inc.",53,0.0,6328,0.838,53,0
+549,Charter (Spectrum),"Germantown Telephone Company, Inc.","Germantown Telephone Company, Inc.",52,0.0,4804,1.082,52,0
+550,Charter (Spectrum),Cherokee Cablevision Inc.,Cherokee Cablevision Inc.,51,0.0,2287,2.23,0,51
+551,Charter (Spectrum),Southern Ute ISP,Southern Ute ISP,50,0.0,1063,4.704,50,0
+552,Charter (Spectrum),Velofi LLC,Velofi LLC,49,0.0,423,11.584,49,0
+553,Charter (Spectrum),"VGI Technology, Inc.","VGI Technology, Inc.",49,0.0,482,10.166,49,0
+554,Charter (Spectrum),"Siren Telephone Company, Inc.","Siren Telephone Company, Inc.",49,0.0,8843,0.554,49,0
+555,Charter (Spectrum),Bloomingdale Home Telephone Company,Bloomingdale Home Telephone Company,48,0.0,1746,2.749,48,0
+556,Charter (Spectrum),"ResTech Services, LLC","ResTech Services, LLC",46,0.0,46,100.0,46,0
+557,Charter (Spectrum),"City of Norway, Michigan","City of Norway, Michigan",45,0.0,1812,2.483,0,45
+558,Charter (Spectrum),"Starry, Inc.","Starry, Inc.",42,0.0,331,12.689,42,0
+559,Charter (Spectrum),"DSI Management Holdings, LLC","DSI Management Holdings, LLC",42,0.0,252,16.667,42,0
+560,Charter (Spectrum),Federated Telephone Cooperative,Federated Telephone Cooperative,41,0.0,11161,0.367,41,0
+561,Charter (Spectrum),"Siteserver, Inc.","Siteserver, Inc.",40,0.0,104,38.462,40,0
+562,Charter (Spectrum),"Dycom Holding, Inc.","Dycom Holding, Inc.",39,0.0,12051,0.324,39,0
+563,Charter (Spectrum),"iGo Technology, Inc.","iGo Technology, Inc.",39,0.0,2852,1.367,39,0
+564,Charter (Spectrum),"Redburn Infrastructure, LLC","Redburn Infrastructure, LLC",38,0.0,42,90.476,38,0
+565,Charter (Spectrum),Arapahoe Telephone Company,Arapahoe Telephone Company,36,0.0,1854,1.942,36,0
+566,Charter (Spectrum),City of Valparaiso,City of Valparaiso,34,0.0,1449,2.346,0,34
+567,Charter (Spectrum),"First Step Internet, LLC","First Step Internet, LLC",33,0.0,527,6.262,33,0
+568,Charter (Spectrum),Hemingford Cooperative Telephone Company,Hemingford Cooperative Telephone Company,30,0.0,3169,0.947,30,0
+569,Charter (Spectrum),Farmers Mutual Telephone Company (MN),Farmers Mutual Telephone Company (MN),30,0.0,5062,0.593,30,0
+570,Charter (Spectrum),Simple Fiber Communications LLC,Simple Fiber Communications LLC,30,0.0,84,35.714,30,0
+571,Charter (Spectrum),"Martell Enterprises, Inc.","Martell Enterprises, Inc.",29,0.0,1443,2.01,29,0
+572,Charter (Spectrum),Choptank Electric Cooperative,Choptank Electric Cooperative,28,0.0,13997,0.2,28,0
+573,Charter (Spectrum),"IFN, LLC","IFN, LLC",28,0.0,1179,2.375,28,0
+574,Charter (Spectrum),"Fatbeam Holdings, LLC","Fatbeam Holdings, LLC",27,0.0,16958,0.159,27,0
+575,Charter (Spectrum),BerryComm LLC,BerryComm LLC,24,0.0,5761,0.417,24,0
+576,Charter (Spectrum),"ERC Broadband, LLC","ERC Broadband, LLC",23,0.0,50,46.0,23,0
+577,Charter (Spectrum),xyTel LLC,xyTel LLC,23,0.0,73,31.507,23,0
+578,Charter (Spectrum),Cenos Networks,Cenos Networks,23,0.0,30,76.667,23,0
+579,Charter (Spectrum),Mark Twain Rural Telephone Company,Mark Twain Rural Telephone Company,22,0.0,7035,0.313,22,0
+580,Charter (Spectrum),Litebridge LLC,Litebridge LLC,22,0.0,175,12.571,22,0
+581,Charter (Spectrum),"Netwurx, LLC","Netwurx, LLC",21,0.0,23,91.304,21,0
+582,Charter (Spectrum),Cochrane Cooperative Telephone Company,Cochrane Cooperative Telephone Company,20,0.0,2942,0.68,20,0
+583,Charter (Spectrum),"NE Colorado Cellular, Inc.","NE Colorado Cellular, Inc.",20,0.0,905,2.21,20,0
+584,Charter (Spectrum),"Southwest Arkansas Telephone Cooperative, Inc.","Southwest Arkansas Telephone Cooperative, Inc.",20,0.0,7724,0.259,20,0
+585,Charter (Spectrum),"Kalida Telephone Company, Inc.","Kalida Telephone Company, Inc.",18,0.0,1349,1.334,18,0
+586,Charter (Spectrum),"First American Holdings, Inc.","First American Holdings, Inc.",17,0.0,1184,1.436,17,0
+587,Charter (Spectrum),Gearheart Communications,Gearheart Communications,17,0.0,36819,0.046,0,17
+588,Charter (Spectrum),South Valley Internet,South Valley Internet,17,0.0,133,12.782,13,4
+589,Charter (Spectrum),Tishomingo County Electric Power Association,Tishomingo County Electric Power Association,16,0.0,12107,0.132,16,0
+590,Charter (Spectrum),City of Williamstown,City of Williamstown,16,0.0,2047,0.782,12,4
+591,Charter (Spectrum),"Townes Telecommunications, Inc.","Townes Telecommunications, Inc.",16,0.0,10566,0.151,16,0
+592,Charter (Spectrum),Allevia Technology,Allevia Technology,15,0.0,35,42.857,15,0
+593,Charter (Spectrum),"Public Service Communications, Inc.","Public Service Communications, Inc.",15,0.0,20887,0.072,15,0
+594,Charter (Spectrum),Emery Telcom,Emery Telcom,14,0.0,23190,0.06,14,0
+595,Charter (Spectrum),Mohawk Networks LLC,Mohawk Networks LLC,14,0.0,605,2.314,14,0
+596,Charter (Spectrum),"BalsamWest FiberNET, LLC","BalsamWest FiberNET, LLC",12,0.0,1812,0.662,12,0
+597,Charter (Spectrum),"Eastern Telephone & Technologies, Inc.","Eastern Telephone & Technologies, Inc.",12,0.0,62,19.355,12,0
+598,Charter (Spectrum),"Midstates Data Transport, LLC","Midstates Data Transport, LLC",11,0.0,7626,0.144,11,0
+599,Charter (Spectrum),WaveLinc Communications LLC,WaveLinc Communications LLC,10,0.0,140,7.143,10,0
+600,Charter (Spectrum),JTN Communications,JTN Communications,10,0.0,302,3.311,10,0
+601,Charter (Spectrum),"Agri-Valley Communications, Inc.","Agri-Valley Communications, Inc.",9,0.0,7266,0.124,9,0
+602,Charter (Spectrum),Red Spectrum Communications LLC,Red Spectrum Communications LLC,9,0.0,1609,0.559,9,0
+603,Charter (Spectrum),"Community Antenna Service, Inc.","Community Antenna Service, Inc.",8,0.0,32019,0.025,0,8
+604,Charter (Spectrum),"Harlan Community Television, Inc.","Harlan Community Television, Inc.",8,0.0,7189,0.111,8,8
+605,Charter (Spectrum),The Hancock Telephone Company,The Hancock Telephone Company,8,0.0,1556,0.514,8,0
+606,Charter (Spectrum),"Xtratyme Technologies, Inc.","Xtratyme Technologies, Inc.",8,0.0,19,42.105,8,0
+607,Charter (Spectrum),Day Management Corporation,Day Management Corporation,8,0.0,22749,0.035,8,0
+608,Charter (Spectrum),Citizens Telephone Corporation,Citizens Telephone Corporation,8,0.0,3465,0.231,8,0
+609,Charter (Spectrum),"Orion CableSystems, Inc.","Orion CableSystems, Inc.",8,0.0,2439,0.328,0,8
+610,Charter (Spectrum),Bledsoe Telephone Cooperative Inc.,Bledsoe Telephone Cooperative Inc.,7,0.0,14305,0.049,7,0
+611,Charter (Spectrum),"Northern Telephone Cooperative, Inc.","Northern Telephone Cooperative, Inc.",7,0.0,1207,0.58,7,0
+612,Charter (Spectrum),Beaver Valley Cable Company,Beaver Valley Cable Company,6,0.0,2122,0.283,3,3
+613,Charter (Spectrum),"Smiling J, LLC","Smiling J, LLC",5,0.0,6242,0.08,5,0
+614,Charter (Spectrum),Blue Ridge Communications,Blue Ridge Communications,5,0.0,275256,0.002,3,2
+615,Charter (Spectrum),"Skymesh, Inc.","Skymesh, Inc.",5,0.0,5,100.0,5,0
+616,Charter (Spectrum),"CresComm WiFi, LLC","CresComm WiFi, LLC",4,0.0,20,20.0,4,0
+617,Charter (Spectrum),City of Ocala,City of Ocala,4,0.0,178,2.247,4,0
+618,Charter (Spectrum),Upsala Cooperative Telephone Association,Upsala Cooperative Telephone Association,4,0.0,3502,0.114,4,0
+619,Charter (Spectrum),"Xiber, LLC","Xiber, LLC",4,0.0,8,50.0,4,0
+620,Charter (Spectrum),"Starwire Technologies, LLC","Starwire Technologies, LLC",3,0.0,2322,0.129,3,0
+621,Charter (Spectrum),Green Hills Telephone Corporation,Green Hills Telephone Corporation,3,0.0,13863,0.022,3,0
+622,Charter (Spectrum),ICS Advanced Technologies,ICS Advanced Technologies,3,0.0,252,1.19,3,0
+623,Charter (Spectrum),Citizens Telephone Cooperative (VA),Citizens Telephone Cooperative (VA),3,0.0,14074,0.021,3,0
+624,Charter (Spectrum),"Heritage Broadband, LLC","Heritage Broadband, LLC",3,0.0,780,0.385,3,0
+625,Charter (Spectrum),"Hoyos Consulting, LLC","Hoyos Consulting, LLC",2,0.0,3,66.667,2,0
+626,Charter (Spectrum),Community Telecom Services,Community Telecom Services,2,0.0,4704,0.043,0,2
+627,Charter (Spectrum),"Everywhere Wireless, LLC","Everywhere Wireless, LLC",2,0.0,2,100.0,2,0
+628,Charter (Spectrum),"Decatur Holding Company, Inc.","Decatur Holding Company, Inc.",2,0.0,2982,0.067,2,0
+629,Charter (Spectrum),Cable America Missouri LLC,Cable America Missouri LLC,2,0.0,1390,0.144,0,2
+630,Charter (Spectrum),"Juvilex Communications, LLC","Juvilex Communications, LLC",2,0.0,2,100.0,2,0
+631,Charter (Spectrum),Erwin Utilities,Erwin Utilities,2,0.0,7531,0.027,2,0
+632,Charter (Spectrum),City of Sandersville,City of Sandersville,2,0.0,2,100.0,2,0
+633,Charter (Spectrum),"Ragland Telephone Co., Inc.","Ragland Telephone Co., Inc.",2,0.0,1151,0.174,2,0
+634,Charter (Spectrum),"Amery Telcom, Inc.","Amery Telcom, Inc.",2,0.0,21055,0.009,2,0
+635,Charter (Spectrum),Woodstock Telephone Company,Woodstock Telephone Company,2,0.0,6045,0.033,2,0
+636,Charter (Spectrum),"Hawaii Dialogix Telecom, LLC","Hawaii Dialogix Telecom, LLC",2,0.0,2,100.0,2,0
+637,Charter (Spectrum),Elevate Technology Group,Elevate Technology Group,2,0.0,2,100.0,2,0
+638,Charter (Spectrum),The North-Eastern Pennsylvania Telephone Company,The North-Eastern Pennsylvania Telephone Company,2,0.0,15588,0.013,2,0
+639,Charter (Spectrum),Alcorn County Electric Power Association,Alcorn County Electric Power Association,1,0.0,25497,0.004,1,0
+640,Charter (Spectrum),"Talkie Communications, Inc.","Talkie Communications, Inc.",1,0.0,35773,0.003,1,0
+641,Charter (Spectrum),Youngsville Television Corporation,Youngsville Television Corporation,1,0.0,608,0.164,1,0
+642,Charter (Spectrum),"Ogden Communications, Inc.","Ogden Communications, Inc.",1,0.0,543,0.184,1,0
+643,Charter (Spectrum),Ridge Tower Network LLC,Ridge Tower Network LLC,1,0.0,22,4.545,1,0
+644,Charter (Spectrum),Vogtmann Engineering Inc.,Vogtmann Engineering Inc.,1,0.0,2668,0.037,0,1
+645,Charter (Spectrum),Mosier WiNet LLC,Mosier WiNet LLC,1,0.0,168,0.595,1,0
+646,Charter (Spectrum),"Benchmark Communications, LLC","Benchmark Communications, LLC",1,0.0,1,100.0,1,0
+647,Charter (Spectrum),Pocomoke Holdings,Pocomoke Holdings,1,0.0,230,0.435,1,0
+648,Charter (Spectrum),"UBTA-UBET Communications, Inc.","UBTA-UBET Communications, Inc.",1,0.0,20693,0.005,1,0
+649,Charter (Spectrum),"Skywave Wireless, Inc.","Skywave Wireless, Inc.",1,0.0,4143,0.024,1,0
+650,Charter (Spectrum),Selectronics Corporation,Selectronics Corporation,1,0.0,11289,0.009,1,0
+651,Charter (Spectrum),AlignTec Inc.,AlignTec Inc.,1,0.0,10,10.0,1,0
+652,Charter (Spectrum),Deerfield Valley Communications Union District,Deerfield Valley Communications Union District,1,0.0,2700,0.037,1,0
+653,Charter (Spectrum),Pear Networks LLC,Pear Networks LLC,1,0.0,1619,0.062,1,0
+654,Charter (Spectrum),"Dell Telephone Cooperative, Inc.","Dell Telephone Cooperative, Inc.",1,0.0,685,0.146,1,0
+655,Charter (Spectrum),Lake Placid Fiber LLC,Lake Placid Fiber LLC,1,0.0,3,33.333,1,0
+656,Charter (Spectrum),LARIAT,LARIAT,1,0.0,2,50.0,1,0

@@ -1,0 +1,190 @@
+rank,target,operator_as_filed,current_parent,overlap_bsls,pct_of_target_footprint,their_total_footprint_bsls,pct_of_their_footprint,overlap_their_fiber_bsls,overlap_their_cable_bsls
+1,Cable One (Sparklight),AT&T,AT&T (incl. Lumen consumer fiber),277094,12.153,19375357,1.43,277094,0
+2,Cable One (Sparklight),Comcast (Xfinity),Comcast (Xfinity),114085,5.004,38786664,0.294,45774,68313
+3,Cable One (Sparklight),Frontier,Verizon (incl. Frontier),105552,4.629,6545954,1.612,105552,0
+4,Cable One (Sparklight),Lumen (Quantum Fiber / CenturyLink),AT&T (incl. Lumen consumer fiber),85065,3.731,3157729,2.694,85065,0
+5,Cable One (Sparklight),"Dobson Technologies, Inc.","Dobson Technologies, Inc.",80159,3.516,196373,40.82,80159,0
+6,Cable One (Sparklight),TDS Telecom,TDS Telecom,68623,3.01,1113559,6.162,68623,0
+7,Cable One (Sparklight),Charter (Spectrum),Charter + Cox (Spectrum),61363,2.691,35944137,0.171,16102,46020
+8,Cable One (Sparklight),Bluepeak,Bluepeak,58815,2.58,316917,18.558,58814,4
+9,Cable One (Sparklight),Windstream/Uniti (Kinetic),Windstream/Uniti (Kinetic),58155,2.551,1526157,3.811,58155,0
+10,Cable One (Sparklight),Midco,Midco,57135,2.506,650944,8.777,2061,55074
+11,Cable One (Sparklight),Metronet (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),54666,2.398,2612682,2.092,54666,0
+12,Cable One (Sparklight),"WEHCO Video, Inc.","WEHCO Video, Inc.",39535,1.734,172012,22.984,0,39535
+13,Cable One (Sparklight),Brightspeed,Brightspeed,38971,1.709,1793486,2.173,38971,0
+14,Cable One (Sparklight),"Telapex, Inc.","Telapex, Inc.",38886,1.706,381068,10.204,38886,0
+15,Cable One (Sparklight),Astound Broadband,Astound Broadband,36224,1.589,2518837,1.438,2112,34463
+16,Cable One (Sparklight),Optimum (Altice USA),Optimum (Altice USA),32524,1.426,5366001,0.606,0,32524
+17,Cable One (Sparklight),"MCC Network Services, LLC","MCC Network Services, LLC",32158,1.41,121140,26.546,32158,0
+18,Cable One (Sparklight),Coast Electric Power Association,Coast Electric Power Association,29968,1.314,65325,45.875,29968,0
+19,Cable One (Sparklight),Cox,Charter + Cox (Spectrum),29821,1.308,7297869,0.409,10657,19180
+20,Cable One (Sparklight),Singing River Electric Cooperative,Singing River Electric Cooperative,27172,1.192,53657,50.64,27172,0
+21,Cable One (Sparklight),"Computer Techniques, Inc.","Computer Techniques, Inc.",23435,1.028,29140,80.422,23435,0
+22,Cable One (Sparklight),"Project Mutual Telephone Cooperative Association, Inc.","Project Mutual Telephone Cooperative Association, Inc.",19331,0.848,24367,79.333,19331,0
+23,Cable One (Sparklight),"Joink, LLC","Joink, LLC",18093,0.794,48734,37.126,18093,0
+24,Cable One (Sparklight),"Fatbeam Holdings, LLC","Fatbeam Holdings, LLC",16866,0.74,16958,99.457,16866,0
+25,Cable One (Sparklight),"Horizon Communications, Inc.","Horizon Communications, Inc.",16510,0.724,34801,47.441,16510,0
+26,Cable One (Sparklight),Ritter,Ritter,16385,0.719,177817,9.215,16385,0
+27,Cable One (Sparklight),Fybercom LLC,Fybercom LLC,16270,0.714,22876,71.123,16270,0
+28,Cable One (Sparklight),"Conexon Connect, LLC","Conexon Connect, LLC",16150,0.708,415600,3.886,16150,0
+29,Cable One (Sparklight),Socket Telecom LLC,Socket Telecom LLC,15987,0.701,118266,13.518,15987,0
+30,Cable One (Sparklight),"ENMR Telephone Cooperative, Inc.","ENMR Telephone Cooperative, Inc.",14998,0.658,63317,23.687,14998,0
+31,Cable One (Sparklight),"JAB Wireless, Inc.","JAB Wireless, Inc.",14722,0.646,89596,16.432,14722,0
+32,Cable One (Sparklight),Google Fiber,Google Fiber,13864,0.608,1886259,0.735,13864,0
+33,Cable One (Sparklight),Air Bridge Broadband LLC,Air Bridge Broadband LLC,13077,0.574,13231,98.836,13077,0
+34,Cable One (Sparklight),First Electric Cooperative Corporation,First Electric Cooperative Corporation,12319,0.54,82726,14.891,12319,0
+35,Cable One (Sparklight),"City of Ponca, Oklahoma","City of Ponca, Oklahoma",11604,0.509,11706,99.129,11604,0
+36,Cable One (Sparklight),Daviess-Martin County Rural Telephone Corporation,Daviess-Martin County Rural Telephone Corporation,10414,0.457,17045,61.097,10414,0
+37,Cable One (Sparklight),Allo Communications LLC,Allo Communications LLC,10288,0.451,436620,2.356,10288,0
+38,Cable One (Sparklight),Long Lines,Long Lines,10272,0.451,24768,41.473,7848,2528
+39,Cable One (Sparklight),"Lyte Fiber, LLC","Lyte Fiber, LLC",10138,0.445,27250,37.204,10138,0
+40,Cable One (Sparklight),"Ezee Fiber Texas, LLC","Ezee Fiber Texas, LLC",9686,0.425,373234,2.595,9686,0
+41,Cable One (Sparklight),Coosa Valley Electric Cooperative,Coosa Valley Electric Cooperative,9461,0.415,20648,45.82,9461,0
+42,Cable One (Sparklight),"4-County Fiber, LLC","4-County Fiber, LLC",8636,0.379,36449,23.693,8636,0
+43,Cable One (Sparklight),Direct Management Company,Direct Management Company,8421,0.369,37407,22.512,8421,0
+44,Cable One (Sparklight),"Valley Telephone Cooperative, Inc. (AZ/NM)","Valley Telephone Cooperative, Inc. (AZ/NM)",8308,0.364,15038,55.247,8308,0
+45,Cable One (Sparklight),"Hilliary Communications, LLC","Hilliary Communications, LLC",8089,0.355,40574,19.936,8089,0
+46,Cable One (Sparklight),Consolidated (Fidium),Consolidated (Fidium),7956,0.349,1058652,0.752,7956,0
+47,Cable One (Sparklight),"Big River Telephone, LLC","Big River Telephone, LLC",6519,0.286,19198,33.957,6519,0
+48,Cable One (Sparklight),"IdeaTek Telcom, LLC","IdeaTek Telcom, LLC",6315,0.277,149656,4.22,6315,0
+49,Cable One (Sparklight),Delta Electric Power Association,Delta Electric Power Association,6231,0.273,20606,30.239,6231,0
+50,Cable One (Sparklight),"Plains Internet, LLC","Plains Internet, LLC",5345,0.234,6610,80.862,5345,0
+51,Cable One (Sparklight),"Ozark Fiber, LLC","Ozark Fiber, LLC",5292,0.232,19128,27.666,5292,0
+52,Cable One (Sparklight),"Southwest Arkansas Electric Cooperative, Inc.","Southwest Arkansas Electric Cooperative, Inc.",4913,0.215,22668,21.674,4913,0
+53,Cable One (Sparklight),Tallahatchie Valley Internet Services,Tallahatchie Valley Internet Services,4833,0.212,27041,17.873,4833,0
+54,Cable One (Sparklight),JMZ Corporation,JMZ Corporation,4824,0.212,34925,13.812,4824,0
+55,Cable One (Sparklight),"Royell Communications, Inc.","Royell Communications, Inc.",4818,0.211,5982,80.542,4818,0
+56,Cable One (Sparklight),Kennett Board of Public Works,Kennett Board of Public Works,4689,0.206,4706,99.639,4689,0
+57,Cable One (Sparklight),ImOn,ImOn,4638,0.203,129945,3.569,4638,0
+58,Cable One (Sparklight),South Central Indiana Rural Electric Membership Corporation,South Central Indiana Rural Electric Membership Corporation,4498,0.197,29274,15.365,4498,0
+59,Cable One (Sparklight),"Ganado Telephone Company, Inc.","Ganado Telephone Company, Inc.",4345,0.191,5428,80.048,4345,0
+60,Cable One (Sparklight),Orange County REMC,Orange County REMC,4245,0.186,22290,19.044,4245,0
+61,Cable One (Sparklight),"Clay County Rural Telephone Cooperative, Inc.","Clay County Rural Telephone Cooperative, Inc.",4142,0.182,32217,12.857,4142,0
+62,Cable One (Sparklight),"Pavlov Media, Inc.","Pavlov Media, Inc.",4112,0.18,114421,3.594,4112,0
+63,Cable One (Sparklight),"Colorado Valley Telephone Cooperative, Inc.","Colorado Valley Telephone Cooperative, Inc.",4007,0.176,11505,34.828,4007,0
+64,Cable One (Sparklight),"WH i3B Bidco LLC/WH i3B Topco, LLC","WH i3B Bidco LLC/WH i3B Topco, LLC",3952,0.173,313876,1.259,3952,0
+65,Cable One (Sparklight),"Ripple Fiber, LLC","Ripple Fiber, LLC",3940,0.173,206137,1.911,3940,0
+66,Cable One (Sparklight),Red River Cellular Telephone Corporation,Red River Cellular Telephone Corporation,3904,0.171,8381,46.582,3904,0
+67,Cable One (Sparklight),Mediacom,Mediacom,3825,0.168,2668787,0.143,57,3825
+68,Cable One (Sparklight),"LiveOak Fiber, LLC","LiveOak Fiber, LLC",3800,0.167,155654,2.441,3800,0
+69,Cable One (Sparklight),"PATHWAYZ Communications, Inc.","PATHWAYZ Communications, Inc.",3738,0.164,16276,22.966,3738,0
+70,Cable One (Sparklight),Chickasaw Holding Company,Chickasaw Holding Company,3584,0.157,6037,59.367,3584,0
+71,Cable One (Sparklight),"Wi-Fiber, Inc.","Wi-Fiber, Inc.",3292,0.144,13266,24.815,3292,0
+72,Cable One (Sparklight),Farmers Mutual Telephone Company (ID),Farmers Mutual Telephone Company (ID),3291,0.144,4561,72.155,3291,0
+73,Cable One (Sparklight),City of Chanute Kansas,City of Chanute Kansas,3242,0.142,3256,99.57,3242,0
+74,Cable One (Sparklight),"Palmetto Rural Telephone Cooperative, Inc.","Palmetto Rural Telephone Cooperative, Inc.",3181,0.14,41495,7.666,3181,0
+75,Cable One (Sparklight),"PD Fiber, LLC","PD Fiber, LLC",3126,0.137,10901,28.676,3126,0
+76,Cable One (Sparklight),"Forked Deer Electric Cooperative, Inc.","Forked Deer Electric Cooperative, Inc.",2950,0.129,9480,31.118,2950,0
+77,Cable One (Sparklight),Tri-County Electric Membership Corporation,Tri-County Electric Membership Corporation,2813,0.123,31959,8.802,2813,0
+78,Cable One (Sparklight),Gateway Fiber Holdings LLC,Gateway Fiber Holdings LLC,2658,0.117,134105,1.982,2658,0
+79,Cable One (Sparklight),SEMO Electric Cooperative,SEMO Electric Cooperative,2652,0.116,22464,11.806,2652,0
+80,Cable One (Sparklight),"Delta Communications, LLC","Delta Communications, LLC",2541,0.111,170364,1.492,2541,0
+81,Cable One (Sparklight),"M-Pulse Fiber, LLC","M-Pulse Fiber, LLC",2522,0.111,10757,23.445,2522,0
+82,Cable One (Sparklight),Northeast Missouri Rural Telephone Company,Northeast Missouri Rural Telephone Company,2498,0.11,14458,17.278,2498,0
+83,Cable One (Sparklight),Pioneer Telephone Cooperative (OK),Pioneer Telephone Cooperative (OK),2480,0.109,66019,3.756,2480,0
+84,Cable One (Sparklight),Grayson Collin Electric Cooperative,Grayson Collin Electric Cooperative,2463,0.108,15871,15.519,2463,0
+85,Cable One (Sparklight),FDF Communications Co.,FDF Communications Co.,2400,0.105,3343,71.792,2400,0
+86,Cable One (Sparklight),"Etex Telephone Cooperative, Inc.","Etex Telephone Cooperative, Inc.",2207,0.097,27266,8.094,2207,0
+87,Cable One (Sparklight),"Mainstream Fiber Networks, LLC","Mainstream Fiber Networks, LLC",2188,0.096,35863,6.101,2188,0
+88,Cable One (Sparklight),Inland Cellular Telephone Company,Inland Cellular Telephone Company,2076,0.091,7649,27.141,2076,0
+89,Cable One (Sparklight),Hamilton County Telephone Co-Op,Hamilton County Telephone Co-Op,2061,0.09,20422,10.092,2061,0
+90,Cable One (Sparklight),"Wabash Telephone Cooperative, Inc.","Wabash Telephone Cooperative, Inc.",2005,0.088,34393,5.83,2005,0
+91,Cable One (Sparklight),"Skywave Wireless, Inc.","Skywave Wireless, Inc.",1986,0.087,4143,47.936,1986,0
+92,Cable One (Sparklight),Oregon Telephone Corporation,Oregon Telephone Corporation,1703,0.075,22660,7.515,1703,0
+93,Cable One (Sparklight),Ziply Fiber (Bell Canada),Ziply Fiber (Bell Canada),1691,0.074,763929,0.221,1691,0
+94,Cable One (Sparklight),Filer Mutual Telephone Company,Filer Mutual Telephone Company,1666,0.073,3127,53.278,1666,0
+95,Cable One (Sparklight),"Eminent Technical Solutions, LLC","Eminent Technical Solutions, LLC",1646,0.072,2309,71.286,1646,0
+96,Cable One (Sparklight),"Boycom Cablevision, Inc.","Boycom Cablevision, Inc.",1526,0.067,5331,28.625,1444,82
+97,Cable One (Sparklight),"DE Fastlink, LLC","DE Fastlink, LLC",1506,0.066,36714,4.102,1506,0
+98,Cable One (Sparklight),Gascosage Electric Cooperative,Gascosage Electric Cooperative,1486,0.065,4160,35.721,1486,0
+99,Cable One (Sparklight),The Chickasaw Nation,The Chickasaw Nation,1431,0.063,1448,98.826,1431,0
+100,Cable One (Sparklight),"Zito West Holding, LLC","Zito West Holding, LLC",1425,0.062,265591,0.537,0,1425
+101,Cable One (Sparklight),Bloomingdale Home Telephone Company,Bloomingdale Home Telephone Company,1398,0.061,1746,80.069,1398,0
+102,Cable One (Sparklight),"Victoria Electric Cooperative, Inc.","Victoria Electric Cooperative, Inc.",1392,0.061,8406,16.56,1392,0
+103,Cable One (Sparklight),"Clay County Connect, Inc.","Clay County Connect, Inc.",1392,0.061,12017,11.584,1392,0
+104,Cable One (Sparklight),East Mississippi Electric Power Association,East Mississippi Electric Power Association,1388,0.061,35291,3.933,1388,0
+105,Cable One (Sparklight),"Blackfoot Telephone Cooperative, Inc.","Blackfoot Telephone Cooperative, Inc.",1385,0.061,22880,6.053,1385,0
+106,Cable One (Sparklight),Jackson Electric Cooperative,Jackson Electric Cooperative,1369,0.06,5148,26.593,1369,0
+107,Cable One (Sparklight),AMG Technology Investment Group LLC,AMG Technology Investment Group LLC,1364,0.06,103541,1.317,1364,0
+108,Cable One (Sparklight),"Smithville Holding Company, Inc.","Smithville Holding Company, Inc.",1232,0.054,29729,4.144,1232,0
+109,Cable One (Sparklight),Mulberry Cooperative Telephone Co. Inc.,Mulberry Cooperative Telephone Co. Inc.,1212,0.053,6484,18.692,1212,0
+110,Cable One (Sparklight),"Southwest Arkansas Telephone Cooperative, Inc.","Southwest Arkansas Telephone Cooperative, Inc.",1178,0.052,7724,15.251,1178,0
+111,Cable One (Sparklight),LTD Broadband LLC,LTD Broadband LLC,1171,0.051,18470,6.34,1171,0
+112,Cable One (Sparklight),Dickey Rural Telephone Cooperative,Dickey Rural Telephone Cooperative,1142,0.05,15716,7.266,1142,0
+113,Cable One (Sparklight),"Volt Broadband, LLC","Volt Broadband, LLC",1077,0.047,11884,9.063,1077,0
+114,Cable One (Sparklight),SkyRider Communications LLC,SkyRider Communications LLC,1062,0.047,1604,66.209,1062,0
+115,Cable One (Sparklight),Aptitude Internet LLC,Aptitude Internet LLC,1052,0.046,7008,15.011,1052,0
+116,Cable One (Sparklight),"Steelville Telephone Exchange, Inc.","Steelville Telephone Exchange, Inc.",1050,0.046,4192,25.048,1050,0
+117,Cable One (Sparklight),"Schwartz Ventures, Inc.","Schwartz Ventures, Inc.",1010,0.044,14242,7.092,1010,0
+118,Cable One (Sparklight),"Newmax, LLC","Newmax, LLC",1002,0.044,7438,13.471,1002,0
+119,Cable One (Sparklight),Logonix Corporation,Logonix Corporation,968,0.042,3129,30.936,968,0
+120,Cable One (Sparklight),Wave Wireless LLC,Wave Wireless LLC,921,0.04,3325,27.699,921,0
+121,Cable One (Sparklight),"TecInfo Communications, LLC","TecInfo Communications, LLC",894,0.039,4369,20.462,894,0
+122,Cable One (Sparklight),Brazoria Telephone Company,Brazoria Telephone Company,877,0.038,8160,10.748,877,0
+123,Cable One (Sparklight),McDonough Telephone Cooperative Inc.,McDonough Telephone Cooperative Inc.,871,0.038,14286,6.097,871,0
+124,Cable One (Sparklight),"XIT Rural Telephone Cooperative, Inc.","XIT Rural Telephone Cooperative, Inc.",848,0.037,8270,10.254,848,0
+125,Cable One (Sparklight),Craighead Elecric Cooperative Corporation,Craighead Elecric Cooperative Corporation,840,0.037,29472,2.85,840,0
+126,Cable One (Sparklight),"Northeast Rural Services, Inc.","Northeast Rural Services, Inc.",788,0.035,31352,2.513,788,0
+127,Cable One (Sparklight),"RB3, LLC","RB3, LLC",762,0.033,9673,7.878,0,762
+128,Cable One (Sparklight),Mobile Communications LLC,Mobile Communications LLC,732,0.032,3216,22.761,732,0
+129,Cable One (Sparklight),"Midstates Data Transport, LLC","Midstates Data Transport, LLC",697,0.031,7626,9.14,697,0
+130,Cable One (Sparklight),Vyve Broadband,Vyve Broadband,662,0.029,560197,0.118,53,649
+131,Cable One (Sparklight),Park Region Mutual Telephone Company,Park Region Mutual Telephone Company,642,0.028,10526,6.099,642,0
+132,Cable One (Sparklight),"Grafton Communications, Inc.","Grafton Communications, Inc.",444,0.019,2958,15.01,444,0
+133,Cable One (Sparklight),Benton Ridge Telephone Company,Benton Ridge Telephone Company,367,0.016,9248,3.968,367,0
+134,Cable One (Sparklight),"Bulloch County Rural Telephone Cooperative, Inc.","Bulloch County Rural Telephone Cooperative, Inc.",351,0.015,17833,1.968,351,0
+135,Cable One (Sparklight),Telephone Electronics Corporation,Telephone Electronics Corporation,348,0.015,45372,0.767,348,0
+136,Cable One (Sparklight),Safelink Internet,Safelink Internet,312,0.014,1918,16.267,312,0
+137,Cable One (Sparklight),Cowboy Internet Services,Cowboy Internet Services,308,0.014,428,71.963,308,0
+138,Cable One (Sparklight),Gibson Electric Membership Corporation,Gibson Electric Membership Corporation,304,0.013,37411,0.813,304,0
+139,Cable One (Sparklight),Uplink Internet LLC,Uplink Internet LLC,299,0.013,2925,10.222,299,0
+140,Cable One (Sparklight),Midvale Telephone Exchange,Midvale Telephone Exchange,278,0.012,3543,7.846,278,0
+141,Cable One (Sparklight),"Great Plains Communications, Inc.","Great Plains Communications, Inc.",275,0.012,77515,0.355,275,0
+142,Cable One (Sparklight),Total Highspeed LLC,Total Highspeed LLC,255,0.011,14701,1.735,255,0
+143,Cable One (Sparklight),Hotwire,Hotwire,253,0.011,144179,0.175,253,0
+144,Cable One (Sparklight),"Shawnee Communications, Inc.","Shawnee Communications, Inc.",246,0.011,12345,1.993,246,0
+145,Cable One (Sparklight),White Cloud Networks,White Cloud Networks,243,0.011,579,41.969,243,0
+146,Cable One (Sparklight),"North Arkansas Electric Cooperative, Inc.","North Arkansas Electric Cooperative, Inc.",235,0.01,34953,0.672,235,0
+147,Cable One (Sparklight),Current Inc.,Current Inc.,229,0.01,3729,6.141,229,0
+148,Cable One (Sparklight),"CP-Tel Holdings, Inc.","CP-Tel Holdings, Inc.",220,0.01,6835,3.219,220,0
+149,Cable One (Sparklight),Chariton Valley Telephone Corporation,Chariton Valley Telephone Corporation,216,0.009,30581,0.706,216,0
+150,Cable One (Sparklight),"CableSouth Media III, LLC","CableSouth Media III, LLC",213,0.009,119756,0.178,213,0
+151,Cable One (Sparklight),The Junction Internet LLC,The Junction Internet LLC,205,0.009,210,97.619,205,0
+152,Cable One (Sparklight),"Ponderosa Communications, Inc.","Ponderosa Communications, Inc.",203,0.009,4186,4.849,203,0
+153,Cable One (Sparklight),Johnson County Rural Electric Membership Cooperative,Johnson County Rural Electric Membership Cooperative,194,0.009,16076,1.207,194,0
+154,Cable One (Sparklight),"Pierce Telecommunications, Inc.","Pierce Telecommunications, Inc.",169,0.007,1118,15.116,169,0
+155,Cable One (Sparklight),"First Step Internet, LLC","First Step Internet, LLC",134,0.006,527,25.427,134,0
+156,Cable One (Sparklight),Griggs County Telephone Company,Griggs County Telephone Company,125,0.005,5509,2.269,125,0
+157,Cable One (Sparklight),Mutual Telephone Company (IA),Mutual Telephone Company (IA),112,0.005,44690,0.251,112,0
+158,Cable One (Sparklight),"ProTek Communications, LLC","ProTek Communications, LLC",108,0.005,9147,1.181,108,0
+159,Cable One (Sparklight),Bixby Telephone Company,Bixby Telephone Company,101,0.004,10511,0.961,101,0
+160,Cable One (Sparklight),Northeast Nebraska Telephone Company,Northeast Nebraska Telephone Company,96,0.004,11712,0.82,96,0
+161,Cable One (Sparklight),South Central Arkansas Electric Cooperative,South Central Arkansas Electric Cooperative,85,0.004,27110,0.314,85,0
+162,Cable One (Sparklight),Fail Telecommunication Corporation,Fail Telecommunication Corporation,69,0.003,13021,0.53,69,0
+163,Cable One (Sparklight),Altamaha Electric Corporation,Altamaha Electric Corporation,68,0.003,18952,0.359,68,0
+164,Cable One (Sparklight),MJZ Networkz LLC,MJZ Networkz LLC,44,0.002,55,80.0,44,0
+165,Cable One (Sparklight),Velofi LLC,Velofi LLC,35,0.002,423,8.274,35,0
+166,Cable One (Sparklight),Tipmont Rural Electric Membership Corporation,Tipmont Rural Electric Membership Corporation,33,0.001,17654,0.187,33,0
+167,Cable One (Sparklight),"Precision Data Solutions, LLC","Precision Data Solutions, LLC",30,0.001,1189,2.523,30,0
+168,Cable One (Sparklight),"Perry-Spencer Rural Telephone Cooperative, Inc.","Perry-Spencer Rural Telephone Cooperative, Inc.",22,0.001,22676,0.097,22,0
+169,Cable One (Sparklight),Western Iowa Telephone Association,Western Iowa Telephone Association,19,0.001,5420,0.351,19,0
+170,Cable One (Sparklight),"Ind. Co. Cable TV, Inc.","Ind. Co. Cable TV, Inc.",16,0.001,7933,0.202,16,0
+171,Cable One (Sparklight),EATEL Corp.,EATEL Corp.,15,0.001,91270,0.016,15,0
+172,Cable One (Sparklight),"Tombigbee Electric Cooperative, Inc.","Tombigbee Electric Cooperative, Inc.",13,0.001,49873,0.026,13,0
+173,Cable One (Sparklight),"Ragland Telephone Co., Inc.","Ragland Telephone Co., Inc.",13,0.001,1151,1.129,13,0
+174,Cable One (Sparklight),"Crossville Consolidated Communications, Inc.","Crossville Consolidated Communications, Inc.",10,0.0,246,4.065,10,0
+175,Cable One (Sparklight),Columbus Telephone Company,Columbus Telephone Company,8,0.0,5737,0.139,8,0
+176,Cable One (Sparklight),Plant Telephone Company,Plant Telephone Company,8,0.0,26773,0.03,8,0
+177,Cable One (Sparklight),Haywire,Haywire,7,0.0,136,5.147,7,0
+178,Cable One (Sparklight),Wave Internet Technologies LLC,Wave Internet Technologies LLC,7,0.0,7,100.0,7,0
+179,Cable One (Sparklight),Craw-Kan Telephone Cooperative Inc.,Craw-Kan Telephone Cooperative Inc.,7,0.0,32649,0.021,7,0
+180,Cable One (Sparklight),Aristotle Unified Communications Inc.,Aristotle Unified Communications Inc.,6,0.0,1319,0.455,6,0
+181,Cable One (Sparklight),"Progressive Rural Telephone Co-Op., Inc.","Progressive Rural Telephone Co-Op., Inc.",4,0.0,8627,0.046,4,0
+182,Cable One (Sparklight),Egyptian Telephone Cooperative Association,Egyptian Telephone Cooperative Association,4,0.0,2304,0.174,4,0
+183,Cable One (Sparklight),ICS Advanced Technologies,ICS Advanced Technologies,3,0.0,252,1.19,3,0
+184,Cable One (Sparklight),"Internet Management Services, Inc.","Internet Management Services, Inc.",3,0.0,1456,0.206,3,0
+185,Cable One (Sparklight),"KC Web, Inc.","KC Web, Inc.",3,0.0,7,42.857,3,0
+186,Cable One (Sparklight),"Public Service Communications, Inc.","Public Service Communications, Inc.",2,0.0,20887,0.01,0,2
+187,Cable One (Sparklight),"Smartcom Telephone, LLC","Smartcom Telephone, LLC",2,0.0,30929,0.006,2,0
+188,Cable One (Sparklight),Hunter Communications & Technologies LLC,Hunter Communications & Technologies LLC,1,0.0,89041,0.001,1,0
+189,Cable One (Sparklight),"Eastex Telephone Cooperative, Inc.","Eastex Telephone Cooperative, Inc.",1,0.0,41866,0.002,1,0

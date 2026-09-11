@@ -1,0 +1,6 @@
+operator,footprint_bsls,own_cable_bsls,own_fiber_bsls,pct_own_fiber,bsls_with_another_fiber_filer,pct_another_fiber,bsls_with_another_cable_filer,pct_another_cable,bsls_with_any_other_filer,pct_contested,pct_uncontested
+Comcast (Xfinity),38786664,37853172,940514,2.42,23167420,59.73,3713205,9.57,24717757,63.73,36.27
+Charter (Spectrum),35944137,33900003,2284620,6.36,21215028,59.02,2387671,6.64,22173542,61.69,38.31
+Cox,7297869,6447111,853020,11.69,4146876,56.82,212279,2.91,4220974,57.84,42.16
+Optimum (Altice USA),5366001,5352613,2277649,42.45,3937118,73.37,276173,5.15,4014285,74.81,25.19
+Cable One (Sparklight),2280032,2092486,232411,10.19,1257555,55.16,302778,13.28,1425936,62.54,37.46

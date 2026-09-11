@@ -1,0 +1,2679 @@
+target,state,operator,overlap_bsls,target_bsls_in_state,pct_of_target_in_state
+Comcast (Xfinity),AL,AT&T,221019,397432,55.612
+Comcast (Xfinity),AL,WOW!,104815,397432,26.373
+Comcast (Xfinity),AL,Google Fiber,67311,397432,16.936
+Comcast (Xfinity),AL,Mediacom,33382,397432,8.399
+Comcast (Xfinity),AL,Brightspeed,27836,397432,7.004
+Comcast (Xfinity),AL,Charter (Spectrum),24605,397432,6.191
+Comcast (Xfinity),AL,"Telapex, Inc.",24359,397432,6.129
+Comcast (Xfinity),AL,"New Hope Telephone Cooperative, Inc. (AL)",3115,397432,0.784
+Comcast (Xfinity),AL,"Future Fiber FinCo, LLC",2370,397432,0.596
+Comcast (Xfinity),AL,Pea River Electric Cooperative,1639,397432,0.412
+Comcast (Xfinity),AL,West Kentucky Rural Telephone Cooperative Corp. Inc.,1633,397432,0.411
+Comcast (Xfinity),AL,Telephone Electronics Corporation,861,397432,0.217
+Comcast (Xfinity),AL,Point Broadband,569,397432,0.143
+Comcast (Xfinity),AL,Cable One (Sparklight),525,397432,0.132
+Comcast (Xfinity),AL,EATEL Corp.,60,397432,0.015
+Comcast (Xfinity),AL,Windstream/Uniti (Kinetic),52,397432,0.013
+Comcast (Xfinity),AL,TDS Telecom,37,397432,0.009
+Comcast (Xfinity),AL,"Farmers Telecommunications Cooperative, Inc.",12,397432,0.003
+Comcast (Xfinity),AL,"Tombigbee Electric Cooperative, Inc.",5,397432,0.001
+Comcast (Xfinity),AL,"Ragland Telephone Co., Inc.",3,397432,0.001
+Comcast (Xfinity),AR,AT&T,104987,188068,55.824
+Comcast (Xfinity),AR,Cable One (Sparklight),26856,188068,14.28
+Comcast (Xfinity),AR,First Electric Cooperative Corporation,21271,188068,11.31
+Comcast (Xfinity),AR,Optimum (Altice USA),10643,188068,5.659
+Comcast (Xfinity),AR,Brightspeed,9661,188068,5.137
+Comcast (Xfinity),AR,Ritter,8362,188068,4.446
+Comcast (Xfinity),AR,"Ripple Fiber, LLC",5776,188068,3.071
+Comcast (Xfinity),AR,"WEHCO Video, Inc.",865,188068,0.46
+Comcast (Xfinity),AR,"Enlightened by Woodruff Electric, LLC",96,188068,0.051
+Comcast (Xfinity),AR,CG Computer Works LLC,33,188068,0.018
+Comcast (Xfinity),AR,Windstream/Uniti (Kinetic),24,188068,0.013
+Comcast (Xfinity),AR,Craighead Elecric Cooperative Corporation,10,188068,0.005
+Comcast (Xfinity),AR,"CableSouth Media III, LLC",8,188068,0.004
+Comcast (Xfinity),AR,Petit Jean Electric Cooperative Corp.,1,188068,0.001
+Comcast (Xfinity),AZ,Lumen (Quantum Fiber / CenturyLink),10622,151530,7.01
+Comcast (Xfinity),AZ,Wyyerd,5445,151530,3.593
+Comcast (Xfinity),AZ,"Schurz Communications, Inc.",5107,151530,3.37
+Comcast (Xfinity),AZ,Cox,3091,151530,2.04
+Comcast (Xfinity),CA,AT&T,1230209,3549079,34.663
+Comcast (Xfinity),CA,Sonic,377463,3549079,10.636
+Comcast (Xfinity),CA,Astound Broadband,170763,3549079,4.811
+Comcast (Xfinity),CA,Consolidated (Fidium),139983,3549079,3.944
+Comcast (Xfinity),CA,Frontier,114474,3549079,3.225
+Comcast (Xfinity),CA,"Race Telecommunications, Inc.",50946,3549079,1.435
+Comcast (Xfinity),CA,Sebastian Enterprises,4464,3549079,0.126
+Comcast (Xfinity),CA,UnWired Broadband Holding LLC,4096,3549079,0.115
+Comcast (Xfinity),CA,Charter (Spectrum),2422,3549079,0.068
+Comcast (Xfinity),CA,Optimum (Altice USA),1001,3549079,0.028
+Comcast (Xfinity),CA,"Ponderosa Communications, Inc.",982,3549079,0.028
+Comcast (Xfinity),CA,Sail Internet Holdings LLC,812,3549079,0.023
+Comcast (Xfinity),CA,"Tekify, LLC",639,3549079,0.018
+Comcast (Xfinity),CA,Surfnet Communications,339,3549079,0.01
+Comcast (Xfinity),CA,Cruzio Internet,120,3549079,0.003
+Comcast (Xfinity),CA,Happy Cycling LLC,98,3549079,0.003
+Comcast (Xfinity),CA,Los Altos Hills Community Fiber,59,3549079,0.002
+Comcast (Xfinity),CA,Cox,38,3549079,0.001
+Comcast (Xfinity),CA,Nevada County Fiber Inc.,22,3549079,0.001
+Comcast (Xfinity),CA,"Etheric Communications, LLC.",15,3549079,0.0
+Comcast (Xfinity),CA,Volcano Communications Company,13,3549079,0.0
+Comcast (Xfinity),CA,Inyo Networks Inc.,9,3549079,0.0
+Comcast (Xfinity),CA,"CalNeva Broadband, LLC",4,3549079,0.0
+Comcast (Xfinity),CA,Google Fiber,3,3549079,0.0
+Comcast (Xfinity),CA,"Starry, Inc.",3,3549079,0.0
+Comcast (Xfinity),CA,ICS Advanced Technologies,2,3549079,0.0
+Comcast (Xfinity),CA,"yondoo Broadband, LLC",2,3549079,0.0
+Comcast (Xfinity),CA,"Cal.net, Inc.",1,3549079,0.0
+Comcast (Xfinity),CA,"Consolidated Smart Broadband Systems, LLC",1,3549079,0.0
+Comcast (Xfinity),CA,Hunter Communications & Technologies LLC,1,3549079,0.0
+Comcast (Xfinity),CA,Om Networks,1,3549079,0.0
+Comcast (Xfinity),CO,Lumen (Quantum Fiber / CenturyLink),542247,1479527,36.65
+Comcast (Xfinity),CO,"BIF IV Intrepid HoldCo, LLC",80239,1479527,5.423
+Comcast (Xfinity),CO,Ting,58570,1479527,3.959
+Comcast (Xfinity),CO,Allo Communications LLC,58002,1479527,3.92
+Comcast (Xfinity),CO,BAM Broadband OpCo LLC,48633,1479527,3.287
+Comcast (Xfinity),CO,"Underline El Paso, LLC",42267,1479527,2.857
+Comcast (Xfinity),CO,City of Fort Collins,41678,1479527,2.817
+Comcast (Xfinity),CO,Metronet (T-Mobile JV),39606,1479527,2.677
+Comcast (Xfinity),CO,TDS Telecom,34085,1479527,2.304
+Comcast (Xfinity),CO,"Falcon Broadband, Inc.",31957,1479527,2.16
+Comcast (Xfinity),CO,City of Loveland,31645,1479527,2.139
+Comcast (Xfinity),CO,City of Longmont,30516,1479527,2.063
+Comcast (Xfinity),CO,"Conexon Connect, LLC",22647,1479527,1.531
+Comcast (Xfinity),CO,Google Fiber,13696,1479527,0.926
+Comcast (Xfinity),CO,Southeast Colorado Power Association,6609,1479527,0.447
+Comcast (Xfinity),CO,"Ripple Fiber, LLC",6537,1479527,0.442
+Comcast (Xfinity),CO,"ITC Broadband Operating, LLC",6125,1479527,0.414
+Comcast (Xfinity),CO,"VFN Holdings, Inc.",5832,1479527,0.394
+Comcast (Xfinity),CO,"Smiling J, LLC",4848,1479527,0.328
+Comcast (Xfinity),CO,City of Glenwood Springs,3427,1479527,0.232
+Comcast (Xfinity),CO,"LightGig Communications, LLC",2760,1479527,0.187
+Comcast (Xfinity),CO,Luminate Fiber LLC,2377,1479527,0.161
+Comcast (Xfinity),CO,"Force Broadband, LLC",1855,1479527,0.125
+Comcast (Xfinity),CO,"Maverix Broadband, Inc.",1557,1479527,0.105
+Comcast (Xfinity),CO,"Carbon Valley Internet, LLC",856,1479527,0.058
+Comcast (Xfinity),CO,"Eastern Slope Rural Telephone Association, Inc.",560,1479527,0.038
+Comcast (Xfinity),CO,Bijou Telephone Cooperative Association Inc.,509,1479527,0.034
+Comcast (Xfinity),CO,"Visionary Communications, Inc.",303,1479527,0.02
+Comcast (Xfinity),CO,Aerux LLP,238,1479527,0.016
+Comcast (Xfinity),CO,"Starry, Inc.",71,1479527,0.005
+Comcast (Xfinity),CO,Pathfinder LLC,57,1479527,0.004
+Comcast (Xfinity),CO,"UBTA-UBET Communications, Inc.",33,1479527,0.002
+Comcast (Xfinity),CO,Boston Omaha Corporation,28,1479527,0.002
+Comcast (Xfinity),CO,"MiFiber Holding, LLC",8,1479527,0.001
+Comcast (Xfinity),CO,Ayva Limited,3,1479527,0.0
+Comcast (Xfinity),CO,"NE Colorado Cellular, Inc.",1,1479527,0.0
+Comcast (Xfinity),CO,Nunn Telephone Company,1,1479527,0.0
+Comcast (Xfinity),CT,Frontier,537938,687171,78.283
+Comcast (Xfinity),CT,"Future Fiber FinCo, LLC",197036,687171,28.674
+Comcast (Xfinity),CT,Optimum (Altice USA),92617,687171,13.478
+Comcast (Xfinity),CT,Breezeline (Cogeco),65929,687171,9.594
+Comcast (Xfinity),CT,Charter (Spectrum),1678,687171,0.244
+Comcast (Xfinity),CT,Cox,926,687171,0.135
+Comcast (Xfinity),CT,Metronet (T-Mobile JV),3,687171,0.0
+Comcast (Xfinity),CT,Verizon (Fios),1,687171,0.0
+Comcast (Xfinity),DC,Verizon (Fios),106392,122619,86.766
+Comcast (Xfinity),DC,Astound Broadband,88707,122619,72.344
+Comcast (Xfinity),DC,"Starry, Inc.",24,122619,0.02
+Comcast (Xfinity),DC,"Believe Wireless, LLC",1,122619,0.001
+Comcast (Xfinity),DE,Verizon (Fios),183847,323349,56.857
+Comcast (Xfinity),DE,Mediacom,7593,323349,2.348
+Comcast (Xfinity),DE,Breezeline (Cogeco),5779,323349,1.787
+Comcast (Xfinity),DE,Shenandoah Telecommunications Company,5054,323349,1.563
+Comcast (Xfinity),DE,Choptank Electric Cooperative,20,323349,0.006
+Comcast (Xfinity),FL,AT&T,1524056,3778763,40.332
+Comcast (Xfinity),FL,Lumen (Quantum Fiber / CenturyLink),296820,3778763,7.855
+Comcast (Xfinity),FL,Charter (Spectrum),182590,3778763,4.832
+Comcast (Xfinity),FL,Frontier,182228,3778763,4.822
+Comcast (Xfinity),FL,"IQ Fiber Intermediate Holdings, LLC",105942,3778763,2.804
+Comcast (Xfinity),FL,Hotwire,90240,3778763,2.388
+Comcast (Xfinity),FL,Metronet (T-Mobile JV),64084,3778763,1.696
+Comcast (Xfinity),FL,WOW!,59064,3778763,1.563
+Comcast (Xfinity),FL,"TPC ACC Acquisition, LLC",49843,3778763,1.319
+Comcast (Xfinity),FL,"Ripple Fiber, LLC",44728,3778763,1.184
+Comcast (Xfinity),FL,Lumos (T-Mobile JV),39062,3778763,1.034
+Comcast (Xfinity),FL,Breezeline (Cogeco),30355,3778763,0.803
+Comcast (Xfinity),FL,"Orlando Telephone Company, Inc.",22217,3778763,0.588
+Comcast (Xfinity),FL,Tillman Global Holdings,20036,3778763,0.53
+Comcast (Xfinity),FL,Wire 3 Holdings,15502,3778763,0.41
+Comcast (Xfinity),FL,"Delta Communications, LLC",9159,3778763,0.242
+Comcast (Xfinity),FL,Windstream/Uniti (Kinetic),8615,3778763,0.228
+Comcast (Xfinity),FL,"LiveOak Fiber, LLC",7903,3778763,0.209
+Comcast (Xfinity),FL,"Conexon Connect, LLC",6720,3778763,0.178
+Comcast (Xfinity),FL,Mediacom,6535,3778763,0.173
+Comcast (Xfinity),FL,"Zito West Holding, LLC",6230,3778763,0.165
+Comcast (Xfinity),FL,"Open Infra, Inc.",4407,3778763,0.117
+Comcast (Xfinity),FL,"Pavlov Media, Inc.",3737,3778763,0.099
+Comcast (Xfinity),FL,TDS Telecom,3716,3778763,0.098
+Comcast (Xfinity),FL,"Florida WiFi, LLC",3409,3778763,0.09
+Comcast (Xfinity),FL,Centric Infrastructure Group LLC,3178,3778763,0.084
+Comcast (Xfinity),FL,Tel-Star Communications of Florida Inc.,3090,3778763,0.082
+Comcast (Xfinity),FL,Court Square Capital Partners,2855,3778763,0.076
+Comcast (Xfinity),FL,"Suwannee Valley Electric Cooperative, Inc.",2616,3778763,0.069
+Comcast (Xfinity),FL,"Home Town Cable TV, LLC",2556,3778763,0.068
+Comcast (Xfinity),FL,"Fiber by Central Florida, LLC",1826,3778763,0.048
+Comcast (Xfinity),FL,Fort Pierce Utilities Authority,1305,3778763,0.035
+Comcast (Xfinity),FL,"Townes Telecommunications, Inc.",767,3778763,0.02
+Comcast (Xfinity),FL,Boston Omaha Corporation,524,3778763,0.014
+Comcast (Xfinity),FL,Consolidated (Fidium),435,3778763,0.012
+Comcast (Xfinity),FL,Cox,216,3778763,0.006
+Comcast (Xfinity),FL,"Llancunet Solutions, LLC",161,3778763,0.004
+Comcast (Xfinity),FL,"WiFast, LLC",147,3778763,0.004
+Comcast (Xfinity),FL,Point Broadband,113,3778763,0.003
+Comcast (Xfinity),FL,"Southeastern Services, Inc.",50,3778763,0.001
+Comcast (Xfinity),FL,Us New Era Internet Corp.,42,3778763,0.001
+Comcast (Xfinity),FL,"Myakka Communications, Inc.",39,3778763,0.001
+Comcast (Xfinity),FL,Velofi LLC,19,3778763,0.001
+Comcast (Xfinity),FL,"Consolidated Smart Broadband Systems, LLC",10,3778763,0.0
+Comcast (Xfinity),FL,"SkyNet360, LLC",6,3778763,0.0
+Comcast (Xfinity),FL,"East Creek Networks, LLC",5,3778763,0.0
+Comcast (Xfinity),FL,"DSI Management Holdings, LLC",3,3778763,0.0
+Comcast (Xfinity),FL,ORI.NET LLC,2,3778763,0.0
+Comcast (Xfinity),FL,Oak Run Associates Ltd.,1,3778763,0.0
+Comcast (Xfinity),FL,"Xiber, LLC",1,3778763,0.0
+Comcast (Xfinity),GA,AT&T,1141226,2059108,55.423
+Comcast (Xfinity),GA,WOW!,91569,2059108,4.447
+Comcast (Xfinity),GA,"LiveOak Fiber, LLC",68404,2059108,3.322
+Comcast (Xfinity),GA,Windstream/Uniti (Kinetic),60858,2059108,2.956
+Comcast (Xfinity),GA,Charter (Spectrum),56628,2059108,2.75
+Comcast (Xfinity),GA,"Delta Communications, LLC",47408,2059108,2.302
+Comcast (Xfinity),GA,"GreyStone Connect, LLC",35330,2059108,1.716
+Comcast (Xfinity),GA,Google Fiber,31715,2059108,1.54
+Comcast (Xfinity),GA,"Conexon Connect, LLC",23485,2059108,1.141
+Comcast (Xfinity),GA,Lumos (T-Mobile JV),23102,2059108,1.122
+Comcast (Xfinity),GA,Point Broadband,22092,2059108,1.073
+Comcast (Xfinity),GA,Brightspeed,14801,2059108,0.719
+Comcast (Xfinity),GA,TDS Telecom,12217,2059108,0.593
+Comcast (Xfinity),GA,"Planters Rural Telephone Cooperative, Inc.",9659,2059108,0.469
+Comcast (Xfinity),GA,EPB,8705,2059108,0.423
+Comcast (Xfinity),GA,"Lintel, Inc.",5554,2059108,0.27
+Comcast (Xfinity),GA,"TruVista Communications, Inc.",5059,2059108,0.246
+Comcast (Xfinity),GA,Fail Telecommunication Corporation,4776,2059108,0.232
+Comcast (Xfinity),GA,"Darien Telephone Company, Inc.",4553,2059108,0.221
+Comcast (Xfinity),GA,"City of Elberton, Georgia",4518,2059108,0.219
+Comcast (Xfinity),GA,"Pineland Telephone Cooperative, Inc.",4468,2059108,0.217
+Comcast (Xfinity),GA,"IQ Fiber Intermediate Holdings, LLC",4237,2059108,0.206
+Comcast (Xfinity),GA,Cable One (Sparklight),3945,2059108,0.192
+Comcast (Xfinity),GA,"Pembroke Telephone Company, Inc.",3940,2059108,0.191
+Comcast (Xfinity),GA,"Strickland Communications, Inc.",3353,2059108,0.163
+Comcast (Xfinity),GA,Ringgold Telephone Company,3046,2059108,0.148
+Comcast (Xfinity),GA,"Dycom Holding, Inc.",2867,2059108,0.139
+Comcast (Xfinity),GA,Coastal Electric Membership Corporation,2667,2059108,0.13
+Comcast (Xfinity),GA,"West Carolina Rural Telephone Cooperative, Inc.",2612,2059108,0.127
+Comcast (Xfinity),GA,"DoveTel Communications, LLC",2443,2059108,0.119
+Comcast (Xfinity),GA,"Zoom Telcom, LLC",2409,2059108,0.117
+Comcast (Xfinity),GA,"City of Griffin, Georgia",2292,2059108,0.111
+Comcast (Xfinity),GA,Plant Telephone Company,1543,2059108,0.075
+Comcast (Xfinity),GA,Ellijay Telephone Company,1506,2059108,0.073
+Comcast (Xfinity),GA,Altamaha Electric Corporation,1497,2059108,0.073
+Comcast (Xfinity),GA,Seimitsu Corporation,1260,2059108,0.061
+Comcast (Xfinity),GA,"ACU Global, LLC",1186,2059108,0.058
+Comcast (Xfinity),GA,Hotwire,907,2059108,0.044
+Comcast (Xfinity),GA,Glenwood Telephone Company,735,2059108,0.036
+Comcast (Xfinity),GA,Vyve Broadband,716,2059108,0.035
+Comcast (Xfinity),GA,"Alma Telecom, Inc.",191,2059108,0.009
+Comcast (Xfinity),GA,Habersham Electric Membership Corporation,169,2059108,0.008
+Comcast (Xfinity),GA,Velofi LLC,134,2059108,0.007
+Comcast (Xfinity),GA,Boston Omaha Corporation,26,2059108,0.001
+Comcast (Xfinity),GA,"Zito West Holding, LLC",11,2059108,0.001
+Comcast (Xfinity),GA,Cox,8,2059108,0.0
+Comcast (Xfinity),GA,"Diverse Power, Inc.",5,2059108,0.0
+Comcast (Xfinity),GA,"Bulloch County Rural Telephone Cooperative, Inc.",3,2059108,0.0
+Comcast (Xfinity),GA,EATEL Corp.,2,2059108,0.0
+Comcast (Xfinity),GA,Blue Ridge Communications,1,2059108,0.0
+Comcast (Xfinity),GA,"Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA",1,2059108,0.0
+Comcast (Xfinity),GA,Mediacom,1,2059108,0.0
+Comcast (Xfinity),GA,"Progressive Rural Telephone Co-Op., Inc.",1,2059108,0.0
+Comcast (Xfinity),GA,Trenton Telephone Co.,1,2059108,0.0
+Comcast (Xfinity),ID,Direct Management Company,1061,2364,44.882
+Comcast (Xfinity),IL,AT&T,608822,2816572,21.616
+Comcast (Xfinity),IL,Astound Broadband,556925,2816572,19.773
+Comcast (Xfinity),IL,"WH i3B Bidco LLC/WH i3B Topco, LLC",185369,2816572,6.581
+Comcast (Xfinity),IL,Metronet (T-Mobile JV),184093,2816572,6.536
+Comcast (Xfinity),IL,Frontier,70080,2816572,2.488
+Comcast (Xfinity),IL,Surf Internet,36191,2816572,1.285
+Comcast (Xfinity),IL,"Pavlov Media, Inc.",34498,2816572,1.225
+Comcast (Xfinity),IL,"MCC Network Services, LLC",20475,2816572,0.727
+Comcast (Xfinity),IL,Adams Telephone Co-Operative,18882,2816572,0.67
+Comcast (Xfinity),IL,Brightspeed,18256,2816572,0.648
+Comcast (Xfinity),IL,Lumos (T-Mobile JV),9974,2816572,0.354
+Comcast (Xfinity),IL,Mid Century Telephone Co-operative,7681,2816572,0.273
+Comcast (Xfinity),IL,MTCO Corporation,6101,2816572,0.217
+Comcast (Xfinity),IL,Mediacom,5050,2816572,0.179
+Comcast (Xfinity),IL,Kraus Electronics Systems Inc.,3875,2816572,0.138
+Comcast (Xfinity),IL,McDonough Telephone Cooperative Inc.,3183,2816572,0.113
+Comcast (Xfinity),IL,"Geneseo Communications, Inc.",3173,2816572,0.113
+Comcast (Xfinity),IL,"Computer Techniques, Inc.",2768,2816572,0.098
+Comcast (Xfinity),IL,"Cambridge TelCom, Inc.",2652,2816572,0.094
+Comcast (Xfinity),IL,"JAB Wireless, Inc.",2312,2816572,0.082
+Comcast (Xfinity),IL,Quad State Internet LLC,2046,2816572,0.073
+Comcast (Xfinity),IL,Logonix Corporation,1932,2816572,0.069
+Comcast (Xfinity),IL,"Ripple Fiber, LLC",1730,2816572,0.061
+Comcast (Xfinity),IL,"Gargoyle Technologies, Inc.",1354,2816572,0.048
+Comcast (Xfinity),IL,Digital Network Access Communications Inc.,1225,2816572,0.043
+Comcast (Xfinity),IL,AIRCELL Inc.,1022,2816572,0.036
+Comcast (Xfinity),IL,American Heartland Fiber Networks LLC,847,2816572,0.03
+Comcast (Xfinity),IL,"LaHarpe Telephone Company, Inc. (IL)",654,2816572,0.023
+Comcast (Xfinity),IL,"Ezee Fiber Texas, LLC",525,2816572,0.019
+Comcast (Xfinity),IL,"Delta Communications, LLC",377,2816572,0.013
+Comcast (Xfinity),IL,Charter (Spectrum),352,2816572,0.012
+Comcast (Xfinity),IL,Cable One (Sparklight),278,2816572,0.01
+Comcast (Xfinity),IL,"Cass Communications Management, Inc.",223,2816572,0.008
+Comcast (Xfinity),IL,Silo Communications,208,2816572,0.007
+Comcast (Xfinity),IL,ZMP Holding Company,50,2816572,0.002
+Comcast (Xfinity),IL,"Tel-Star Cablevision, Inc.",17,2816572,0.001
+Comcast (Xfinity),IL,Jo-Carroll Electric Cooperative Inc.,8,2816572,0.0
+Comcast (Xfinity),IL,ICS Advanced Technologies,4,2816572,0.0
+Comcast (Xfinity),IL,"Royell Communications, Inc.",2,2816572,0.0
+Comcast (Xfinity),IL,"Schwartz Ventures, Inc.",1,2816572,0.0
+Comcast (Xfinity),IN,AT&T,346977,1510015,22.978
+Comcast (Xfinity),IN,Metronet (T-Mobile JV),278724,1510015,18.458
+Comcast (Xfinity),IN,Frontier,272382,1510015,18.038
+Comcast (Xfinity),IN,Surf Internet,88905,1510015,5.888
+Comcast (Xfinity),IN,Charter (Spectrum),36143,1510015,2.394
+Comcast (Xfinity),IN,"IsoFusion, Inc.",34529,1510015,2.287
+Comcast (Xfinity),IN,Brightspeed,33134,1510015,2.194
+Comcast (Xfinity),IN,Hancock Rural Telephone Corporation,15674,1510015,1.038
+Comcast (Xfinity),IN,"Smithville Holding Company, Inc.",15615,1510015,1.034
+Comcast (Xfinity),IN,"New Paris Telephone Company, Inc.",15027,1510015,0.995
+Comcast (Xfinity),IN,Johnson County Rural Electric Membership Cooperative,11093,1510015,0.735
+Comcast (Xfinity),IN,South Central Indiana Rural Electric Membership Corporation,8838,1510015,0.585
+Comcast (Xfinity),IN,NITCO Holding Corporation,6985,1510015,0.463
+Comcast (Xfinity),IN,"Great Plains Communications, Inc.",6729,1510015,0.446
+Comcast (Xfinity),IN,Tipmont Rural Electric Membership Corporation,6610,1510015,0.438
+Comcast (Xfinity),IN,altafiber (Cincinnati Bell),6580,1510015,0.436
+Comcast (Xfinity),IN,Southeastern Indiana Rural Electric Membership Corporation,6406,1510015,0.424
+Comcast (Xfinity),IN,"Rochester Telephone Company, Inc.",5963,1510015,0.395
+Comcast (Xfinity),IN,Wintek Corporation,5916,1510015,0.392
+Comcast (Xfinity),IN,"Clay County Rural Telephone Cooperative, Inc.",5856,1510015,0.388
+Comcast (Xfinity),IN,"New Lisbon Telephone Company, Inc.",5764,1510015,0.382
+Comcast (Xfinity),IN,Kosciusko Rural Electric Membership Cooperative ,5400,1510015,0.358
+Comcast (Xfinity),IN,"Pulaski White Rural Telephone Cooperative, Inc.",5031,1510015,0.333
+Comcast (Xfinity),IN,Mediacom,4104,1510015,0.272
+Comcast (Xfinity),IN,"Perry-Spencer Rural Telephone Cooperative, Inc.",3921,1510015,0.26
+Comcast (Xfinity),IN,TDS Telecom,3904,1510015,0.259
+Comcast (Xfinity),IN,Jackson County Rural Electric Membership Corporation,3845,1510015,0.255
+Comcast (Xfinity),IN,"Joink, LLC",3653,1510015,0.242
+Comcast (Xfinity),IN,Cable One (Sparklight),3523,1510015,0.233
+Comcast (Xfinity),IN,BerryComm LLC,3449,1510015,0.228
+Comcast (Xfinity),IN,Benton Ridge Telephone Company,3390,1510015,0.225
+Comcast (Xfinity),IN,"PCC Holdings, Inc.",3008,1510015,0.199
+Comcast (Xfinity),IN,Fiberhawk,2312,1510015,0.153
+Comcast (Xfinity),IN,Monon Telephone Company Inc.,1939,1510015,0.128
+Comcast (Xfinity),IN,Mulberry Cooperative Telephone Co. Inc.,1816,1510015,0.12
+Comcast (Xfinity),IN,"Acme Communications, Inc.",1792,1510015,0.119
+Comcast (Xfinity),IN,Southeastern Indiana Rural Telephone Cooperative,1670,1510015,0.111
+Comcast (Xfinity),IN,Lakeland Internet,1193,1510015,0.079
+Comcast (Xfinity),IN,"Precision Data Solutions, LLC",994,1510015,0.066
+Comcast (Xfinity),IN,"Mainstream Fiber Networks, LLC",879,1510015,0.058
+Comcast (Xfinity),IN,Yeoman Telephone Company,575,1510015,0.038
+Comcast (Xfinity),IN,Jasper County Rural Electric Membership Corporation,481,1510015,0.032
+Comcast (Xfinity),IN,Geetingsville Telephone Company Inc.,351,1510015,0.023
+Comcast (Xfinity),IN,"Mercury Broadband, LLC",307,1510015,0.02
+Comcast (Xfinity),IN,Midwest Energy Cooperative,243,1510015,0.016
+Comcast (Xfinity),IN,"On-Ramp Indiana, Inc.",223,1510015,0.015
+Comcast (Xfinity),IN,"Airwave Networks, LLC",128,1510015,0.008
+Comcast (Xfinity),IN,Astound Broadband,125,1510015,0.008
+Comcast (Xfinity),IN,LaGrange County Rural Membership Corporation,79,1510015,0.005
+Comcast (Xfinity),IN,"Eastern Indiana WIFI, Inc.",77,1510015,0.005
+Comcast (Xfinity),IN,Haywire,47,1510015,0.003
+Comcast (Xfinity),IN,"Ligonier Telephone Co., Inc.",6,1510015,0.0
+Comcast (Xfinity),IN,City of Auburn,1,1510015,0.0
+Comcast (Xfinity),IN,Orange County REMC,1,1510015,0.0
+Comcast (Xfinity),KS,"Everfast Fiber Networks, LLC",41951,52983,79.178
+Comcast (Xfinity),KS,Google Fiber,40780,52983,76.968
+Comcast (Xfinity),KS,AT&T,19499,52983,36.802
+Comcast (Xfinity),KS,Optimum (Altice USA),5139,52983,9.699
+Comcast (Xfinity),KS,"Delta Communications, LLC",3348,52983,6.319
+Comcast (Xfinity),KS,JMZ Corporation,2418,52983,4.564
+Comcast (Xfinity),KS,Brightspeed,1635,52983,3.086
+Comcast (Xfinity),KS,Charter (Spectrum),1416,52983,2.673
+Comcast (Xfinity),KS,"Townes Telecommunications, Inc.",110,52983,0.208
+Comcast (Xfinity),KY,Brandenburg Communications Corp.,22334,87338,25.572
+Comcast (Xfinity),KY,Windstream/Uniti (Kinetic),21347,87338,24.442
+Comcast (Xfinity),KY,Ritter,9556,87338,10.941
+Comcast (Xfinity),KY,Franklin Electric Plant Board,4629,87338,5.3
+Comcast (Xfinity),KY,South Central Rural Telecommunications Cooperative Inc.,3749,87338,4.293
+Comcast (Xfinity),KY,"Ballard Rural Telephone Cooperative Corporation, Inc.",1689,87338,1.934
+Comcast (Xfinity),KY,"Electric Plant Board of the City of Paducah, Kentucky",1561,87338,1.787
+Comcast (Xfinity),KY,Duo County Telephone Cooperative Inc.,1448,87338,1.658
+Comcast (Xfinity),KY,AT&T,1311,87338,1.501
+Comcast (Xfinity),KY,"North Central Telephone Cooperative, Inc.",807,87338,0.924
+Comcast (Xfinity),KY,Charter (Spectrum),750,87338,0.859
+Comcast (Xfinity),KY,"Conexon Connect, LLC",464,87338,0.531
+Comcast (Xfinity),KY,Quad State Internet LLC,296,87338,0.339
+Comcast (Xfinity),KY,West Kentucky Rural Telephone Cooperative Corp. Inc.,204,87338,0.234
+Comcast (Xfinity),KY,"Electric Plant Board of the City of Hopkinsville, Kentucky",179,87338,0.205
+Comcast (Xfinity),KY,Mediacom,43,87338,0.049
+Comcast (Xfinity),KY,"Electric Plant Board of the City of Glasgow, KY",4,87338,0.005
+Comcast (Xfinity),KY,"Logan Telephone Cooperative, Inc.",1,87338,0.001
+Comcast (Xfinity),KY,"Zito West Holding, LLC",1,87338,0.001
+Comcast (Xfinity),LA,AT&T,104457,208490,50.102
+Comcast (Xfinity),LA,"Reserve Holdings, Inc.",16551,208490,7.939
+Comcast (Xfinity),LA,Optimum (Altice USA),11962,208490,5.737
+Comcast (Xfinity),LA,Cable One (Sparklight),8507,208490,4.08
+Comcast (Xfinity),LA,EATEL Corp.,1379,208490,0.661
+Comcast (Xfinity),LA,Charter (Spectrum),1303,208490,0.625
+Comcast (Xfinity),LA,Brightspeed,332,208490,0.159
+Comcast (Xfinity),LA,ClearPath Fiber LLC,53,208490,0.025
+Comcast (Xfinity),LA,"Conexon Connect, LLC",24,208490,0.012
+Comcast (Xfinity),LA,Cox,15,208490,0.007
+Comcast (Xfinity),LA,SkyRider Communications LLC,5,208490,0.002
+Comcast (Xfinity),LA,Bayou Cable Inc.,2,208490,0.001
+Comcast (Xfinity),LA,"Eastex Telephone Cooperative, Inc.",1,208490,0.0
+Comcast (Xfinity),MA,Verizon (Fios),878722,1627920,53.978
+Comcast (Xfinity),MA,Astound Broadband,246303,1627920,15.13
+Comcast (Xfinity),MA,Westfield Gas & Electric,14948,1627920,0.918
+Comcast (Xfinity),MA,"Future Fiber FinCo, LLC",12962,1627920,0.796
+Comcast (Xfinity),MA,Gateway Fiber Holdings LLC,6322,1627920,0.388
+Comcast (Xfinity),MA,Norwood Light Department Broadband Division,6235,1627920,0.383
+Comcast (Xfinity),MA,South Hadley Electric Light Department,5938,1627920,0.365
+Comcast (Xfinity),MA,"Town of Concord, Massachusetts",4544,1627920,0.279
+Comcast (Xfinity),MA,Breezeline (Cogeco),3401,1627920,0.209
+Comcast (Xfinity),MA,Charter (Spectrum),3320,1627920,0.204
+Comcast (Xfinity),MA,"City of Taunton, Massachusetts",855,1627920,0.053
+Comcast (Xfinity),MA,Chicopee Municipal Lighting Plant,176,1627920,0.011
+Comcast (Xfinity),MA,"Starry, Inc.",120,1627920,0.007
+Comcast (Xfinity),MA,Cox,56,1627920,0.003
+Comcast (Xfinity),MA,OpenCape Corporation,20,1627920,0.001
+Comcast (Xfinity),MA,"Aervivo, Inc.",8,1627920,0.0
+Comcast (Xfinity),MA,"Hub66, Inc.",4,1627920,0.0
+Comcast (Xfinity),MA,City of Greenfield,3,1627920,0.0
+Comcast (Xfinity),MA,City of Holyoke Gas & Electric Department,2,1627920,0.0
+Comcast (Xfinity),MA,Town of Shrewsbury,1,1627920,0.0
+Comcast (Xfinity),MD,Verizon (Fios),1033967,1615867,63.988
+Comcast (Xfinity),MD,Astound Broadband,133903,1615867,8.287
+Comcast (Xfinity),MD,"Schurz Communications, Inc.",38386,1615867,2.376
+Comcast (Xfinity),MD,Shenandoah Telecommunications Company,22986,1615867,1.423
+Comcast (Xfinity),MD,Breezeline (Cogeco),20038,1615867,1.24
+Comcast (Xfinity),MD,Point Broadband,11666,1615867,0.722
+Comcast (Xfinity),MD,"Talkie Communications, Inc.",11518,1615867,0.713
+Comcast (Xfinity),MD,Mediacom,8480,1615867,0.525
+Comcast (Xfinity),MD,"IQ Fiber Intermediate Holdings, LLC",5657,1615867,0.35
+Comcast (Xfinity),MD,Ting,5338,1615867,0.33
+Comcast (Xfinity),MD,Bay Country Communications,3060,1615867,0.189
+Comcast (Xfinity),MD,"Greenlight Networks, LLC",2771,1615867,0.171
+Comcast (Xfinity),MD,Choptank Electric Cooperative,2536,1615867,0.157
+Comcast (Xfinity),MD,"Mountain Communications, LLC",1805,1615867,0.112
+Comcast (Xfinity),MD,Armstrong,1607,1615867,0.099
+Comcast (Xfinity),MD,"Quantum Telecommunications, Inc.",1521,1615867,0.094
+Comcast (Xfinity),MD,"QCOL, Inc.",579,1615867,0.036
+Comcast (Xfinity),MD,"Simple Fiber, LLC",161,1615867,0.01
+Comcast (Xfinity),MD,Somerfield Cable TV,57,1615867,0.004
+Comcast (Xfinity),MD,"Montgomery County, Maryland",22,1615867,0.001
+Comcast (Xfinity),MD,"Eastern Shore Communications, LLC",16,1615867,0.001
+Comcast (Xfinity),MD,Easton Utilities Commission,16,1615867,0.001
+Comcast (Xfinity),MD,Litebridge LLC,4,1615867,0.0
+Comcast (Xfinity),MD,Pocomoke Holdings,2,1615867,0.0
+Comcast (Xfinity),MD,"Declaration Networks Group, Inc.",1,1615867,0.0
+Comcast (Xfinity),MD,ICS Advanced Technologies,1,1615867,0.0
+Comcast (Xfinity),MD,"Starry, Inc.",1,1615867,0.0
+Comcast (Xfinity),ME,Consolidated (Fidium),29578,56814,52.061
+Comcast (Xfinity),ME,Breezeline (Cogeco),13040,56814,22.952
+Comcast (Xfinity),ME,"Future Fiber FinCo, LLC",7405,56814,13.034
+Comcast (Xfinity),ME,Charter (Spectrum),373,56814,0.657
+Comcast (Xfinity),ME,Lincolnville Telephone Company,288,56814,0.507
+Comcast (Xfinity),ME,Biddeford Internet Corporation,236,56814,0.415
+Comcast (Xfinity),ME,Sebago Fiber & Wifi LLC,2,56814,0.004
+Comcast (Xfinity),MI,WOW!,599896,2192437,27.362
+Comcast (Xfinity),MI,AT&T,595426,2192437,27.158
+Comcast (Xfinity),MI,Metronet (T-Mobile JV),154256,2192437,7.036
+Comcast (Xfinity),MI,Frontier,92325,2192437,4.211
+Comcast (Xfinity),MI,Charter (Spectrum),37709,2192437,1.72
+Comcast (Xfinity),MI,Surf Internet,34151,2192437,1.558
+Comcast (Xfinity),MI,Midwest Energy Cooperative,21649,2192437,0.987
+Comcast (Xfinity),MI,"123.Net, Inc.",13670,2192437,0.624
+Comcast (Xfinity),MI,"D & P Communications, Inc.",12552,2192437,0.573
+Comcast (Xfinity),MI,"Ripple Fiber, LLC",12480,2192437,0.569
+Comcast (Xfinity),MI,Holland Board of Public Works,9937,2192437,0.453
+Comcast (Xfinity),MI,KEPS Technologies Inc.,6824,2192437,0.311
+Comcast (Xfinity),MI,"Agri-Valley Communications, Inc.",6353,2192437,0.29
+Comcast (Xfinity),MI,"Mercury Broadband, LLC",5794,2192437,0.264
+Comcast (Xfinity),MI,Point Broadband,3226,2192437,0.147
+Comcast (Xfinity),MI,"Aspire Networks 1, LLC",1844,2192437,0.084
+Comcast (Xfinity),MI,"Bloomingdale Telephone Company, Inc.",1572,2192437,0.072
+Comcast (Xfinity),MI,Duke Broadband Inc.,1566,2192437,0.071
+Comcast (Xfinity),MI,Brightspeed,1507,2192437,0.069
+Comcast (Xfinity),MI,Satellite Operations Inc.,801,2192437,0.037
+Comcast (Xfinity),MI,Sebewaing Light and Water,567,2192437,0.026
+Comcast (Xfinity),MI,"Air Advantage, LLC",555,2192437,0.025
+Comcast (Xfinity),MI,Thumb Electric Cooperative,508,2192437,0.023
+Comcast (Xfinity),MI,Sand Creek Communications Company,437,2192437,0.02
+Comcast (Xfinity),MI,SMR Communications,405,2192437,0.018
+Comcast (Xfinity),MI,"Great Lakes Energy Connections, Inc.",380,2192437,0.017
+Comcast (Xfinity),MI,Tri-County Electric Cooperative,190,2192437,0.009
+Comcast (Xfinity),MI,Mediacom,160,2192437,0.007
+Comcast (Xfinity),MI,TDS Telecom,122,2192437,0.006
+Comcast (Xfinity),MI,Ace Telephone Association,121,2192437,0.006
+Comcast (Xfinity),MI,City of Wyandotte,118,2192437,0.005
+Comcast (Xfinity),MI,"DMCI Broadband, LLC",115,2192437,0.005
+Comcast (Xfinity),MI,Chapin Communications Corporation,98,2192437,0.004
+Comcast (Xfinity),MI,Newaygo County Regional Educational Service Agency,81,2192437,0.004
+Comcast (Xfinity),MI,DayStarr LLC,67,2192437,0.003
+Comcast (Xfinity),MI,Lennon Telephone Company,64,2192437,0.003
+Comcast (Xfinity),MI,"Michwave Technologies, Inc.",29,2192437,0.001
+Comcast (Xfinity),MI,"Ogden Communications, Inc.",22,2192437,0.001
+Comcast (Xfinity),MI,Lumos (T-Mobile JV),18,2192437,0.001
+Comcast (Xfinity),MI,"Springcom, Inc.",14,2192437,0.001
+Comcast (Xfinity),MI,"City of Marshall, Michigan",3,2192437,0.0
+Comcast (Xfinity),MI,"Block Communications, Inc.",2,2192437,0.0
+Comcast (Xfinity),MI,"Decatur Holding Company, Inc.",1,2192437,0.0
+Comcast (Xfinity),MI,"MachTen, Inc.",1,2192437,0.0
+Comcast (Xfinity),MN,Lumen (Quantum Fiber / CenturyLink),361319,765903,47.176
+Comcast (Xfinity),MN,Gateway Fiber Holdings LLC,49574,765903,6.473
+Comcast (Xfinity),MN,"BIF IV Intrepid HoldCo, LLC",31417,765903,4.102
+Comcast (Xfinity),MN,Metronet (T-Mobile JV),19251,765903,2.514
+Comcast (Xfinity),MN,AT&T,18123,765903,2.366
+Comcast (Xfinity),MN,Mediacom,10287,765903,1.343
+Comcast (Xfinity),MN,"Nuvera Communications, Inc.",6789,765903,0.886
+Comcast (Xfinity),MN,"Hiawatha Broadband Communications, Inc.",4805,765903,0.627
+Comcast (Xfinity),MN,Rural Communications Holding Corporation,3529,765903,0.461
+Comcast (Xfinity),MN,Frontier,2868,765903,0.374
+Comcast (Xfinity),MN,Netwave Broadband,2691,765903,0.351
+Comcast (Xfinity),MN,Charter (Spectrum),1113,765903,0.145
+Comcast (Xfinity),MN,Christensen Communications Company,792,765903,0.103
+Comcast (Xfinity),MN,Midco,105,765903,0.014
+Comcast (Xfinity),MN,"Arvig Enterprises, Inc.",66,765903,0.009
+Comcast (Xfinity),MN,"Southeast MN Wifi, LLC",23,765903,0.003
+Comcast (Xfinity),MN,Consolidated (Fidium),14,765903,0.002
+Comcast (Xfinity),MN,Pierce Pepin Cooperative Services,3,765903,0.0
+Comcast (Xfinity),MN,Aureon Network Services Inc.,1,765903,0.0
+Comcast (Xfinity),MO,AT&T,70840,130673,54.212
+Comcast (Xfinity),MO,Google Fiber,44596,130673,34.128
+Comcast (Xfinity),MO,"Everfast Fiber Networks, LLC",13184,130673,10.089
+Comcast (Xfinity),MO,Charter (Spectrum),7013,130673,5.367
+Comcast (Xfinity),MO,Socket Telecom LLC,5237,130673,4.008
+Comcast (Xfinity),MO,Brightspeed,2865,130673,2.192
+Comcast (Xfinity),MO,Green Hills Telephone Corporation,1925,130673,1.473
+Comcast (Xfinity),MO,Cable One (Sparklight),1776,130673,1.359
+Comcast (Xfinity),MO,"Conexon Connect, LLC",777,130673,0.595
+Comcast (Xfinity),MO,Optimum (Altice USA),466,130673,0.357
+Comcast (Xfinity),MO,Consolidated (Fidium),16,130673,0.012
+Comcast (Xfinity),MO,Alma Communications Company,5,130673,0.004
+Comcast (Xfinity),MO,"KC Web, Inc.",3,130673,0.002
+Comcast (Xfinity),MO,"Anza Electric Cooperative, Inc.",1,130673,0.001
+Comcast (Xfinity),MS,AT&T,129368,362006,35.736
+Comcast (Xfinity),MS,"Telapex, Inc.",128590,362006,35.522
+Comcast (Xfinity),MS,Northcentral Electric Cooperative,20604,362006,5.692
+Comcast (Xfinity),MS,Tombigbee Electric Power Association,12834,362006,3.545
+Comcast (Xfinity),MS,East Mississippi Electric Power Association,10608,362006,2.93
+Comcast (Xfinity),MS,"DE Fastlink, LLC",10206,362006,2.819
+Comcast (Xfinity),MS,Alcorn County Electric Power Association,9626,362006,2.659
+Comcast (Xfinity),MS,"4-County Fiber, LLC",4456,362006,1.231
+Comcast (Xfinity),MS,Brightspeed,3633,362006,1.004
+Comcast (Xfinity),MS,Pearl River Valley Electric Power Association,3472,362006,0.959
+Comcast (Xfinity),MS,Telephone Electronics Corporation,1724,362006,0.476
+Comcast (Xfinity),MS,TEPA Connect LLC,973,362006,0.269
+Comcast (Xfinity),MS,Uplink Internet LLC,256,362006,0.071
+Comcast (Xfinity),MS,Tallahatchie Valley Internet Services,173,362006,0.048
+Comcast (Xfinity),MS,"Aeneas Communications, LLC",129,362006,0.036
+Comcast (Xfinity),MS,"Block Communications, Inc.",95,362006,0.026
+Comcast (Xfinity),MS,Windstream/Uniti (Kinetic),56,362006,0.015
+Comcast (Xfinity),MS,Fail Telecommunication Corporation,42,362006,0.012
+Comcast (Xfinity),MS,"TecInfo Communications, LLC",21,362006,0.006
+Comcast (Xfinity),MS,Cable One (Sparklight),6,362006,0.002
+Comcast (Xfinity),MS,Aristotle Unified Communications Inc.,3,362006,0.001
+Comcast (Xfinity),MS,Tishomingo County Electric Power Association,3,362006,0.001
+Comcast (Xfinity),MS,"CableSouth Media III, LLC",1,362006,0.0
+Comcast (Xfinity),MS,Natchez Trace Electric Power Association,1,362006,0.0
+Comcast (Xfinity),MS,Prentiss County Electric Power Association,1,362006,0.0
+Comcast (Xfinity),MS,"WEHCO Video, Inc.",1,362006,0.0
+Comcast (Xfinity),NC,Charter (Spectrum),931,2278,40.869
+Comcast (Xfinity),NC,Brightspeed,471,2278,20.676
+Comcast (Xfinity),NH,Consolidated (Fidium),187789,340980,55.073
+Comcast (Xfinity),NH,Breezeline (Cogeco),55500,340980,16.277
+Comcast (Xfinity),NH,TDS Telecom,14163,340980,4.154
+Comcast (Xfinity),NH,Granite State Communications,8232,340980,2.414
+Comcast (Xfinity),NH,"New Hampshire Electric Cooperative, Inc.",3702,340980,1.086
+Comcast (Xfinity),NH,"Hub66, Inc.",1031,340980,0.302
+Comcast (Xfinity),NH,"Dunbarton Telephone Company, Inc.",360,340980,0.106
+Comcast (Xfinity),NH,Charter (Spectrum),240,340980,0.07
+Comcast (Xfinity),NH,Lyme Fiber LLC,46,340980,0.013
+Comcast (Xfinity),NH,"Citizens Telephone Company of Hammond NY, Inc.",1,340980,0.0
+Comcast (Xfinity),NH,"Firstlight Fiber, Inc.",1,340980,0.0
+Comcast (Xfinity),NH,Verizon (Fios),1,340980,0.0
+Comcast (Xfinity),NJ,Verizon (Fios),829867,1588897,52.229
+Comcast (Xfinity),NJ,Optimum (Altice USA),94170,1588897,5.927
+Comcast (Xfinity),NJ,Brightspeed,22670,1588897,1.427
+Comcast (Xfinity),NJ,Service Electric,4638,1588897,0.292
+Comcast (Xfinity),NJ,"Planet Networks, Inc.",35,1588897,0.002
+Comcast (Xfinity),NJ,Astound Broadband,20,1588897,0.001
+Comcast (Xfinity),NJ,Charter (Spectrum),12,1588897,0.001
+Comcast (Xfinity),NJ,Hotwire,4,1588897,0.0
+Comcast (Xfinity),NJ,"Starry, Inc.",3,1588897,0.0
+Comcast (Xfinity),NM,Cable One (Sparklight),28195,475738,5.927
+Comcast (Xfinity),NM,Metronet (T-Mobile JV),25779,475738,5.419
+Comcast (Xfinity),NM,"Ezee Fiber Texas, LLC",18715,475738,3.934
+Comcast (Xfinity),NM,AT&T,13450,475738,2.827
+Comcast (Xfinity),NM,"ENMR Telephone Cooperative, Inc.",9736,475738,2.047
+Comcast (Xfinity),NM,Lumen (Quantum Fiber / CenturyLink),8851,475738,1.86
+Comcast (Xfinity),NM,"Roosevelt County Rural Telephone Cooperative, Inc.",5163,475738,1.085
+Comcast (Xfinity),NM,Kit Carson Electric Cooperative Inc.,3771,475738,0.793
+Comcast (Xfinity),NM,"Clearnetworx, LLC",517,475738,0.109
+Comcast (Xfinity),NM,"NMsurf, Inc.",180,475738,0.038
+Comcast (Xfinity),NM,Charter (Spectrum),148,475738,0.031
+Comcast (Xfinity),NM,LICT Corporation,126,475738,0.026
+Comcast (Xfinity),NM,"FastTrack Communications, Inc.",62,475738,0.013
+Comcast (Xfinity),NM,"ATN International, Inc.",50,475738,0.011
+Comcast (Xfinity),NY,Verizon (Fios),20155,32349,62.305
+Comcast (Xfinity),NY,Optimum (Altice USA),916,32349,2.832
+Comcast (Xfinity),NY,Charter (Spectrum),186,32349,0.575
+Comcast (Xfinity),NY,Archtop Fiber Holdings LLC,2,32349,0.006
+Comcast (Xfinity),NY,Frontier,2,32349,0.006
+Comcast (Xfinity),OH,Armstrong,12085,87370,13.832
+Comcast (Xfinity),OH,Frontier,3519,87370,4.028
+Comcast (Xfinity),OH,"Massillon Cable TV, Inc.",2486,87370,2.845
+Comcast (Xfinity),OH,Jefferson County Cable,1696,87370,1.941
+Comcast (Xfinity),OH,AT&T,1191,87370,1.363
+Comcast (Xfinity),OH,Charter (Spectrum),1099,87370,1.258
+Comcast (Xfinity),OH,"Little Miami Gig, LLC",1080,87370,1.236
+Comcast (Xfinity),OH,Wabash Mutual Telephone Company,699,87370,0.8
+Comcast (Xfinity),OH,"connectSCP, LLC",584,87370,0.668
+Comcast (Xfinity),OH,Windstream/Uniti (Kinetic),335,87370,0.383
+Comcast (Xfinity),OH,Breezeline (Cogeco),2,87370,0.002
+Comcast (Xfinity),OH,Brightspeed,1,87370,0.001
+Comcast (Xfinity),OR,Ziply Fiber (Bell Canada),228918,789285,29.003
+Comcast (Xfinity),OR,Lumen (Quantum Fiber / CenturyLink),221245,789285,28.031
+Comcast (Xfinity),OR,Hunter Communications & Technologies LLC,34934,789285,4.426
+Comcast (Xfinity),OR,Astound Broadband,21498,789285,2.724
+Comcast (Xfinity),OR,City of Hillsboro,7713,789285,0.977
+Comcast (Xfinity),OR,Beaver Creek Cooperative Telephone Company,4251,789285,0.539
+Comcast (Xfinity),OR,"City of Sherwood, Oregon",3957,789285,0.501
+Comcast (Xfinity),OR,Day Management Corporation,3947,789285,0.5
+Comcast (Xfinity),OR,Stayton Cooperative Telephone Company,3581,789285,0.454
+Comcast (Xfinity),OR,"CASCO Communications, Inc.",3357,789285,0.425
+Comcast (Xfinity),OR,Pioneer Telephone Cooperative (OR),2224,789285,0.282
+Comcast (Xfinity),OR,Clear Creek Mutual Telephone Company,2099,789285,0.266
+Comcast (Xfinity),OR,Gervais Telephone Company,1972,789285,0.25
+Comcast (Xfinity),OR,Douglas Electric Cooperative Inc.,1285,789285,0.163
+Comcast (Xfinity),OR,"Alyrica Networks, Inc.",856,789285,0.108
+Comcast (Xfinity),OR,Canby Telephone Association,171,789285,0.022
+Comcast (Xfinity),OR,Charter (Spectrum),38,789285,0.005
+Comcast (Xfinity),OR,"Fatbeam Holdings, LLC",1,789285,0.0
+Comcast (Xfinity),OR,ICS Advanced Technologies,1,789285,0.0
+Comcast (Xfinity),OR,Monroe Telephone Company,1,789285,0.0
+Comcast (Xfinity),PA,Verizon (Fios),1827502,3331822,54.85
+Comcast (Xfinity),PA,Astound Broadband,124813,3331822,3.746
+Comcast (Xfinity),PA,Brightspeed,93348,3331822,2.802
+Comcast (Xfinity),PA,Shenandoah Telecommunications Company,85589,3331822,2.569
+Comcast (Xfinity),PA,Windstream/Uniti (Kinetic),76911,3331822,2.308
+Comcast (Xfinity),PA,Frontier,67209,3331822,2.017
+Comcast (Xfinity),PA,Service Electric,66487,3331822,1.996
+Comcast (Xfinity),PA,Breezeline (Cogeco),38919,3331822,1.168
+Comcast (Xfinity),PA,"Fastbridge Fiber, LLC",36796,3331822,1.104
+Comcast (Xfinity),PA,"Greenlight Networks, LLC",31103,3331822,0.934
+Comcast (Xfinity),PA,Empire Telephone Corporation/North Penn Telephone Company,29261,3331822,0.878
+Comcast (Xfinity),PA,Blue Ridge Communications,24156,3331822,0.725
+Comcast (Xfinity),PA,Armstrong,22238,3331822,0.667
+Comcast (Xfinity),PA,AT&T,19711,3331822,0.592
+Comcast (Xfinity),PA,"Salsgiver, Inc.",18418,3331822,0.553
+Comcast (Xfinity),PA,"Future Fiber FinCo, LLC",16120,3331822,0.484
+Comcast (Xfinity),PA,Consolidated (Fidium),11604,3331822,0.348
+Comcast (Xfinity),PA,Citizens Telephone Company of Kecksburg,8962,3331822,0.269
+Comcast (Xfinity),PA,Adams CATV Inc.,7722,3331822,0.232
+Comcast (Xfinity),PA,"Zito West Holding, LLC",7686,3331822,0.231
+Comcast (Xfinity),PA,"Omni Fiber, LLC",2313,3331822,0.069
+Comcast (Xfinity),PA,"Laurel Highland Total Communications, Inc.",2116,3331822,0.064
+Comcast (Xfinity),PA,"QCOL, Inc.",2013,3331822,0.06
+Comcast (Xfinity),PA,"Hickory Utility Services, Inc.",1453,3331822,0.044
+Comcast (Xfinity),PA,"Centre WISP Venture Company, LLC",1282,3331822,0.038
+Comcast (Xfinity),PA,Pennsylvania Telephone Company,733,3331822,0.022
+Comcast (Xfinity),PA,Mifflin County Wireless,630,3331822,0.019
+Comcast (Xfinity),PA,Patriot Cable System LLC,430,3331822,0.013
+Comcast (Xfinity),PA,In The Stix Broadband LLC,183,3331822,0.005
+Comcast (Xfinity),PA,Hotwire,134,3331822,0.004
+Comcast (Xfinity),PA,TDS Telecom,125,3331822,0.004
+Comcast (Xfinity),PA,"Claverack Communications, Inc.",105,3331822,0.003
+Comcast (Xfinity),PA,VITALink LLC,92,3331822,0.003
+Comcast (Xfinity),PA,Getwireless.net,78,3331822,0.002
+Comcast (Xfinity),PA,Jefferson County Cable,57,3331822,0.002
+Comcast (Xfinity),PA,"TelAtlantic, Inc.",43,3331822,0.001
+Comcast (Xfinity),PA,The North-Eastern Pennsylvania Telephone Company,42,3331822,0.001
+Comcast (Xfinity),PA,Charter (Spectrum),24,3331822,0.001
+Comcast (Xfinity),PA,Tri-County Rural Electric Cooperative,9,3331822,0.0
+Comcast (Xfinity),PA,"D and B Broadband, LLC",7,3331822,0.0
+Comcast (Xfinity),PA,"Jackson Broadband, Inc.",6,3331822,0.0
+Comcast (Xfinity),PA,Beaver Valley Cable Company,4,3331822,0.0
+Comcast (Xfinity),PA,Borough of Kutztown,2,3331822,0.0
+Comcast (Xfinity),PA,Venus Telephone Corporation,1,3331822,0.0
+Comcast (Xfinity),RI,Verizon (Fios),197,216,91.204
+Comcast (Xfinity),RI,Cox,195,216,90.278
+Comcast (Xfinity),SC,AT&T,117460,300108,39.139
+Comcast (Xfinity),SC,WOW!,84830,300108,28.266
+Comcast (Xfinity),SC,Breezeline (Cogeco),25923,300108,8.638
+Comcast (Xfinity),SC,Charter (Spectrum),21719,300108,7.237
+Comcast (Xfinity),SC,"Home Telephone Company, Inc. (SC)",18476,300108,6.156
+Comcast (Xfinity),SC,Cable One (Sparklight),17664,300108,5.886
+Comcast (Xfinity),SC,"Palmetto Rural Telephone Cooperative, Inc.",11518,300108,3.838
+Comcast (Xfinity),SC,"CarolinaConnect Cooperative, Inc.",10750,300108,3.582
+Comcast (Xfinity),SC,"West Carolina Rural Telephone Cooperative, Inc.",5752,300108,1.917
+Comcast (Xfinity),SC,Brightspeed,5415,300108,1.804
+Comcast (Xfinity),SC,Lumos (T-Mobile JV),2612,300108,0.87
+Comcast (Xfinity),SC,Vyve Broadband,709,300108,0.236
+Comcast (Xfinity),SC,"IQ Fiber Intermediate Holdings, LLC",578,300108,0.193
+Comcast (Xfinity),SC,Hotwire,136,300108,0.045
+Comcast (Xfinity),SC,County of Orangeburg,1,300108,0.0
+Comcast (Xfinity),SC,Frontier,1,300108,0.0
+Comcast (Xfinity),SC,"Piedmont Rural Telephone Cooperative, Inc.",1,300108,0.0
+Comcast (Xfinity),TN,AT&T,629977,1404960,44.839
+Comcast (Xfinity),TN,EPB,125896,1404960,8.961
+Comcast (Xfinity),TN,Knoxville Utilities Board,115029,1404960,8.187
+Comcast (Xfinity),TN,Google Fiber,86664,1404960,6.168
+Comcast (Xfinity),TN,TDS Telecom,55091,1404960,3.921
+Comcast (Xfinity),TN,"MTE Holdings, LLC",54034,1404960,3.846
+Comcast (Xfinity),TN,WOW!,52542,1404960,3.74
+Comcast (Xfinity),TN,Brightspeed,44421,1404960,3.162
+Comcast (Xfinity),TN,"Cumberland Connect, LLC",41101,1404960,2.925
+Comcast (Xfinity),TN,Ting,36740,1404960,2.615
+Comcast (Xfinity),TN,Johnson City Energy Authority,22611,1404960,1.609
+Comcast (Xfinity),TN,Frontier,21385,1404960,1.522
+Comcast (Xfinity),TN,"Aeneas Communications, LLC",18888,1404960,1.344
+Comcast (Xfinity),TN,Lenoir City Utility Board,15002,1404960,1.068
+Comcast (Xfinity),TN,City of Dickson Department of Electricity,11909,1404960,0.848
+Comcast (Xfinity),TN,"Highland Telephone Cooperative, Inc. (KY & TN)",11873,1404960,0.845
+Comcast (Xfinity),TN,Charter (Spectrum),11479,1404960,0.817
+Comcast (Xfinity),TN,"DeKalb Telephone Cooperative, Inc.",9886,1404960,0.704
+Comcast (Xfinity),TN,Greeneville Energy Authority,8992,1404960,0.64
+Comcast (Xfinity),TN,Ritter,8627,1404960,0.614
+Comcast (Xfinity),TN,Twin Lakes Telephone Cooperative Corporation,7209,1404960,0.513
+Comcast (Xfinity),TN,"Telapex, Inc.",6295,1404960,0.448
+Comcast (Xfinity),TN,Erwin Utilities,6236,1404960,0.444
+Comcast (Xfinity),TN,"North Central Telephone Cooperative, Inc.",5882,1404960,0.419
+Comcast (Xfinity),TN,Newport Utilities,4259,1404960,0.303
+Comcast (Xfinity),TN,Holston Electric Cooperative,3831,1404960,0.273
+Comcast (Xfinity),TN,Foursight Communications LLC,3631,1404960,0.258
+Comcast (Xfinity),TN,"Ben Lomand Rural Telephone Coop., Inc.",3265,1404960,0.232
+Comcast (Xfinity),TN,Tri-County Electric Membership Corporation,2305,1404960,0.164
+Comcast (Xfinity),TN,Meriwether Lewis Electric Cooperative,2173,1404960,0.155
+Comcast (Xfinity),TN,LTD Broadband LLC,1886,1404960,0.134
+Comcast (Xfinity),TN,Point Broadband,915,1404960,0.065
+Comcast (Xfinity),TN,TEPA Connect LLC,612,1404960,0.044
+Comcast (Xfinity),TN,Northcentral Electric Cooperative,229,1404960,0.016
+Comcast (Xfinity),TN,Bristol Tennessee Essential Services,196,1404960,0.014
+Comcast (Xfinity),TN,Morristown Utility System,195,1404960,0.014
+Comcast (Xfinity),TN,BreezeAir Networks LLC,105,1404960,0.007
+Comcast (Xfinity),TN,"SVE Connect, LLC",72,1404960,0.005
+Comcast (Xfinity),TN,Skyline Telephone Membership Corporation,35,1404960,0.002
+Comcast (Xfinity),TN,Boston Omaha Corporation,19,1404960,0.001
+Comcast (Xfinity),TN,Raymond Mazeika,13,1404960,0.001
+Comcast (Xfinity),TN,CDE Lightband,9,1404960,0.001
+Comcast (Xfinity),TN,Scott County Telephone Cooperative,6,1404960,0.0
+Comcast (Xfinity),TN,Ellijay Telephone Company,3,1404960,0.0
+Comcast (Xfinity),TN,Bledsoe Telephone Cooperative Inc.,2,1404960,0.0
+Comcast (Xfinity),TN,Gibson Electric Membership Corporation,2,1404960,0.0
+Comcast (Xfinity),TN,"Xiber, LLC",2,1404960,0.0
+Comcast (Xfinity),TN,Aureon Network Services Inc.,1,1404960,0.0
+Comcast (Xfinity),TN,Cable One (Sparklight),1,1404960,0.0
+Comcast (Xfinity),TN,Hotwire,1,1404960,0.0
+Comcast (Xfinity),TN,Jackson Energy Authority,1,1404960,0.0
+Comcast (Xfinity),TN,Ringgold Telephone Company,1,1404960,0.0
+Comcast (Xfinity),TN,Tullahoma Utilities Authority,1,1404960,0.0
+Comcast (Xfinity),TX,AT&T,1255109,2056962,61.018
+Comcast (Xfinity),TX,"Ezee Fiber Texas, LLC",331209,2056962,16.102
+Comcast (Xfinity),TX,Tachus LLC,158901,2056962,7.725
+Comcast (Xfinity),TX,Frontier,133537,2056962,6.492
+Comcast (Xfinity),TX,Consolidated (Fidium),129133,2056962,6.278
+Comcast (Xfinity),TX,Optimum (Altice USA),115813,2056962,5.63
+Comcast (Xfinity),TX,Astound Broadband,65387,2056962,3.179
+Comcast (Xfinity),TX,Charter (Spectrum),54686,2056962,2.659
+Comcast (Xfinity),TX,Brightspeed,33011,2056962,1.605
+Comcast (Xfinity),TX,Windstream/Uniti (Kinetic),31986,2056962,1.555
+Comcast (Xfinity),TX,Cable One (Sparklight),22809,2056962,1.109
+Comcast (Xfinity),TX,"Lyte Fiber, LLC",12000,2056962,0.583
+Comcast (Xfinity),TX,"MSEC Communications, LLC",11603,2056962,0.564
+Comcast (Xfinity),TX,Centric Infrastructure Group LLC,4045,2056962,0.197
+Comcast (Xfinity),TX,Metronet (T-Mobile JV),2591,2056962,0.126
+Comcast (Xfinity),TX,City of Mont Belvieu,2456,2056962,0.119
+Comcast (Xfinity),TX,Hotwire,1868,2056962,0.091
+Comcast (Xfinity),TX,"Eastex Telephone Cooperative, Inc.",1832,2056962,0.089
+Comcast (Xfinity),TX,AMG Technology Investment Group LLC,1332,2056962,0.065
+Comcast (Xfinity),TX,Brazoria Telephone Company,860,2056962,0.042
+Comcast (Xfinity),TX,"JAB Wireless, Inc.",559,2056962,0.027
+Comcast (Xfinity),TX,"James Bouse Enterprises, LLC",173,2056962,0.008
+Comcast (Xfinity),TX,"Internet Management Services, Inc.",167,2056962,0.008
+Comcast (Xfinity),TX,"ITC Broadband Operating, LLC",154,2056962,0.007
+Comcast (Xfinity),TX,"TPC ACC Acquisition, LLC",27,2056962,0.001
+Comcast (Xfinity),TX,OGC Fiber Networks Lago Mar,17,2056962,0.001
+Comcast (Xfinity),TX,Arrive Internet,5,2056962,0.0
+Comcast (Xfinity),TX,"Wellcom Technologies Highlands, LP",5,2056962,0.0
+Comcast (Xfinity),TX,"IBT Group USA, LLC",4,2056962,0.0
+Comcast (Xfinity),UT,Google Fiber,229106,769209,29.785
+Comcast (Xfinity),UT,Lumen (Quantum Fiber / CenturyLink),199272,769209,25.906
+Comcast (Xfinity),UT,Utah Telecommunication Open Infrastructure Agency,175348,769209,22.796
+Comcast (Xfinity),UT,Senawave LLC,155847,769209,20.261
+Comcast (Xfinity),UT,Beehive Telephone Companies,145368,769209,18.898
+Comcast (Xfinity),UT,Connext Networks,71907,769209,9.348
+Comcast (Xfinity),UT,"All West Communications, Inc.",28492,769209,3.704
+Comcast (Xfinity),UT,"City of Lehi, Utah",19372,769209,2.518
+Comcast (Xfinity),UT,Direct Management Company,13983,769209,1.818
+Comcast (Xfinity),UT,Spanish Fork City,12379,769209,1.609
+Comcast (Xfinity),UT,LICT Corporation,8456,769209,1.099
+Comcast (Xfinity),UT,"Avative, LLC",4485,769209,0.583
+Comcast (Xfinity),UT,Boston Omaha Corporation,4262,769209,0.554
+Comcast (Xfinity),UT,"UBTA-UBET Communications, Inc.",3331,769209,0.433
+Comcast (Xfinity),UT,"City of Salem, Utah",3119,769209,0.405
+Comcast (Xfinity),UT,"Wi-Fiber, Inc.",2504,769209,0.326
+Comcast (Xfinity),UT,Optic Loop Communications LLC,2368,769209,0.308
+Comcast (Xfinity),UT,Signal West LLC,1128,769209,0.147
+Comcast (Xfinity),UT,"JAB Wireless, Inc.",310,769209,0.04
+Comcast (Xfinity),UT,"Fiber Broadband, Inc.",285,769209,0.037
+Comcast (Xfinity),UT,"HiCountryNet, LLC",165,769209,0.021
+Comcast (Xfinity),UT,"Albion Telephone Company, Inc.",21,769209,0.003
+Comcast (Xfinity),UT,Fusion Networks,16,769209,0.002
+Comcast (Xfinity),UT,"9Stone, LLC",4,769209,0.001
+Comcast (Xfinity),UT,"South Central Utah Telephone Association, Inc.",1,769209,0.0
+Comcast (Xfinity),VA,Verizon (Fios),591896,1280928,46.208
+Comcast (Xfinity),VA,Shenandoah Telecommunications Company,137707,1280928,10.751
+Comcast (Xfinity),VA,Brightspeed,55415,1280928,4.326
+Comcast (Xfinity),VA,Point Broadband,45711,1280928,3.569
+Comcast (Xfinity),VA,Lumos (T-Mobile JV),27591,1280928,2.154
+Comcast (Xfinity),VA,Ting,19394,1280928,1.514
+Comcast (Xfinity),VA,Central Virginia Electric Cooperative,11655,1280928,0.91
+Comcast (Xfinity),VA,Wilkes Telephone Membership Corporation,10607,1280928,0.828
+Comcast (Xfinity),VA,ZiTEL LLC,7883,1280928,0.615
+Comcast (Xfinity),VA,Orange County Broadband Authority,5142,1280928,0.401
+Comcast (Xfinity),VA,Cox,4267,1280928,0.333
+Comcast (Xfinity),VA,"Zito West Holding, LLC",4145,1280928,0.324
+Comcast (Xfinity),VA,Scott County Telephone Cooperative,2708,1280928,0.211
+Comcast (Xfinity),VA,"MGW Communications, Inc.",2460,1280928,0.192
+Comcast (Xfinity),VA,BARC Electric Cooperative,2089,1280928,0.163
+Comcast (Xfinity),VA,Mecklenburg Electric Cooperative,1944,1280928,0.152
+Comcast (Xfinity),VA,Prince George Electric Cooperative,1914,1280928,0.149
+Comcast (Xfinity),VA,"Virginia Everywhere, LLC",1776,1280928,0.139
+Comcast (Xfinity),VA,WVVA.net Inc.,1641,1280928,0.128
+Comcast (Xfinity),VA,Astound Broadband,695,1280928,0.054
+Comcast (Xfinity),VA,Citizens Telephone Cooperative (VA),618,1280928,0.048
+Comcast (Xfinity),VA,New Hope Telephone Cooperative (VA),394,1280928,0.031
+Comcast (Xfinity),VA,"Kinex Telecom, Inc.",392,1280928,0.031
+Comcast (Xfinity),VA,"iGo Technology, Inc.",324,1280928,0.025
+Comcast (Xfinity),VA,"High Mountain Farm, LLC",162,1280928,0.013
+Comcast (Xfinity),VA,TDS Telecom,150,1280928,0.012
+Comcast (Xfinity),VA,Craig-Botetourt Electric Cooperative,142,1280928,0.011
+Comcast (Xfinity),VA,Charter (Spectrum),85,1280928,0.007
+Comcast (Xfinity),VA,Boston Omaha Corporation,65,1280928,0.005
+Comcast (Xfinity),VA,Breezeline (Cogeco),40,1280928,0.003
+Comcast (Xfinity),VA,Gearheart Communications,34,1280928,0.003
+Comcast (Xfinity),VA,"Starry, Inc.",9,1280928,0.001
+Comcast (Xfinity),VA,Nelson County Cablevision Corp.,3,1280928,0.0
+Comcast (Xfinity),VA,Skyline Telephone Membership Corporation,3,1280928,0.0
+Comcast (Xfinity),VA,iWiSP LLC,3,1280928,0.0
+Comcast (Xfinity),VA,1 Point Communications,2,1280928,0.0
+Comcast (Xfinity),VA,Optimum (Altice USA),2,1280928,0.0
+Comcast (Xfinity),VT,Consolidated (Fidium),64261,171306,37.512
+Comcast (Xfinity),VT,"Schurz Communications, Inc.",17955,171306,10.481
+Comcast (Xfinity),VT,"Vermont Telephone Company, Inc.",11670,171306,6.812
+Comcast (Xfinity),VT,East Central Vermont Telecommunications District,8502,171306,4.963
+Comcast (Xfinity),VT,Selectronics Corporation,3987,171306,2.327
+Comcast (Xfinity),VT,TDS Telecom,3268,171306,1.908
+Comcast (Xfinity),VT,NEK Community Broadband,1946,171306,1.136
+Comcast (Xfinity),VT,Addison County Communications Union District,1128,171306,0.658
+Comcast (Xfinity),VT,"Future Fiber FinCo, LLC",846,171306,0.494
+Comcast (Xfinity),VT,"Franklin Telephone Co., Inc.",96,171306,0.056
+Comcast (Xfinity),VT,Pear Networks LLC,85,171306,0.05
+Comcast (Xfinity),VT,Deerfield Valley Communications Union District,61,171306,0.036
+Comcast (Xfinity),VT,"Mansfield Community Fiber, Inc.",43,171306,0.025
+Comcast (Xfinity),VT,Charter (Spectrum),33,171306,0.019
+Comcast (Xfinity),VT,Westfield Gas & Electric,1,171306,0.001
+Comcast (Xfinity),WA,Lumen (Quantum Fiber / CenturyLink),372266,1720130,21.642
+Comcast (Xfinity),WA,Ziply Fiber (Bell Canada),284215,1720130,16.523
+Comcast (Xfinity),WA,Palisade America's Investment LLC,91274,1720130,5.306
+Comcast (Xfinity),WA,Astound Broadband,47050,1720130,2.735
+Comcast (Xfinity),WA,TDS Telecom,37402,1720130,2.174
+Comcast (Xfinity),WA,"Abound Ventures, Inc.",5692,1720130,0.331
+Comcast (Xfinity),WA,"IsoFusion, Inc.",2797,1720130,0.163
+Comcast (Xfinity),WA,City of Anacortes,2452,1720130,0.143
+Comcast (Xfinity),WA,Mason County Public Utility District No. 3,1823,1720130,0.106
+Comcast (Xfinity),WA,RJB Telecommunications Corp.,1571,1720130,0.091
+Comcast (Xfinity),WA,Davis Communications Inc.,1426,1720130,0.083
+Comcast (Xfinity),WA,"Declaration Networks Group, Inc.",1354,1720130,0.079
+Comcast (Xfinity),WA,Scatter Creek Ltd.,1201,1720130,0.07
+Comcast (Xfinity),WA,"Public Utility District #1 of Kitsap County, Washington",985,1720130,0.057
+Comcast (Xfinity),WA,"Ezee Fiber Texas, LLC",983,1720130,0.057
+Comcast (Xfinity),WA,Red Spectrum Communications LLC,286,1720130,0.017
+Comcast (Xfinity),WA,"Knightcom, Inc.",153,1720130,0.009
+Comcast (Xfinity),WA,"NocTel Communications, Inc.",118,1720130,0.007
+Comcast (Xfinity),WA,"Fatbeam Holdings, LLC",15,1720130,0.001
+Comcast (Xfinity),WA,"Generate-Ubiquity Holdings, LLC",4,1720130,0.0
+Comcast (Xfinity),WA,Northwest Open Access Network,3,1720130,0.0
+Comcast (Xfinity),WA,"Taluslink, LLC",3,1720130,0.0
+Comcast (Xfinity),WA,"Velocity Communications, Inc. (WA)",3,1720130,0.0
+Comcast (Xfinity),WA,Charter (Spectrum),2,1720130,0.0
+Comcast (Xfinity),WA,"Hawk Networks, Inc.",2,1720130,0.0
+Comcast (Xfinity),WA,Hunter Communications & Technologies LLC,2,1720130,0.0
+Comcast (Xfinity),WA,The Toledo Telephone Company,2,1720130,0.0
+Comcast (Xfinity),WA,"CresComm WiFi, LLC",1,1720130,0.0
+Comcast (Xfinity),WA,Inland Cellular Telephone Company,1,1720130,0.0
+Comcast (Xfinity),WA,"Newmax, LLC",1,1720130,0.0
+Comcast (Xfinity),WA,Vyve Broadband,1,1720130,0.0
+Comcast (Xfinity),WI,TDS Telecom,4525,27752,16.305
+Comcast (Xfinity),WI,Pierce Pepin Cooperative Services,711,27752,2.562
+Comcast (Xfinity),WI,"Baldwin Telecom, Inc.",540,27752,1.946
+Comcast (Xfinity),WI,AT&T,539,27752,1.942
+Comcast (Xfinity),WI,"Northeast Communications of Wisconsin, Inc.",31,27752,0.112
+Comcast (Xfinity),WI,Charter (Spectrum),12,27752,0.043
+Comcast (Xfinity),WI,Frontier,8,27752,0.029
+Comcast (Xfinity),WI,Midco,3,27752,0.011
+Comcast (Xfinity),WI,"Clear Lake Telephone Company, Inc.",1,27752,0.004
+Comcast (Xfinity),WV,Frontier,86270,240346,35.894
+Comcast (Xfinity),WV,Breezeline (Cogeco),18508,240346,7.701
+Comcast (Xfinity),WV,Shenandoah Telecommunications Company,11480,240346,4.776
+Comcast (Xfinity),WV,Optimum (Altice USA),7397,240346,3.078
+Comcast (Xfinity),WV,"Massillon Cable TV, Inc.",2650,240346,1.103
+Comcast (Xfinity),WV,"Citynet, LLC",2330,240346,0.969
+Comcast (Xfinity),WV,Charter (Spectrum),1545,240346,0.643
+Comcast (Xfinity),WV,Jefferson County Cable,988,240346,0.411
+Comcast (Xfinity),WV,"Digital Connections, Inc.",906,240346,0.377
+Comcast (Xfinity),WV,"QCOL, Inc.",296,240346,0.123
+Comcast (Xfinity),WV,Armstrong,208,240346,0.087
+Comcast (Xfinity),WV,Point Broadband,148,240346,0.062
+Comcast (Xfinity),WV,"TelAtlantic, Inc.",109,240346,0.045
+Comcast (Xfinity),WV,Alpha Technologies Inc.,10,240346,0.004
+Comcast (Xfinity),WV,"Zito West Holding, LLC",4,240346,0.002
+Charter (Spectrum),AL,AT&T,307311,919328,33.428
+Charter (Spectrum),AL,WOW!,134780,919328,14.661
+Charter (Spectrum),AL,"Telapex, Inc.",67333,919328,7.324
+Charter (Spectrum),AL,Brightspeed,52464,919328,5.707
+Charter (Spectrum),AL,JWEMC Communications LLC,26657,919328,2.9
+Charter (Spectrum),AL,Comcast (Xfinity),24605,919328,2.676
+Charter (Spectrum),AL,Cullman Electric Cooperative,23478,919328,2.554
+Charter (Spectrum),AL,Point Broadband,19417,919328,2.112
+Charter (Spectrum),AL,Central Alabama Electric Cooperative,16263,919328,1.769
+Charter (Spectrum),AL,"Tombigbee Electric Cooperative, Inc.",15150,919328,1.648
+Charter (Spectrum),AL,Windstream/Uniti (Kinetic),10619,919328,1.155
+Charter (Spectrum),AL,"Farmers Telecommunications Cooperative, Inc.",9317,919328,1.013
+Charter (Spectrum),AL,"Future Fiber FinCo, LLC",7790,919328,0.847
+Charter (Spectrum),AL,Lumos (T-Mobile JV),6568,919328,0.714
+Charter (Spectrum),AL,North Alabama Electric Cooperative,6323,919328,0.688
+Charter (Spectrum),AL,"Covington Electric Cooperative, Inc.",5737,919328,0.624
+Charter (Spectrum),AL,Scottsboro Electric Power Board,5319,919328,0.579
+Charter (Spectrum),AL,Pea River Electric Cooperative,4642,919328,0.505
+Charter (Spectrum),AL,The Utilities Board of the City of Sylacauga,4570,919328,0.497
+Charter (Spectrum),AL,West Kentucky Rural Telephone Cooperative Corp. Inc.,3832,919328,0.417
+Charter (Spectrum),AL,Coosa Valley Electric Cooperative,3475,919328,0.378
+Charter (Spectrum),AL,"HDD Broadband, Inc.",2941,919328,0.32
+Charter (Spectrum),AL,Cable One (Sparklight),2508,919328,0.273
+Charter (Spectrum),AL,"New Hope Telephone Cooperative, Inc. (AL)",1877,919328,0.204
+Charter (Spectrum),AL,Telephone Electronics Corporation,1849,919328,0.201
+Charter (Spectrum),AL,American Broadband Holding Company,463,919328,0.05
+Charter (Spectrum),AL,Mediacom,348,919328,0.038
+Charter (Spectrum),AL,TDS Telecom,247,919328,0.027
+Charter (Spectrum),AL,Pine Belt Communications Co. Inc.,213,919328,0.023
+Charter (Spectrum),AL,Cable TV of East Alabama,204,919328,0.022
+Charter (Spectrum),AL,Vyve Broadband,25,919328,0.003
+Charter (Spectrum),AL,Tennessee Valley Electric Cooperative,12,919328,0.001
+Charter (Spectrum),AL,"DoveTel Communications, LLC",9,919328,0.001
+Charter (Spectrum),AL,"Ragland Telephone Co., Inc.",2,919328,0.0
+Charter (Spectrum),AL,EATEL Corp.,1,919328,0.0
+Charter (Spectrum),AL,Skyline Telephone Membership Corporation,1,919328,0.0
+Charter (Spectrum),AZ,Allo Communications LLC,44885,71922,62.408
+Charter (Spectrum),AZ,Lumen (Quantum Fiber / CenturyLink),1421,71922,1.976
+Charter (Spectrum),AZ,"Beamspeed, LLC",789,71922,1.097
+Charter (Spectrum),CA,Frontier,1561742,4714491,33.126
+Charter (Spectrum),CA,AT&T,812641,4714491,17.237
+Charter (Spectrum),CA,"Race Telecommunications, Inc.",60894,4714491,1.292
+Charter (Spectrum),CA,"IsoFusion, Inc.",45805,4714491,0.972
+Charter (Spectrum),CA,Ting,25984,4714491,0.551
+Charter (Spectrum),CA,Sonic,24851,4714491,0.527
+Charter (Spectrum),CA,Giggle Fiber LLC,23341,4714491,0.495
+Charter (Spectrum),CA,Cox,22166,4714491,0.47
+Charter (Spectrum),CA,Astound Broadband,19985,4714491,0.424
+Charter (Spectrum),CA,"Cityside Networks, LLC",9100,4714491,0.193
+Charter (Spectrum),CA,Inyo Networks Inc.,5804,4714491,0.123
+Charter (Spectrum),CA,Mediacom,4317,4714491,0.092
+Charter (Spectrum),CA,"Aspire Broadband Holdings, LLC",3657,4714491,0.078
+Charter (Spectrum),CA,"Ultimate Internet Access, Inc.",3383,4714491,0.072
+Charter (Spectrum),CA,"Generate-Ubiquity Holdings, LLC",3288,4714491,0.07
+Charter (Spectrum),CA,Comcast (Xfinity),2422,4714491,0.051
+Charter (Spectrum),CA,UnWired Broadband Holding LLC,1869,4714491,0.04
+Charter (Spectrum),CA,Hotwire,1536,4714491,0.033
+Charter (Spectrum),CA,"yondoo Broadband, LLC",1367,4714491,0.029
+Charter (Spectrum),CA,"Varcomm Holdings, Inc.",764,4714491,0.016
+Charter (Spectrum),CA,Optimum (Altice USA),486,4714491,0.01
+Charter (Spectrum),CA,OACYS Technology,456,4714491,0.01
+Charter (Spectrum),CA,Surfnet Communications,328,4714491,0.007
+Charter (Spectrum),CA,"Broadband MDU Holdings, LLC",287,4714491,0.006
+Charter (Spectrum),CA,ConnectTo Communications Inc.,211,4714491,0.004
+Charter (Spectrum),CA,Hankins Information Technology,191,4714491,0.004
+Charter (Spectrum),CA,Google Fiber,62,4714491,0.001
+Charter (Spectrum),CA,"Anza Electric Cooperative, Inc.",54,4714491,0.001
+Charter (Spectrum),CA,"Consolidated Smart Broadband Systems, LLC",54,4714491,0.001
+Charter (Spectrum),CA,Boston Omaha Corporation,53,4714491,0.001
+Charter (Spectrum),CA,"Siteserver, Inc.",40,4714491,0.001
+Charter (Spectrum),CA,"Starry, Inc.",21,4714491,0.0
+Charter (Spectrum),CA,South Valley Internet,17,4714491,0.0
+Charter (Spectrum),CA,"Zito West Holding, LLC",10,4714491,0.0
+Charter (Spectrum),CA,"Orion CableSystems, Inc.",8,4714491,0.0
+Charter (Spectrum),CA,TDS Telecom,7,4714491,0.0
+Charter (Spectrum),CO,"Clearnetworx, LLC",29101,148905,19.543
+Charter (Spectrum),CO,Delta Montrose Electric Association,13655,148905,9.17
+Charter (Spectrum),CO,"ITC Broadband Operating, LLC",11660,148905,7.83
+Charter (Spectrum),CO,Lumen (Quantum Fiber / CenturyLink),7275,148905,4.886
+Charter (Spectrum),CO,"Visionary Communications, Inc.",6748,148905,4.532
+Charter (Spectrum),CO,Allo Communications LLC,5896,148905,3.96
+Charter (Spectrum),CO,Luminate Fiber LLC,3937,148905,2.644
+Charter (Spectrum),CO,"VFN Holdings, Inc.",3707,148905,2.49
+Charter (Spectrum),CO,Southeast Colorado Power Association,3299,148905,2.216
+Charter (Spectrum),CO,"Kentec Communications, Inc.",2357,148905,1.583
+Charter (Spectrum),CO,"San Luis Valley Rural Electric Cooperative, Inc.",2167,148905,1.455
+Charter (Spectrum),CO,Blanca Telephone Company/Jade Communications LLC,1177,148905,0.79
+Charter (Spectrum),CO,DMEA Utilities Services LLC,987,148905,0.663
+Charter (Spectrum),CO,"FastTrack Communications, Inc.",200,148905,0.134
+Charter (Spectrum),CO,Southern Ute ISP,50,148905,0.034
+Charter (Spectrum),CO,"NE Colorado Cellular, Inc.",19,148905,0.013
+Charter (Spectrum),CO,Emery Telcom,14,148905,0.009
+Charter (Spectrum),CO,"Smiling J, LLC",5,148905,0.003
+Charter (Spectrum),CO,AlignTec Inc.,1,148905,0.001
+Charter (Spectrum),CO,Ting,1,148905,0.001
+Charter (Spectrum),CO,"UBTA-UBET Communications, Inc.",1,148905,0.001
+Charter (Spectrum),CT,Frontier,91008,121133,75.131
+Charter (Spectrum),CT,"Future Fiber FinCo, LLC",5507,121133,4.546
+Charter (Spectrum),CT,Comcast (Xfinity),1678,121133,1.385
+Charter (Spectrum),CT,Optimum (Altice USA),1069,121133,0.883
+Charter (Spectrum),CT,Breezeline (Cogeco),235,121133,0.194
+Charter (Spectrum),CT,Cox,36,121133,0.03
+Charter (Spectrum),CT,Verizon (Fios),1,121133,0.001
+Charter (Spectrum),FL,Frontier,1022018,3037790,33.643
+Charter (Spectrum),FL,AT&T,578954,3037790,19.058
+Charter (Spectrum),FL,WOW!,366270,3037790,12.057
+Charter (Spectrum),FL,Comcast (Xfinity),182590,3037790,6.011
+Charter (Spectrum),FL,Lumen (Quantum Fiber / CenturyLink),166190,3037790,5.471
+Charter (Spectrum),FL,Metronet (T-Mobile JV),102500,3037790,3.374
+Charter (Spectrum),FL,Wire 3 Holdings,91623,3037790,3.016
+Charter (Spectrum),FL,Tillman Global Holdings,68795,3037790,2.265
+Charter (Spectrum),FL,"Open Infra, Inc.",49063,3037790,1.615
+Charter (Spectrum),FL,Lumos (T-Mobile JV),16122,3037790,0.531
+Charter (Spectrum),FL,Hotwire,8402,3037790,0.277
+Charter (Spectrum),FL,Cox,6910,3037790,0.227
+Charter (Spectrum),FL,"Orlando Telephone Company, Inc.",6013,3037790,0.198
+Charter (Spectrum),FL,"Zito West Holding, LLC",3433,3037790,0.113
+Charter (Spectrum),FL,Centric Infrastructure Group LLC,3176,3037790,0.105
+Charter (Spectrum),FL,"Delta Communications, LLC",2810,3037790,0.093
+Charter (Spectrum),FL,"Conexon Connect, LLC",1823,3037790,0.06
+Charter (Spectrum),FL,"TPC ACC Acquisition, LLC",1815,3037790,0.06
+Charter (Spectrum),FL,"Fiber by Central Florida, LLC",843,3037790,0.028
+Charter (Spectrum),FL,Consolidated (Fidium),448,3037790,0.015
+Charter (Spectrum),FL,Boston Omaha Corporation,432,3037790,0.014
+Charter (Spectrum),FL,Oak Run Associates Ltd.,319,3037790,0.011
+Charter (Spectrum),FL,"DCM Cable, Inc.",296,3037790,0.01
+Charter (Spectrum),FL,Court Square Capital Partners,197,3037790,0.006
+Charter (Spectrum),FL,"Myakka Communications, Inc.",145,3037790,0.005
+Charter (Spectrum),FL,"LiveOak Fiber, LLC",75,3037790,0.002
+Charter (Spectrum),FL,"Alternative Choice Wireless, LLC",60,3037790,0.002
+Charter (Spectrum),FL,City of Valparaiso,34,3037790,0.001
+Charter (Spectrum),FL,Windstream/Uniti (Kinetic),28,3037790,0.001
+Charter (Spectrum),FL,Velofi LLC,10,3037790,0.0
+Charter (Spectrum),FL,"Consolidated Smart Broadband Systems, LLC",5,3037790,0.0
+Charter (Spectrum),FL,City of Ocala,4,3037790,0.0
+Charter (Spectrum),FL,"Everywhere Wireless, LLC",2,3037790,0.0
+Charter (Spectrum),FL,Mediacom,1,3037790,0.0
+Charter (Spectrum),GA,AT&T,275957,666191,41.423
+Charter (Spectrum),GA,Comcast (Xfinity),56628,666191,8.5
+Charter (Spectrum),GA,WOW!,40175,666191,6.031
+Charter (Spectrum),GA,Windstream/Uniti (Kinetic),39672,666191,5.955
+Charter (Spectrum),GA,"Conexon Connect, LLC",25035,666191,3.758
+Charter (Spectrum),GA,"Board of Water, Light & Sinking Fund Commissioners of the City of Dalton, GA",20745,666191,3.114
+Charter (Spectrum),GA,Point Broadband,9496,666191,1.425
+Charter (Spectrum),GA,Tri-County Electric Membership Corporation,7835,666191,1.176
+Charter (Spectrum),GA,"DoveTel Communications, LLC",7701,666191,1.156
+Charter (Spectrum),GA,Ringgold Telephone Company,7381,666191,1.108
+Charter (Spectrum),GA,Mediacom,7065,666191,1.061
+Charter (Spectrum),GA,Lumos (T-Mobile JV),4683,666191,0.703
+Charter (Spectrum),GA,Trenton Telephone Co.,3949,666191,0.593
+Charter (Spectrum),GA,"ITC Broadband Operating, LLC",3687,666191,0.553
+Charter (Spectrum),GA,"GreyStone Connect, LLC",1692,666191,0.254
+Charter (Spectrum),GA,Cable One (Sparklight),1253,666191,0.188
+Charter (Spectrum),GA,"Zito West Holding, LLC",1253,666191,0.188
+Charter (Spectrum),GA,"Diverse Power, Inc.",1133,666191,0.17
+Charter (Spectrum),GA,"Progressive Rural Telephone Co-Op., Inc.",924,666191,0.139
+Charter (Spectrum),GA,EPB,726,666191,0.109
+Charter (Spectrum),GA,Altamaha Electric Corporation,404,666191,0.061
+Charter (Spectrum),GA,Google Fiber,375,666191,0.056
+Charter (Spectrum),GA,Habersham Electric Membership Corporation,269,666191,0.04
+Charter (Spectrum),GA,Fail Telecommunication Corporation,251,666191,0.038
+Charter (Spectrum),GA,"TruVista Communications, Inc.",228,666191,0.034
+Charter (Spectrum),GA,"Dycom Holding, Inc.",39,666191,0.006
+Charter (Spectrum),GA,Velofi LLC,30,666191,0.005
+Charter (Spectrum),GA,"Delta Communications, LLC",27,666191,0.004
+Charter (Spectrum),GA,Hotwire,27,666191,0.004
+Charter (Spectrum),GA,"Public Service Communications, Inc.",15,666191,0.002
+Charter (Spectrum),GA,Cox,3,666191,0.0
+Charter (Spectrum),GA,City of Sandersville,2,666191,0.0
+Charter (Spectrum),HI,altafiber (Cincinnati Bell),239985,293729,81.703
+Charter (Spectrum),HI,"Waimana Enterprises, Inc.",61,293729,0.021
+Charter (Spectrum),HI,"Hawaii Dialogix Telecom, LLC",2,293729,0.001
+Charter (Spectrum),ID,TDS Telecom,41406,62384,66.373
+Charter (Spectrum),ID,Ziply Fiber (Bell Canada),32798,62384,52.574
+Charter (Spectrum),ID,"Newmax, LLC",730,62384,1.17
+Charter (Spectrum),ID,"First Step Internet, LLC",12,62384,0.019
+Charter (Spectrum),ID,Inland Cellular Telephone Company,10,62384,0.016
+Charter (Spectrum),ID,"Fatbeam Holdings, LLC",9,62384,0.014
+Charter (Spectrum),ID,Red Spectrum Communications LLC,9,62384,0.014
+Charter (Spectrum),IL,"Delta Communications, LLC",31144,255337,12.197
+Charter (Spectrum),IL,AT&T,30648,255337,12.003
+Charter (Spectrum),IL,"WH i3B Bidco LLC/WH i3B Topco, LLC",28900,255337,11.318
+Charter (Spectrum),IL,Metronet (T-Mobile JV),8339,255337,3.266
+Charter (Spectrum),IL,HTC Holding Co.,4597,255337,1.8
+Charter (Spectrum),IL,"Wabash Telephone Cooperative, Inc.",3823,255337,1.497
+Charter (Spectrum),IL,Highland Communication Services,3784,255337,1.482
+Charter (Spectrum),IL,Frontier,2960,255337,1.159
+Charter (Spectrum),IL,Surf Internet,2246,255337,0.88
+Charter (Spectrum),IL,"Shawnee Communications, Inc.",793,255337,0.311
+Charter (Spectrum),IL,"Progressive Voice & Data, Inc.",640,255337,0.251
+Charter (Spectrum),IL,"Alhambra-Grantfork Communications, Inc.",482,255337,0.189
+Charter (Spectrum),IL,"MCC Network Services, LLC",468,255337,0.183
+Charter (Spectrum),IL,Comcast (Xfinity),352,255337,0.138
+Charter (Spectrum),IL,Cable One (Sparklight),301,255337,0.118
+Charter (Spectrum),IL,"Schwartz Ventures, Inc.",247,255337,0.097
+Charter (Spectrum),IL,Egyptian Telephone Cooperative Association,129,255337,0.051
+Charter (Spectrum),IL,Mediacom,36,255337,0.014
+Charter (Spectrum),IL,American Heartland Fiber Networks LLC,5,255337,0.002
+Charter (Spectrum),IL,Sharon Telephone Company (IL & WI),4,255337,0.002
+Charter (Spectrum),IN,AT&T,213918,552840,38.694
+Charter (Spectrum),IN,Metronet (T-Mobile JV),52536,552840,9.503
+Charter (Spectrum),IN,Comcast (Xfinity),36143,552840,6.538
+Charter (Spectrum),IN,"Joink, LLC",28292,552840,5.118
+Charter (Spectrum),IN,Frontier,24016,552840,4.344
+Charter (Spectrum),IN,"Mainstream Fiber Networks, LLC",17206,552840,3.112
+Charter (Spectrum),IN,Lumos (T-Mobile JV),11266,552840,2.038
+Charter (Spectrum),IN,Cable One (Sparklight),8262,552840,1.494
+Charter (Spectrum),IN,TDS Telecom,8114,552840,1.468
+Charter (Spectrum),IN,"Smithville Holding Company, Inc.",6485,552840,1.173
+Charter (Spectrum),IN,Brightspeed,6427,552840,1.163
+Charter (Spectrum),IN,Hancock Rural Telephone Corporation,6267,552840,1.134
+Charter (Spectrum),IN,"Clay County Rural Telephone Cooperative, Inc.",5489,552840,0.993
+Charter (Spectrum),IN,Surf Internet,5484,552840,0.992
+Charter (Spectrum),IN,Jackson County Rural Electric Membership Corporation,4056,552840,0.734
+Charter (Spectrum),IN,"Perry-Spencer Rural Telephone Cooperative, Inc.",3528,552840,0.638
+Charter (Spectrum),IN,City of Scottsburg,2838,552840,0.513
+Charter (Spectrum),IN,Tipmont Rural Electric Membership Corporation,2071,552840,0.375
+Charter (Spectrum),IN,Orange County REMC,1715,552840,0.31
+Charter (Spectrum),IN,Washington County Rural Telephone Cooperative,1285,552840,0.232
+Charter (Spectrum),IN,"Great Plains Communications, Inc.",1161,552840,0.21
+Charter (Spectrum),IN,Benton Ridge Telephone Company,966,552840,0.175
+Charter (Spectrum),IN,altafiber (Cincinnati Bell),686,552840,0.124
+Charter (Spectrum),IN,"Sweetser Rural Telephone Company, Inc.",666,552840,0.12
+Charter (Spectrum),IN,"New Lisbon Telephone Company, Inc.",647,552840,0.117
+Charter (Spectrum),IN,Southeastern Indiana Rural Telephone Cooperative,568,552840,0.103
+Charter (Spectrum),IN,"On-Ramp Indiana, Inc.",366,552840,0.066
+Charter (Spectrum),IN,"Mercury Broadband, LLC",208,552840,0.038
+Charter (Spectrum),IN,Haywire,75,552840,0.014
+Charter (Spectrum),IN,Southeastern Indiana Rural Electric Membership Corporation,62,552840,0.011
+Charter (Spectrum),IN,Bloomingdale Home Telephone Company,48,552840,0.009
+Charter (Spectrum),IN,BerryComm LLC,24,552840,0.004
+Charter (Spectrum),IN,Citizens Telephone Corporation,8,552840,0.001
+Charter (Spectrum),KS,Google Fiber,166252,210054,79.147
+Charter (Spectrum),KS,"Everfast Fiber Networks, LLC",131876,210054,62.782
+Charter (Spectrum),KS,AT&T,91411,210054,43.518
+Charter (Spectrum),KS,"Delta Communications, LLC",10785,210054,5.134
+Charter (Spectrum),KS,JMZ Corporation,3787,210054,1.803
+Charter (Spectrum),KS,Comcast (Xfinity),1416,210054,0.674
+Charter (Spectrum),KS,Midco,1004,210054,0.478
+Charter (Spectrum),KS,Brightspeed,732,210054,0.348
+Charter (Spectrum),KS,Optimum (Altice USA),67,210054,0.032
+Charter (Spectrum),KS,PCs for People,12,210054,0.006
+Charter (Spectrum),KS,"Townes Telecommunications, Inc.",6,210054,0.003
+Charter (Spectrum),KY,AT&T,352961,1034942,34.104
+Charter (Spectrum),KY,Metronet (T-Mobile JV),128415,1034942,12.408
+Charter (Spectrum),KY,altafiber (Cincinnati Bell),123061,1034942,11.891
+Charter (Spectrum),KY,Windstream/Uniti (Kinetic),122233,1034942,11.811
+Charter (Spectrum),KY,"Conexon Connect, LLC",18737,1034942,1.81
+Charter (Spectrum),KY,Lumos (T-Mobile JV),18150,1034942,1.754
+Charter (Spectrum),KY,Brandenburg Communications Corp.,13753,1034942,1.329
+Charter (Spectrum),KY,"North Central Telephone Cooperative, Inc.",12260,1034942,1.185
+Charter (Spectrum),KY,Owensboro Municipal Utilities,12232,1034942,1.182
+Charter (Spectrum),KY,"Electric Plant Board of the City of Hopkinsville, Kentucky",8964,1034942,0.866
+Charter (Spectrum),KY,Henderson Municipal Power & Light,8471,1034942,0.818
+Charter (Spectrum),KY,"Stupp Fiber, LLC",6055,1034942,0.585
+Charter (Spectrum),KY,Murray Electric System,5649,1034942,0.546
+Charter (Spectrum),KY,"Highland Telephone Cooperative, Inc. (KY & TN)",4589,1034942,0.443
+Charter (Spectrum),KY,LitFiber,1571,1034942,0.152
+Charter (Spectrum),KY,Eastern Cable Corporation,1008,1034942,0.097
+Charter (Spectrum),KY,"Thacker-Grigsby Telephone Company, Inc.",1001,1034942,0.097
+Charter (Spectrum),KY,Duo County Telephone Cooperative Inc.,994,1034942,0.096
+Charter (Spectrum),KY,"Peoples Rural Telephone Cooperative Corporation, Inc.",982,1034942,0.095
+Charter (Spectrum),KY,Mediacom,978,1034942,0.094
+Charter (Spectrum),KY,South Central Rural Telecommunications Cooperative Inc.,853,1034942,0.082
+Charter (Spectrum),KY,"Standard Tobacco Company, Inc.",803,1034942,0.078
+Charter (Spectrum),KY,Barbourville Utility Commission,751,1034942,0.073
+Charter (Spectrum),KY,Comcast (Xfinity),750,1034942,0.072
+Charter (Spectrum),KY,Crystal Broadband Networks,716,1034942,0.069
+Charter (Spectrum),KY,"Mountain Rural Telephone Cooperative Corporation, Inc.",695,1034942,0.067
+Charter (Spectrum),KY,Franklin Electric Plant Board,536,1034942,0.052
+Charter (Spectrum),KY,"City of Bardstown, KY",433,1034942,0.042
+Charter (Spectrum),KY,Electric and Water Plant Board of the City of Frankfort,315,1034942,0.03
+Charter (Spectrum),KY,"Zito West Holding, LLC",305,1034942,0.029
+Charter (Spectrum),KY,"Virginia Everywhere, LLC",204,1034942,0.02
+Charter (Spectrum),KY,Armstrong,195,1034942,0.019
+Charter (Spectrum),KY,West Kentucky Rural Telephone Cooperative Corp. Inc.,161,1034942,0.016
+Charter (Spectrum),KY,"Logan Telephone Cooperative, Inc.",121,1034942,0.012
+Charter (Spectrum),KY,Optimum (Altice USA),56,1034942,0.005
+Charter (Spectrum),KY,City of Williamstown,16,1034942,0.002
+Charter (Spectrum),KY,"Eastern Telephone & Technologies, Inc.",12,1034942,0.001
+Charter (Spectrum),KY,Litebridge LLC,11,1034942,0.001
+Charter (Spectrum),KY,"Harlan Community Television, Inc.",8,1034942,0.001
+Charter (Spectrum),KY,Gibson Electric Membership Corporation,7,1034942,0.001
+Charter (Spectrum),KY,Point Broadband,4,1034942,0.0
+Charter (Spectrum),KY,Community Telecom Services,2,1034942,0.0
+Charter (Spectrum),KY,"Xiber, LLC",2,1034942,0.0
+Charter (Spectrum),LA,AT&T,81730,274776,29.744
+Charter (Spectrum),LA,Metronet (T-Mobile JV),28638,274776,10.422
+Charter (Spectrum),LA,"Reserve Holdings, Inc.",13688,274776,4.982
+Charter (Spectrum),LA,Lafayette City Parish Consolidated Government,10253,274776,3.731
+Charter (Spectrum),LA,EATEL Corp.,7669,274776,2.791
+Charter (Spectrum),LA,"Allen's TV Cable Service, Inc.",2976,274776,1.083
+Charter (Spectrum),LA,Brightspeed,2825,274776,1.028
+Charter (Spectrum),LA,"Camellia City Fiber, LLC",1730,274776,0.63
+Charter (Spectrum),LA,Comcast (Xfinity),1303,274776,0.474
+Charter (Spectrum),LA,Optimum (Altice USA),1134,274776,0.413
+Charter (Spectrum),LA,"CableSouth Media III, LLC",1124,274776,0.409
+Charter (Spectrum),LA,Gonthier Inc.,905,274776,0.329
+Charter (Spectrum),LA,Cox,386,274776,0.14
+Charter (Spectrum),LA,Vyve Broadband,228,274776,0.083
+Charter (Spectrum),LA,"Cajun Broadband, Inc.",220,274776,0.08
+Charter (Spectrum),LA,"Benchmark Communications, LLC",1,274776,0.0
+Charter (Spectrum),MA,Verizon (Fios),52384,283558,18.474
+Charter (Spectrum),MA,Chicopee Municipal Lighting Plant,14427,283558,5.088
+Charter (Spectrum),MA,"Future Fiber FinCo, LLC",8857,283558,3.124
+Charter (Spectrum),MA,Gateway Fiber Holdings LLC,3895,283558,1.374
+Charter (Spectrum),MA,Comcast (Xfinity),3320,283558,1.171
+Charter (Spectrum),MA,"Ripple Fiber, LLC",2670,283558,0.942
+Charter (Spectrum),MA,"Fiber Connect, LLC.",1299,283558,0.458
+Charter (Spectrum),MA,Richmond Telephone Company LLC,806,283558,0.284
+Charter (Spectrum),MA,Town of Shrewsbury,287,283558,0.101
+Charter (Spectrum),MA,South Hadley Electric Light Department,172,283558,0.061
+Charter (Spectrum),MA,Westfield Gas & Electric,135,283558,0.048
+Charter (Spectrum),MA,Cox,19,283558,0.007
+Charter (Spectrum),MA,Consolidated (Fidium),3,283558,0.001
+Charter (Spectrum),MA,"Hub66, Inc.",2,283558,0.001
+Charter (Spectrum),MD,Choptank Electric Cooperative,28,4161,0.673
+Charter (Spectrum),MD,Pocomoke Holdings,1,4161,0.024
+Charter (Spectrum),MD,"Talkie Communications, Inc.",1,4161,0.024
+Charter (Spectrum),ME,Consolidated (Fidium),234402,461880,50.75
+Charter (Spectrum),ME,"Future Fiber FinCo, LLC",89400,461880,19.356
+Charter (Spectrum),ME,TDS Telecom,14807,461880,3.206
+Charter (Spectrum),ME,"Pioneer Wireless, Inc.",6290,461880,1.362
+Charter (Spectrum),ME,Lincolnville Telephone Company,5552,461880,1.202
+Charter (Spectrum),ME,"Firstlight Fiber, Inc.",2679,461880,0.58
+Charter (Spectrum),ME,"UniTek, Inc.",1828,461880,0.396
+Charter (Spectrum),ME,Sebago Fiber & Wifi LLC,1519,461880,0.329
+Charter (Spectrum),ME,VVD Funding LLC,1411,461880,0.305
+Charter (Spectrum),ME,Union River Telephone Company,846,461880,0.183
+Charter (Spectrum),ME,Axiom Technologies,684,461880,0.148
+Charter (Spectrum),ME,Biddeford Internet Corporation,405,461880,0.088
+Charter (Spectrum),ME,Comcast (Xfinity),373,461880,0.081
+Charter (Spectrum),ME,Breezeline (Cogeco),117,461880,0.025
+Charter (Spectrum),MI,AT&T,83757,1099006,7.621
+Charter (Spectrum),MI,Frontier,63498,1099006,5.778
+Charter (Spectrum),MI,WOW!,60226,1099006,5.48
+Charter (Spectrum),MI,Comcast (Xfinity),37709,1099006,3.431
+Charter (Spectrum),MI,Point Broadband,24994,1099006,2.274
+Charter (Spectrum),MI,"Great Lakes Energy Connections, Inc.",23221,1099006,2.113
+Charter (Spectrum),MI,Surf Internet,16379,1099006,1.49
+Charter (Spectrum),MI,Metronet (T-Mobile JV),15290,1099006,1.391
+Charter (Spectrum),MI,Baraga Telephone Company Inc.,13142,1099006,1.196
+Charter (Spectrum),MI,"Aspire Networks 1, LLC",12356,1099006,1.124
+Charter (Spectrum),MI,DayStarr LLC,9521,1099006,0.866
+Charter (Spectrum),MI,Ace Telephone Association,9413,1099006,0.857
+Charter (Spectrum),MI,Presque Isle Electric & Gas Co-op,7751,1099006,0.705
+Charter (Spectrum),MI,Brightspeed,6862,1099006,0.624
+Charter (Spectrum),MI,"MachTen, Inc.",6664,1099006,0.606
+Charter (Spectrum),MI,"Omni Fiber, LLC",5673,1099006,0.516
+Charter (Spectrum),MI,"123.Net, Inc.",5562,1099006,0.506
+Charter (Spectrum),MI,CMS Internet LLC,5423,1099006,0.493
+Charter (Spectrum),MI,"Ripple Fiber, LLC",5278,1099006,0.48
+Charter (Spectrum),MI,Tri-County Electric Cooperative,4975,1099006,0.453
+Charter (Spectrum),MI,Coldwater Board of Public Utilities,4863,1099006,0.442
+Charter (Spectrum),MI,"Hiawatha Communications, Inc.",4778,1099006,0.435
+Charter (Spectrum),MI,Lennon Telephone Company,3354,1099006,0.305
+Charter (Spectrum),MI,LakeNet LLC,3319,1099006,0.302
+Charter (Spectrum),MI,"D & P Communications, Inc.",1611,1099006,0.147
+Charter (Spectrum),MI,Lumos (T-Mobile JV),1403,1099006,0.128
+Charter (Spectrum),MI,"Cherry Capital Connection, LLC",1350,1099006,0.123
+Charter (Spectrum),MI,Barry County Services Company,1018,1099006,0.093
+Charter (Spectrum),MI,Chapin Communications Corporation,995,1099006,0.091
+Charter (Spectrum),MI,COLI Inc.,974,1099006,0.089
+Charter (Spectrum),MI,Midwest Energy Cooperative,881,1099006,0.08
+Charter (Spectrum),MI,Eclipse Communications,821,1099006,0.075
+Charter (Spectrum),MI,"Air Advantage, LLC",796,1099006,0.072
+Charter (Spectrum),MI,"Mercury Broadband, LLC",745,1099006,0.068
+Charter (Spectrum),MI,Thumb Electric Cooperative,626,1099006,0.057
+Charter (Spectrum),MI,KEPS Technologies Inc.,526,1099006,0.048
+Charter (Spectrum),MI,"Block Communications, Inc.",422,1099006,0.038
+Charter (Spectrum),MI,"Bloomingdale Telephone Company, Inc.",351,1099006,0.032
+Charter (Spectrum),MI,Holland Board of Public Works,257,1099006,0.023
+Charter (Spectrum),MI,Allband Communications Cooperative,218,1099006,0.02
+Charter (Spectrum),MI,Newaygo County Regional Educational Service Agency,177,1099006,0.016
+Charter (Spectrum),MI,"DMCI Broadband, LLC",145,1099006,0.013
+Charter (Spectrum),MI,TDS Telecom,100,1099006,0.009
+Charter (Spectrum),MI,"Michwave Technologies, Inc.",71,1099006,0.006
+Charter (Spectrum),MI,Mediacom,56,1099006,0.005
+Charter (Spectrum),MI,"City of Norway, Michigan",45,1099006,0.004
+Charter (Spectrum),MI,"Agri-Valley Communications, Inc.",9,1099006,0.001
+Charter (Spectrum),MI,Cable America Missouri LLC,2,1099006,0.0
+Charter (Spectrum),MI,"Decatur Holding Company, Inc.",1,1099006,0.0
+Charter (Spectrum),MI,"Ogden Communications, Inc.",1,1099006,0.0
+Charter (Spectrum),MI,Ridge Tower Network LLC,1,1099006,0.0
+Charter (Spectrum),MI,Vogtmann Engineering Inc.,1,1099006,0.0
+Charter (Spectrum),MN,Metronet (T-Mobile JV),101049,379187,26.649
+Charter (Spectrum),MN,"Hiawatha Broadband Communications, Inc.",17269,379187,4.554
+Charter (Spectrum),MN,Frontier,16833,379187,4.439
+Charter (Spectrum),MN,Consolidated (Fidium),14728,379187,3.884
+Charter (Spectrum),MN,"BIF IV Intrepid HoldCo, LLC",14198,379187,3.744
+Charter (Spectrum),MN,Consolidated Telephone Company,10617,379187,2.8
+Charter (Spectrum),MN,TDS Telecom,8949,379187,2.36
+Charter (Spectrum),MN,Lumen (Quantum Fiber / CenturyLink),8580,379187,2.263
+Charter (Spectrum),MN,"Arvig Enterprises, Inc.",7619,379187,2.009
+Charter (Spectrum),MN,LTD Broadband LLC,6114,379187,1.612
+Charter (Spectrum),MN,AT&T,4501,379187,1.187
+Charter (Spectrum),MN,Bluepeak,4213,379187,1.111
+Charter (Spectrum),MN,City of Monticello,3770,379187,0.994
+Charter (Spectrum),MN,Winnebago Cooperative Telecom Association,3698,379187,0.975
+Charter (Spectrum),MN,"City of Buffalo, Minnesota",2904,379187,0.766
+Charter (Spectrum),MN,Kasson & Mantorville Telephone Company,2683,379187,0.708
+Charter (Spectrum),MN,Midco,2175,379187,0.574
+Charter (Spectrum),MN,Ace Telephone Association,2122,379187,0.56
+Charter (Spectrum),MN,Emily Cooperative Telephone Company,1621,379187,0.427
+Charter (Spectrum),MN,"Nuvera Communications, Inc.",1448,379187,0.382
+Charter (Spectrum),MN,Gateway Fiber Holdings LLC,1145,379187,0.302
+Charter (Spectrum),MN,Comcast (Xfinity),1113,379187,0.294
+Charter (Spectrum),MN,Albany Mutual Telephone Association,952,379187,0.251
+Charter (Spectrum),MN,"Hanson Communications, Inc.",916,379187,0.242
+Charter (Spectrum),MN,"Tri-Co Technologies, LLC",728,379187,0.192
+Charter (Spectrum),MN,"NETworx Broadband, Inc.",599,379187,0.158
+Charter (Spectrum),MN,Mediacom,517,379187,0.136
+Charter (Spectrum),MN,Meeker Cooperative Light & Power Association,435,379187,0.115
+Charter (Spectrum),MN,Gardonville Cooperative Telephone Association,222,379187,0.059
+Charter (Spectrum),MN,Broadband Corp.,196,379187,0.052
+Charter (Spectrum),MN,Benton Cooperative Telephone Company,156,379187,0.041
+Charter (Spectrum),MN,West Central Telephone Assn.,147,379187,0.039
+Charter (Spectrum),MN,Park Region Mutual Telephone Company,125,379187,0.033
+Charter (Spectrum),MN,Mille Lacs Energy Cooperative,117,379187,0.031
+Charter (Spectrum),MN,Paul Bunyan Rural Telephone Cooperative,58,379187,0.015
+Charter (Spectrum),MN,Federated Telephone Cooperative,41,379187,0.011
+Charter (Spectrum),MN,Farmers Mutual Telephone Company (MN),30,379187,0.008
+Charter (Spectrum),MN,JTN Communications,10,379187,0.003
+Charter (Spectrum),MN,"Xtratyme Technologies, Inc.",8,379187,0.002
+Charter (Spectrum),MN,Upsala Cooperative Telephone Association,4,379187,0.001
+Charter (Spectrum),MN,PCs for People,2,379187,0.001
+Charter (Spectrum),MN,Woodstock Telephone Company,2,379187,0.001
+Charter (Spectrum),MN,"Decatur Holding Company, Inc.",1,379187,0.0
+Charter (Spectrum),MN,Rural Communications Holding Corporation,1,379187,0.0
+Charter (Spectrum),MO,AT&T,462592,1193917,38.746
+Charter (Spectrum),MO,Google Fiber,219159,1193917,18.356
+Charter (Spectrum),MO,"Everfast Fiber Networks, LLC",97990,1193917,8.207
+Charter (Spectrum),MO,"WH i3B Bidco LLC/WH i3B Topco, LLC",68578,1193917,5.744
+Charter (Spectrum),MO,Gateway Fiber Holdings LLC,61384,1193917,5.141
+Charter (Spectrum),MO,Socket Telecom LLC,39905,1193917,3.342
+Charter (Spectrum),MO,Brightspeed,30303,1193917,2.538
+Charter (Spectrum),MO,"Big River Telephone, LLC",12412,1193917,1.04
+Charter (Spectrum),MO,"United Electric Cooperative, Inc.",12040,1193917,1.008
+Charter (Spectrum),MO,Kingdom Telephone Company,11847,1193917,0.992
+Charter (Spectrum),MO,Cable One (Sparklight),11735,1193917,0.983
+Charter (Spectrum),MO,"Co-Mo Electric Cooperative, Inc.",10025,1193917,0.84
+Charter (Spectrum),MO,Comcast (Xfinity),7013,1193917,0.587
+Charter (Spectrum),MO,SEMO Electric Cooperative,6919,1193917,0.58
+Charter (Spectrum),MO,Mediacom,5818,1193917,0.487
+Charter (Spectrum),MO,Chariton Valley Telephone Corporation,4604,1193917,0.386
+Charter (Spectrum),MO,"Conexon Connect, LLC",3462,1193917,0.29
+Charter (Spectrum),MO,Intercept Wireless,2437,1193917,0.204
+Charter (Spectrum),MO,"Callabyte Technology, LLC",2236,1193917,0.187
+Charter (Spectrum),MO,"JAB Wireless, Inc.",2151,1193917,0.18
+Charter (Spectrum),MO,Oregon Telephone Corporation,1696,1193917,0.142
+Charter (Spectrum),MO,"Ralls Technologies, LLC",1269,1193917,0.106
+Charter (Spectrum),MO,Windstream/Uniti (Kinetic),1184,1193917,0.099
+Charter (Spectrum),MO,Optimum (Altice USA),1115,1193917,0.093
+Charter (Spectrum),MO,Aptitude Internet LLC,822,1193917,0.069
+Charter (Spectrum),MO,"Steelville Telephone Exchange, Inc.",581,1193917,0.049
+Charter (Spectrum),MO,"Wisper ISP, Inc.",472,1193917,0.04
+Charter (Spectrum),MO,"Bays-ET Highspeed, LLC",396,1193917,0.033
+Charter (Spectrum),MO,"Air Link Rural Broadband, LLC",370,1193917,0.031
+Charter (Spectrum),MO,City of North Kansas,310,1193917,0.026
+Charter (Spectrum),MO,Consolidated (Fidium),306,1193917,0.026
+Charter (Spectrum),MO,"Lightwave Communications, LLC",177,1193917,0.015
+Charter (Spectrum),MO,BlueBit Networks LLC,68,1193917,0.006
+Charter (Spectrum),MO,Grand River Mutual Telephone Corporation,55,1193917,0.005
+Charter (Spectrum),MO,PCs for People,35,1193917,0.003
+Charter (Spectrum),MO,"Delta Communications, LLC",26,1193917,0.002
+Charter (Spectrum),MO,Mark Twain Rural Telephone Company,22,1193917,0.002
+Charter (Spectrum),MO,Green Hills Telephone Corporation,3,1193917,0.0
+Charter (Spectrum),MO,"Juvilex Communications, LLC",1,1193917,0.0
+Charter (Spectrum),MS,Coast Electric Power Association,10691,15958,66.995
+Charter (Spectrum),MS,AT&T,4721,15958,29.584
+Charter (Spectrum),MS,Tishomingo County Electric Power Association,16,15958,0.1
+Charter (Spectrum),MS,"Conexon Connect, LLC",8,15958,0.05
+Charter (Spectrum),MS,Brightspeed,2,15958,0.013
+Charter (Spectrum),MS,Metronet (T-Mobile JV),2,15958,0.013
+Charter (Spectrum),MS,Alcorn County Electric Power Association,1,15958,0.006
+Charter (Spectrum),MS,"Telapex, Inc.",1,15958,0.006
+Charter (Spectrum),MT,TDS Telecom,33798,248299,13.612
+Charter (Spectrum),MT,Montana Opticom LLC,16459,248299,6.629
+Charter (Spectrum),MT,Ziply Fiber (Bell Canada),7581,248299,3.053
+Charter (Spectrum),MT,Lumen (Quantum Fiber / CenturyLink),6325,248299,2.547
+Charter (Spectrum),MT,"Blackfoot Telephone Cooperative, Inc.",4609,248299,1.856
+Charter (Spectrum),MT,"VFN Holdings, Inc.",4588,248299,1.848
+Charter (Spectrum),MT,"Triangle Telephone Cooperative Assn., Inc.",4116,248299,1.658
+Charter (Spectrum),MT,"MontanaSky Networks, Inc.",3261,248299,1.313
+Charter (Spectrum),MT,"CommunityTel, Inc.",2371,248299,0.955
+Charter (Spectrum),MT,Montana Internet Corporation,890,248299,0.358
+Charter (Spectrum),MT,Ravalli Electric Cooperative,657,248299,0.265
+Charter (Spectrum),MT,"Nemont Telephone Cooperative, Inc.",589,248299,0.237
+Charter (Spectrum),MT,"3 Rivers Telephone Cooperative, Inc.",580,248299,0.234
+Charter (Spectrum),MT,"SS Ventures, Inc.",531,248299,0.214
+Charter (Spectrum),MT,"BHT Holdings, Inc.",442,248299,0.178
+Charter (Spectrum),MT,"InterBel Telephone Cooperative, Inc.",349,248299,0.141
+Charter (Spectrum),MT,"Konceptio Data Services, LLC",61,248299,0.025
+Charter (Spectrum),MT,"Generate-Ubiquity Holdings, LLC",9,248299,0.004
+Charter (Spectrum),MT,"Northern Telephone Cooperative, Inc.",7,248299,0.003
+Charter (Spectrum),MT,"Fatbeam Holdings, LLC",5,248299,0.002
+Charter (Spectrum),NC,AT&T,940992,3415552,27.55
+Charter (Spectrum),NC,Google Fiber,357091,3415552,10.455
+Charter (Spectrum),NC,Brightspeed,315127,3415552,9.226
+Charter (Spectrum),NC,Lumos (T-Mobile JV),231130,3415552,6.767
+Charter (Spectrum),NC,Metronet (T-Mobile JV),144895,3415552,4.242
+Charter (Spectrum),NC,Windstream/Uniti (Kinetic),127070,3415552,3.72
+Charter (Spectrum),NC,"Ripple Fiber, LLC",88203,3415552,2.582
+Charter (Spectrum),NC,Atlantic Telephone Membership Corporation,56206,3415552,1.646
+Charter (Spectrum),NC,Frontier,51573,3415552,1.51
+Charter (Spectrum),NC,Ting,43949,3415552,1.287
+Charter (Spectrum),NC,TDS Telecom,42648,3415552,1.249
+Charter (Spectrum),NC,Yadkin Valley Telephone Membership Corporation,39460,3415552,1.155
+Charter (Spectrum),NC,City of Wilson,24392,3415552,0.714
+Charter (Spectrum),NC,Surry Telephone Membership Corporation,17111,3415552,0.501
+Charter (Spectrum),NC,Lumbee River Electric Membership Corporation,13374,3415552,0.392
+Charter (Spectrum),NC,Skyline Telephone Membership Corporation,13366,3415552,0.391
+Charter (Spectrum),NC,Hotwire,13136,3415552,0.385
+Charter (Spectrum),NC,Wilkes Telephone Membership Corporation,12475,3415552,0.365
+Charter (Spectrum),NC,eNCore Connects,11845,3415552,0.347
+Charter (Spectrum),NC,"Zito West Holding, LLC",9189,3415552,0.269
+Charter (Spectrum),NC,Optimum (Altice USA),7753,3415552,0.227
+Charter (Spectrum),NC,Randolph Telephone Membership Corporation,6859,3415552,0.201
+Charter (Spectrum),NC,Foothills Broadband LLC,5858,3415552,0.172
+Charter (Spectrum),NC,"NfinityLink Communications, Inc.",4347,3415552,0.127
+Charter (Spectrum),NC,French Broad Electric Membership Corporation,3873,3415552,0.113
+Charter (Spectrum),NC,"Skyrunner, Inc.",3469,3415552,0.102
+Charter (Spectrum),NC,Vyve Broadband,3055,3415552,0.089
+Charter (Spectrum),NC,"StarVision, Inc.",3001,3415552,0.088
+Charter (Spectrum),NC,"Comporium, Inc.",2595,3415552,0.076
+Charter (Spectrum),NC,"e-Polk, Inc.",2289,3415552,0.067
+Charter (Spectrum),NC,Star Telephone Membership Corporation,2263,3415552,0.066
+Charter (Spectrum),NC,Town of Pineville,2078,3415552,0.061
+Charter (Spectrum),NC,City of Morganton,1980,3415552,0.058
+Charter (Spectrum),NC,Mediacom,973,3415552,0.028
+Charter (Spectrum),NC,Comcast (Xfinity),931,3415552,0.027
+Charter (Spectrum),NC,ENC Access Investments LLC,648,3415552,0.019
+Charter (Spectrum),NC,"AccessOn Networks, Inc.",540,3415552,0.016
+Charter (Spectrum),NC,Mecklenburg Electric Cooperative,154,3415552,0.005
+Charter (Spectrum),NC,Cherokee Cablevision Inc.,51,3415552,0.001
+Charter (Spectrum),NC,Boston Omaha Corporation,29,3415552,0.001
+Charter (Spectrum),NC,"ERC Broadband, LLC",23,3415552,0.001
+Charter (Spectrum),NC,"BalsamWest FiberNET, LLC",12,3415552,0.0
+Charter (Spectrum),NC,"Lynches River Communications, Inc.",8,3415552,0.0
+Charter (Spectrum),NC,"Sandhill Telephone Cooperative, Inc.",4,3415552,0.0
+Charter (Spectrum),NE,Allo Communications LLC,186667,243002,76.817
+Charter (Spectrum),NE,Windstream/Uniti (Kinetic),49794,243002,20.491
+Charter (Spectrum),NE,"Pinpoint Holdings, Inc.",8660,243002,3.564
+Charter (Spectrum),NE,"Great Plains Communications, Inc.",8598,243002,3.538
+Charter (Spectrum),NE,Glenwood Telephone Membership Corp.,3028,243002,1.246
+Charter (Spectrum),NE,"Southeast Nebraska Communications, Inc.",2079,243002,0.856
+Charter (Spectrum),NE,The Nebraska Central Telephone Co.,1923,243002,0.791
+Charter (Spectrum),NE,Cozad Telephone Company,1753,243002,0.721
+Charter (Spectrum),NE,Vyve Broadband,1434,243002,0.59
+Charter (Spectrum),NE,"Inventive Wireless of Nebraska, LLC",1393,243002,0.573
+Charter (Spectrum),NE,Lumen (Quantum Fiber / CenturyLink),818,243002,0.337
+Charter (Spectrum),NE,"Nedelco, Inc.",622,243002,0.256
+Charter (Spectrum),NE,"ITC Broadband Operating, LLC",533,243002,0.219
+Charter (Spectrum),NE,"Consolidated Companies, Inc.",269,243002,0.111
+Charter (Spectrum),NE,American Broadband Holding Company,205,243002,0.084
+Charter (Spectrum),NE,AMG Technology Investment Group LLC,196,243002,0.081
+Charter (Spectrum),NE,Arapahoe Telephone Company,36,243002,0.015
+Charter (Spectrum),NE,Hemingford Cooperative Telephone Company,30,243002,0.012
+Charter (Spectrum),NE,"Midstates Data Transport, LLC",11,243002,0.005
+Charter (Spectrum),NE,ICS Advanced Technologies,2,243002,0.001
+Charter (Spectrum),NE,"NE Colorado Cellular, Inc.",1,243002,0.0
+Charter (Spectrum),NE,"Skywave Wireless, Inc.",1,243002,0.0
+Charter (Spectrum),NE,"Zito West Holding, LLC",1,243002,0.0
+Charter (Spectrum),NH,Consolidated (Fidium),44805,79422,56.414
+Charter (Spectrum),NH,"New Hampshire Electric Cooperative, Inc.",15919,79422,20.044
+Charter (Spectrum),NH,TDS Telecom,2478,79422,3.12
+Charter (Spectrum),NH,"Hub66, Inc.",933,79422,1.175
+Charter (Spectrum),NH,Breezeline (Cogeco),635,79422,0.8
+Charter (Spectrum),NH,Comcast (Xfinity),240,79422,0.302
+Charter (Spectrum),NJ,Verizon (Fios),32016,35474,90.252
+Charter (Spectrum),NJ,Optimum (Altice USA),2238,35474,6.309
+Charter (Spectrum),NJ,Comcast (Xfinity),12,35474,0.034
+Charter (Spectrum),NM,Lumen (Quantum Fiber / CenturyLink),1264,11991,10.541
+Charter (Spectrum),NM,Comcast (Xfinity),148,11991,1.234
+Charter (Spectrum),NV,AT&T,86266,222604,38.753
+Charter (Spectrum),NV,"Churchill County, State of Nevada",5665,222604,2.545
+Charter (Spectrum),NV,Digital Technology Solutions Inc.,2133,222604,0.958
+Charter (Spectrum),NV,Tech Stack 4,497,222604,0.223
+Charter (Spectrum),NV,Cenos Networks,23,222604,0.01
+Charter (Spectrum),NV,"Martell Enterprises, Inc.",1,222604,0.0
+Charter (Spectrum),NY,Verizon (Fios),906525,2747220,32.998
+Charter (Spectrum),NY,"Greenlight Networks, LLC",244786,2747220,8.91
+Charter (Spectrum),NY,Frontier,174869,2747220,6.365
+Charter (Spectrum),NY,Empire Telephone Corporation/North Penn Telephone Company,102553,2747220,3.733
+Charter (Spectrum),NY,"Future Fiber FinCo, LLC",71933,2747220,2.618
+Charter (Spectrum),NY,Astound Broadband,60265,2747220,2.194
+Charter (Spectrum),NY,Windstream/Uniti (Kinetic),42882,2747220,1.561
+Charter (Spectrum),NY,"Atlas Connectivity, LLC",33748,2747220,1.228
+Charter (Spectrum),NY,Archtop Fiber Holdings LLC,21293,2747220,0.775
+Charter (Spectrum),NY,Armstrong,14624,2747220,0.532
+Charter (Spectrum),NY,Optimum (Altice USA),10187,2747220,0.371
+Charter (Spectrum),NY,"Fastbridge Fiber, LLC",8964,2747220,0.326
+Charter (Spectrum),NY,Consolidated (Fidium),7539,2747220,0.274
+Charter (Spectrum),NY,"Planet Networks, Inc.",6524,2747220,0.237
+Charter (Spectrum),NY,Point Broadband,5785,2747220,0.211
+Charter (Spectrum),NY,"Westelcom Network, Inc.",4767,2747220,0.174
+Charter (Spectrum),NY,Delhi Telephone Company,4538,2747220,0.165
+Charter (Spectrum),NY,"CIBL, Inc.",4424,2747220,0.161
+Charter (Spectrum),NY,The Middleburgh Telephone Company,4423,2747220,0.161
+Charter (Spectrum),NY,Chazy & Westport Telephone Corp.,2538,2747220,0.092
+Charter (Spectrum),NY,Northland Telephone Systems,2345,2747220,0.085
+Charter (Spectrum),NY,FiberSpark Inc.,2152,2747220,0.078
+Charter (Spectrum),NY,TDS Telecom,1937,2747220,0.071
+Charter (Spectrum),NY,Champlain Telephone Company,1880,2747220,0.068
+Charter (Spectrum),NY,MTC Cable,1763,2747220,0.064
+Charter (Spectrum),NY,"Town of Dryden, New York",1483,2747220,0.054
+Charter (Spectrum),NY,Crown Point Telephone Corporation,1341,2747220,0.049
+Charter (Spectrum),NY,"Otsego Electric Cooperative, Inc.",1221,2747220,0.044
+Charter (Spectrum),NY,"Zeta Broadband, Inc.",1189,2747220,0.043
+Charter (Spectrum),NY,Haefele TV Inc.,884,2747220,0.032
+Charter (Spectrum),NY,Mid-Hudson Cablevision,655,2747220,0.024
+Charter (Spectrum),NY,Court Square Capital Partners,502,2747220,0.018
+Charter (Spectrum),NY,Pattersonville Telephone Company (NY),388,2747220,0.014
+Charter (Spectrum),NY,Comcast (Xfinity),186,2747220,0.007
+Charter (Spectrum),NY,"Adirondack Techs, LLC",181,2747220,0.007
+Charter (Spectrum),NY,Adams CATV Inc.,177,2747220,0.006
+Charter (Spectrum),NY,"Citizens Telephone Company of Hammond NY, Inc.",117,2747220,0.004
+Charter (Spectrum),NY,"Zito West Holding, LLC",106,2747220,0.004
+Charter (Spectrum),NY,"Germantown Telephone Company, Inc.",52,2747220,0.002
+Charter (Spectrum),NY,"Redburn Infrastructure, LLC",38,2747220,0.001
+Charter (Spectrum),NY,Breezeline (Cogeco),30,2747220,0.001
+Charter (Spectrum),NY,"Starry, Inc.",21,2747220,0.001
+Charter (Spectrum),NY,Mohawk Networks LLC,14,2747220,0.001
+Charter (Spectrum),NY,"Firstlight Fiber, Inc.",11,2747220,0.0
+Charter (Spectrum),NY,Litebridge LLC,8,2747220,0.0
+Charter (Spectrum),NY,The Hancock Telephone Company,8,2747220,0.0
+Charter (Spectrum),NY,Lake Placid Fiber LLC,1,2747220,0.0
+Charter (Spectrum),OH,AT&T,640530,3440371,18.618
+Charter (Spectrum),OH,Breezeline (Cogeco),587416,3440371,17.074
+Charter (Spectrum),OH,altafiber (Cincinnati Bell),530709,3440371,15.426
+Charter (Spectrum),OH,Brightspeed,196020,3440371,5.698
+Charter (Spectrum),OH,Frontier,171004,3440371,4.971
+Charter (Spectrum),OH,"Omni Fiber, LLC",118908,3440371,3.456
+Charter (Spectrum),OH,Metronet (T-Mobile JV),114113,3440371,3.317
+Charter (Spectrum),OH,Windstream/Uniti (Kinetic),106030,3440371,3.082
+Charter (Spectrum),OH,The Chillicothe Telephone Co,40675,3440371,1.182
+Charter (Spectrum),OH,Lumos (T-Mobile JV),40538,3440371,1.178
+Charter (Spectrum),OH,"Block Communications, Inc.",35142,3440371,1.021
+Charter (Spectrum),OH,"New Knoxville Telephone Company/GoldStar Communications, LLC",22776,3440371,0.662
+Charter (Spectrum),OH,"Hanson Communications, Inc.",16225,3440371,0.472
+Charter (Spectrum),OH,Point Broadband,15941,3440371,0.463
+Charter (Spectrum),OH,City of Wadsworth,9285,3440371,0.27
+Charter (Spectrum),OH,"Amplex Electric, Inc.",8822,3440371,0.256
+Charter (Spectrum),OH,Wabash Mutual Telephone Company,7318,3440371,0.213
+Charter (Spectrum),OH,"City of Fairlawn, Ohio",6439,3440371,0.187
+Charter (Spectrum),OH,"Little Miami Gig, LLC",6228,3440371,0.181
+Charter (Spectrum),OH,Cox,5862,3440371,0.17
+Charter (Spectrum),OH,The Conneaut Telephone Company,5734,3440371,0.167
+Charter (Spectrum),OH,"Massillon Cable TV, Inc.",5462,3440371,0.159
+Charter (Spectrum),OH,"Consolidated Electric Cooperative, Inc.",5404,3440371,0.157
+Charter (Spectrum),OH,Doylestown Telephone Company,5336,3440371,0.155
+Charter (Spectrum),OH,Armstrong,4714,3440371,0.137
+Charter (Spectrum),OH,Bascom Mutual Telephone Company,2927,3440371,0.085
+Charter (Spectrum),OH,The Champaign Telephone Company,2856,3440371,0.083
+Charter (Spectrum),OH,"Logan County Gig, LLC",2849,3440371,0.083
+Charter (Spectrum),OH,"connectSCP, LLC",2275,3440371,0.066
+Charter (Spectrum),OH,"Glandorf Telephone Co., Inc.",2198,3440371,0.064
+Charter (Spectrum),OH,Minford Telephone Company,2198,3440371,0.064
+Charter (Spectrum),OH,Speedwavz LLC,2104,3440371,0.061
+Charter (Spectrum),OH,Ridgeville Telephone Company,1989,3440371,0.058
+Charter (Spectrum),OH,GreatWave Communications,1928,3440371,0.056
+Charter (Spectrum),OH,HDER Link Ltd.,1878,3440371,0.055
+Charter (Spectrum),OH,"Nelsonville TV Cable, Inc.",1753,3440371,0.051
+Charter (Spectrum),OH,Optimum (Altice USA),1723,3440371,0.05
+Charter (Spectrum),OH,"Defiance Holdings, LLC",1521,3440371,0.044
+Charter (Spectrum),OH,"Zito West Holding, LLC",1133,3440371,0.033
+Charter (Spectrum),OH,Comcast (Xfinity),1099,3440371,0.032
+Charter (Spectrum),OH,Sycamore Telephone Company,1066,3440371,0.031
+Charter (Spectrum),OH,"Southern Ohio Communication Services, Inc.",793,3440371,0.023
+Charter (Spectrum),OH,Arthur Mutual Telephone Company,697,3440371,0.02
+Charter (Spectrum),OH,McClure Telephone Company,630,3440371,0.018
+Charter (Spectrum),OH,Imagine Networks,575,3440371,0.017
+Charter (Spectrum),OH,City of Hudson,455,3440371,0.013
+Charter (Spectrum),OH,GLW Broadband Inc.,406,3440371,0.012
+Charter (Spectrum),OH,Ayersville Telephone Company,400,3440371,0.012
+Charter (Spectrum),OH,North Coast Wireless Communications,351,3440371,0.01
+Charter (Spectrum),OH,Buckland Telephone Co.,317,3440371,0.009
+Charter (Spectrum),OH,Benton Ridge Telephone Company,277,3440371,0.008
+Charter (Spectrum),OH,"Sherwood Mutual Telephone Association, Inc.",273,3440371,0.008
+Charter (Spectrum),OH,Farmers Mutual Telephone Company (OH),248,3440371,0.007
+Charter (Spectrum),OH,Fort Jennings Telephone Company,197,3440371,0.006
+Charter (Spectrum),OH,"JB-Nets, LLC",183,3440371,0.005
+Charter (Spectrum),OH,Cable Co-Op,135,3440371,0.004
+Charter (Spectrum),OH,DigitalC,82,3440371,0.002
+Charter (Spectrum),OH,Paulding Putnam Electric & Internet,77,3440371,0.002
+Charter (Spectrum),OH,TDS Telecom,56,3440371,0.002
+Charter (Spectrum),OH,"DSI Management Holdings, LLC",42,3440371,0.001
+Charter (Spectrum),OH,"Mercury Broadband, LLC",36,3440371,0.001
+Charter (Spectrum),OH,PCs for People,33,3440371,0.001
+Charter (Spectrum),OH,Midwest Energy Cooperative,25,3440371,0.001
+Charter (Spectrum),OH,"Kalida Telephone Company, Inc.",18,3440371,0.001
+Charter (Spectrum),OH,WaveLinc Communications LLC,10,3440371,0.0
+Charter (Spectrum),OH,"Community Antenna Service, Inc.",8,3440371,0.0
+Charter (Spectrum),OH,"Skymesh, Inc.",5,3440371,0.0
+Charter (Spectrum),OH,Litebridge LLC,3,3440371,0.0
+Charter (Spectrum),OH,"Xiber, LLC",2,3440371,0.0
+Charter (Spectrum),OH,ICS Advanced Technologies,1,3440371,0.0
+Charter (Spectrum),OH,"Juvilex Communications, LLC",1,3440371,0.0
+Charter (Spectrum),OR,Hunter Communications & Technologies LLC,45638,351540,12.982
+Charter (Spectrum),OR,Ziply Fiber (Bell Canada),37305,351540,10.612
+Charter (Spectrum),OR,Douglas Electric Cooperative Inc.,37148,351540,10.567
+Charter (Spectrum),OR,Blue Mountain Networks LLC,13712,351540,3.901
+Charter (Spectrum),OR,Monmouth Independence Network,12373,351540,3.52
+Charter (Spectrum),OR,"Beacon Broadband, Inc.",11521,351540,3.277
+Charter (Spectrum),OR,Astound Broadband,10198,351540,2.901
+Charter (Spectrum),OR,Lumen (Quantum Fiber / CenturyLink),9049,351540,2.574
+Charter (Spectrum),OR,"Wtechlink, Inc.",8758,351540,2.491
+Charter (Spectrum),OR,"Siuslaw Broadband, LLC",4204,351540,1.196
+Charter (Spectrum),OR,Oregon Telephone Corporation,4104,351540,1.167
+Charter (Spectrum),OR,LICT Corporation,1920,351540,0.546
+Charter (Spectrum),OR,Grase Communications LLC,1173,351540,0.334
+Charter (Spectrum),OR,Hood River Electric Cooperative,526,351540,0.15
+Charter (Spectrum),OR,Pioneer Telephone Cooperative (OR),324,351540,0.092
+Charter (Spectrum),OR,"CASCO Communications, Inc.",53,351540,0.015
+Charter (Spectrum),OR,Comcast (Xfinity),38,351540,0.011
+Charter (Spectrum),OR,"Martell Enterprises, Inc.",28,351540,0.008
+Charter (Spectrum),OR,Elevate Technology Group,2,351540,0.001
+Charter (Spectrum),OR,Mosier WiNet LLC,1,351540,0.0
+Charter (Spectrum),OR,PocketiNet Communications Inc.,1,351540,0.0
+Charter (Spectrum),PA,"Velocity.Net Communications, Inc.",22468,139533,16.102
+Charter (Spectrum),PA,Empire Telephone Corporation/North Penn Telephone Company,9090,139533,6.515
+Charter (Spectrum),PA,"Omni Fiber, LLC",5945,139533,4.261
+Charter (Spectrum),PA,Frontier,2594,139533,1.859
+Charter (Spectrum),PA,Armstrong,2385,139533,1.709
+Charter (Spectrum),PA,Windstream/Uniti (Kinetic),1925,139533,1.38
+Charter (Spectrum),PA,Tri-County Rural Electric Cooperative,700,139533,0.502
+Charter (Spectrum),PA,"Zito West Holding, LLC",318,139533,0.228
+Charter (Spectrum),PA,"Claverack Communications, Inc.",177,139533,0.127
+Charter (Spectrum),PA,Comcast (Xfinity),24,139533,0.017
+Charter (Spectrum),PA,"Townes Telecommunications, Inc.",10,139533,0.007
+Charter (Spectrum),PA,Beaver Valley Cable Company,6,139533,0.004
+Charter (Spectrum),PA,Blue Ridge Communications,5,139533,0.004
+Charter (Spectrum),PA,FiberSpark Inc.,4,139533,0.003
+Charter (Spectrum),PA,Adams CATV Inc.,3,139533,0.002
+Charter (Spectrum),PA,The North-Eastern Pennsylvania Telephone Company,2,139533,0.001
+Charter (Spectrum),PA,Youngsville Television Corporation,1,139533,0.001
+Charter (Spectrum),RI,Cox,45,82,54.878
+Charter (Spectrum),RI,Verizon (Fios),29,82,35.366
+Charter (Spectrum),SC,AT&T,295407,1343107,21.994
+Charter (Spectrum),SC,"Horry Telephone Cooperative, Inc.",108775,1343107,8.099
+Charter (Spectrum),SC,Lumos (T-Mobile JV),100433,1343107,7.478
+Charter (Spectrum),SC,"CarolinaConnect Cooperative, Inc.",55271,1343107,4.115
+Charter (Spectrum),SC,"Comporium, Inc.",46676,1343107,3.475
+Charter (Spectrum),SC,"West Carolina Rural Telephone Cooperative, Inc.",36408,1343107,2.711
+Charter (Spectrum),SC,"Farmers Telephone Cooperative, Inc. (SC)",34454,1343107,2.565
+Charter (Spectrum),SC,WOW!,33228,1343107,2.474
+Charter (Spectrum),SC,Cable One (Sparklight),31982,1343107,2.381
+Charter (Spectrum),SC,Frontier,28333,1343107,2.11
+Charter (Spectrum),SC,"Ripple Fiber, LLC",26828,1343107,1.997
+Charter (Spectrum),SC,Comcast (Xfinity),21719,1343107,1.617
+Charter (Spectrum),SC,Breezeline (Cogeco),21151,1343107,1.575
+Charter (Spectrum),SC,"Home Telephone Company, Inc. (SC)",16828,1343107,1.253
+Charter (Spectrum),SC,Windstream/Uniti (Kinetic),16566,1343107,1.233
+Charter (Spectrum),SC,"Sandhill Telephone Cooperative, Inc.",12284,1343107,0.915
+Charter (Spectrum),SC,"TruVista Communications, Inc.",10801,1343107,0.804
+Charter (Spectrum),SC,"Palmetto Rural Telephone Cooperative, Inc.",9494,1343107,0.707
+Charter (Spectrum),SC,"Piedmont Rural Telephone Cooperative, Inc.",9081,1343107,0.676
+Charter (Spectrum),SC,"Tri-County Electric Cooperative, Inc.",7899,1343107,0.588
+Charter (Spectrum),SC,Vyve Broadband,6887,1343107,0.513
+Charter (Spectrum),SC,County of Orangeburg,4114,1343107,0.306
+Charter (Spectrum),SC,ZiTEL LLC,1165,1343107,0.087
+Charter (Spectrum),SC,"Lynches River Communications, Inc.",1096,1343107,0.082
+Charter (Spectrum),SC,Google Fiber,558,1343107,0.042
+Charter (Spectrum),SC,Brightspeed,323,1343107,0.024
+Charter (Spectrum),SC,Hotwire,242,1343107,0.018
+Charter (Spectrum),SC,TDS Telecom,20,1343107,0.001
+Charter (Spectrum),SC,Velofi LLC,9,1343107,0.001
+Charter (Spectrum),TN,AT&T,201559,840839,23.971
+Charter (Spectrum),TN,Brightspeed,65268,840839,7.762
+Charter (Spectrum),TN,CDE Lightband,63249,840839,7.522
+Charter (Spectrum),TN,"Ben Lomand Rural Telephone Coop., Inc.",35686,840839,4.244
+Charter (Spectrum),TN,Frontier,30853,840839,3.669
+Charter (Spectrum),TN,"Cumberland Connect, LLC",29122,840839,3.463
+Charter (Spectrum),TN,Jackson Energy Authority,27974,840839,3.327
+Charter (Spectrum),TN,Foursight Communications LLC,27027,840839,3.214
+Charter (Spectrum),TN,TDS Telecom,26971,840839,3.208
+Charter (Spectrum),TN,Bristol Tennessee Essential Services,24368,840839,2.898
+Charter (Spectrum),TN,"City of Cleveland, Indiana",23562,840839,2.802
+Charter (Spectrum),TN,Twin Lakes Telephone Cooperative Corporation,22075,840839,2.625
+Charter (Spectrum),TN,Johnson City Energy Authority,20278,840839,2.412
+Charter (Spectrum),TN,Gibson Electric Membership Corporation,20081,840839,2.388
+Charter (Spectrum),TN,Columbia Power and Water Systems,18596,840839,2.212
+Charter (Spectrum),TN,Lenoir City Utility Board,17390,840839,2.068
+Charter (Spectrum),TN,"Aeneas Communications, LLC",17143,840839,2.039
+Charter (Spectrum),TN,"MTE Holdings, LLC",16877,840839,2.007
+Charter (Spectrum),TN,Telephone Electronics Corporation,12739,840839,1.515
+Charter (Spectrum),TN,Morristown Utility System,12045,840839,1.432
+Charter (Spectrum),TN,Holston Electric Cooperative,11730,840839,1.395
+Charter (Spectrum),TN,Comcast (Xfinity),11479,840839,1.365
+Charter (Spectrum),TN,Knoxville Utilities Board,9799,840839,1.165
+Charter (Spectrum),TN,"City of Lexington, Tennessee",9786,840839,1.164
+Charter (Spectrum),TN,"SVE Connect, LLC",8971,840839,1.067
+Charter (Spectrum),TN,West Kentucky Rural Telephone Cooperative Corp. Inc.,8840,840839,1.051
+Charter (Spectrum),TN,Tullahoma Utilities Authority,8034,840839,0.955
+Charter (Spectrum),TN,Meriwether Lewis Electric Cooperative,7465,840839,0.888
+Charter (Spectrum),TN,Newport Utilities,6121,840839,0.728
+Charter (Spectrum),TN,Skyline Telephone Membership Corporation,5395,840839,0.642
+Charter (Spectrum),TN,Fayetteville Public Utilities,4763,840839,0.566
+Charter (Spectrum),TN,Pulaski Electric System,4738,840839,0.563
+Charter (Spectrum),TN,Tennessee Valley Electric Cooperative,4526,840839,0.538
+Charter (Spectrum),TN,Union City Energy Authority,3957,840839,0.471
+Charter (Spectrum),TN,"DeKalb Telephone Cooperative, Inc.",3817,840839,0.454
+Charter (Spectrum),TN,Point Broadband,3566,840839,0.424
+Charter (Spectrum),TN,Cloud 9 Wireless LLC,3529,840839,0.42
+Charter (Spectrum),TN,Milan Department of Public Utilities,2514,840839,0.299
+Charter (Spectrum),TN,LTD Broadband LLC,1978,840839,0.235
+Charter (Spectrum),TN,"Forked Deer Electric Cooperative, Inc.",1910,840839,0.227
+Charter (Spectrum),TN,Tennessee Telecommunications Company,1902,840839,0.226
+Charter (Spectrum),TN,EPB,1530,840839,0.182
+Charter (Spectrum),TN,Megawatt Communications LLC,1268,840839,0.151
+Charter (Spectrum),TN,WOW!,451,840839,0.054
+Charter (Spectrum),TN,BreezeAir Networks LLC,447,840839,0.053
+Charter (Spectrum),TN,Mediacom,383,840839,0.046
+Charter (Spectrum),TN,City of Dickson Department of Electricity,167,840839,0.02
+Charter (Spectrum),TN,Scott County Telephone Cooperative,121,840839,0.014
+Charter (Spectrum),TN,Allevia Technology,15,840839,0.002
+Charter (Spectrum),TN,Bledsoe Telephone Cooperative Inc.,7,840839,0.001
+Charter (Spectrum),TN,"Highland Telephone Cooperative, Inc. (KY & TN)",5,840839,0.001
+Charter (Spectrum),TN,Erwin Utilities,2,840839,0.0
+Charter (Spectrum),TX,AT&T,2279921,4854843,46.962
+Charter (Spectrum),TX,Frontier,528094,4854843,10.878
+Charter (Spectrum),TX,Google Fiber,434539,4854843,8.951
+Charter (Spectrum),TX,Astound Broadband,322369,4854843,6.64
+Charter (Spectrum),TX,Metronet (T-Mobile JV),128005,4854843,2.637
+Charter (Spectrum),TX,"Generate-Ubiquity Holdings, LLC",72537,4854843,1.494
+Charter (Spectrum),TX,Brightspeed,70641,4854843,1.455
+Charter (Spectrum),TX,Comcast (Xfinity),54686,4854843,1.126
+Charter (Spectrum),TX,"JAB Wireless, Inc.",40678,4854843,0.838
+Charter (Spectrum),TX,Optimum (Altice USA),40664,4854843,0.838
+Charter (Spectrum),TX,"Guadalupe Valley Telephone Cooperative, Inc.",38712,4854843,0.797
+Charter (Spectrum),TX,"Flying Bull Internet, LLC",26742,4854843,0.551
+Charter (Spectrum),TX,"Omni Fiber, LLC",25412,4854843,0.523
+Charter (Spectrum),TX,"Pavlov Media, Inc.",23571,4854843,0.486
+Charter (Spectrum),TX,"Valley Telephone Cooperative, Inc. (TX)",23267,4854843,0.479
+Charter (Spectrum),TX,"Smartcom Telephone, LLC",23084,4854843,0.475
+Charter (Spectrum),TX,"Guadalupe Valley Electric Cooperative, Inc.",16073,4854843,0.331
+Charter (Spectrum),TX,"Ezee Fiber Texas, LLC",14198,4854843,0.292
+Charter (Spectrum),TX,Windstream/Uniti (Kinetic),14081,4854843,0.29
+Charter (Spectrum),TX,"United Electric Cooperative Services, Inc.",11691,4854843,0.241
+Charter (Spectrum),TX,"Community Telephone Co., Inc.",10694,4854843,0.22
+Charter (Spectrum),TX,Centric Infrastructure Group LLC,10100,4854843,0.208
+Charter (Spectrum),TX,"ITC Broadband Operating, LLC",9970,4854843,0.205
+Charter (Spectrum),TX,Tachus LLC,9939,4854843,0.205
+Charter (Spectrum),TX,"Santa Rosa Telephone Cooperative, Inc.",9450,4854843,0.195
+Charter (Spectrum),TX,GEUS,8415,4854843,0.173
+Charter (Spectrum),TX,AMG Technology Investment Group LLC,7662,4854843,0.158
+Charter (Spectrum),TX,Peoples Telephone Cooperative,5647,4854843,0.116
+Charter (Spectrum),TX,Consolidated (Fidium),5518,4854843,0.114
+Charter (Spectrum),TX,Vyve Broadband,5483,4854843,0.113
+Charter (Spectrum),TX,Cable One (Sparklight),5322,4854843,0.11
+Charter (Spectrum),TX,"Hilliary Communications, LLC",5211,4854843,0.107
+Charter (Spectrum),TX,Cherokee County Electric Cooperative Association,5102,4854843,0.105
+Charter (Spectrum),TX,"Lyte Fiber, LLC",5096,4854843,0.105
+Charter (Spectrum),TX,"Alenco Communications, Inc.",4533,4854843,0.093
+Charter (Spectrum),TX,Hotwire,3789,4854843,0.078
+Charter (Spectrum),TX,"Bandera Electric Cooperative, Inc.",3087,4854843,0.064
+Charter (Spectrum),TX,"Hill Country Telephone Cooperative, Inc.",3054,4854843,0.063
+Charter (Spectrum),TX,Point Broadband,2565,4854843,0.053
+Charter (Spectrum),TX,"Zito West Holding, LLC",2467,4854843,0.051
+Charter (Spectrum),TX,Sonic,2376,4854843,0.049
+Charter (Spectrum),TX,"Cumby Telephone Cooperative, Inc.",2295,4854843,0.047
+Charter (Spectrum),TX,"Victoria Electric Cooperative, Inc.",2125,4854843,0.044
+Charter (Spectrum),TX,"MiFiber Holding, LLC",1504,4854843,0.031
+Charter (Spectrum),TX,"Open Infra, Inc.",1384,4854843,0.029
+Charter (Spectrum),TX,"Bartlett Electric Cooperative, Inc.",1305,4854843,0.027
+Charter (Spectrum),TX,3 Rooms Communications LLC,1025,4854843,0.021
+Charter (Spectrum),TX,"VFN Holdings, Inc.",964,4854843,0.02
+Charter (Spectrum),TX,"Brazos Telephone Cooperative, Inc.",851,4854843,0.018
+Charter (Spectrum),TX,"Etex Telephone Cooperative, Inc.",816,4854843,0.017
+Charter (Spectrum),TX,Alamo Broadband Inc.,654,4854843,0.013
+Charter (Spectrum),TX,"PATHWAYZ Communications, Inc.",542,4854843,0.011
+Charter (Spectrum),TX,"Wi-Fiber, Inc.",482,4854843,0.01
+Charter (Spectrum),TX,"Coba Systems, LLC",480,4854843,0.01
+Charter (Spectrum),TX,"Eastex Telephone Cooperative, Inc.",445,4854843,0.009
+Charter (Spectrum),TX,"WEHCO Video, Inc.",443,4854843,0.009
+Charter (Spectrum),TX,Innercity Fibernet LLC,422,4854843,0.009
+Charter (Spectrum),TX,RTA of America,290,4854843,0.006
+Charter (Spectrum),TX,"Nevill Holdings, Inc.",226,4854843,0.005
+Charter (Spectrum),TX,"Colorado Valley Telephone Cooperative, Inc.",195,4854843,0.004
+Charter (Spectrum),TX,Boston Omaha Corporation,162,4854843,0.003
+Charter (Spectrum),TX,4ip Technology and Media LLC,132,4854843,0.003
+Charter (Spectrum),TX,"Southwest Arkansas Electric Cooperative, Inc.",127,4854843,0.003
+Charter (Spectrum),TX,"Sprocket Networks, Inc.",92,4854843,0.002
+Charter (Spectrum),TX,"VGI Technology, Inc.",49,4854843,0.001
+Charter (Spectrum),TX,Simple Fiber Communications LLC,30,4854843,0.001
+Charter (Spectrum),TX,"Southwest Arkansas Telephone Cooperative, Inc.",20,4854843,0.0
+Charter (Spectrum),TX,"First American Holdings, Inc.",17,4854843,0.0
+Charter (Spectrum),TX,PCs for People,7,4854843,0.0
+Charter (Spectrum),TX,"Heritage Broadband, LLC",3,4854843,0.0
+Charter (Spectrum),TX,"Dell Telephone Cooperative, Inc.",1,4854843,0.0
+Charter (Spectrum),VA,Shenandoah Telecommunications Company,21792,115720,18.832
+Charter (Spectrum),VA,Point Broadband,20191,115720,17.448
+Charter (Spectrum),VA,Eastern Shore of Virginia Broadband Authority,17309,115720,14.958
+Charter (Spectrum),VA,Brightspeed,4149,115720,3.585
+Charter (Spectrum),VA,Verizon (Fios),2535,115720,2.191
+Charter (Spectrum),VA,Mecklenburg Electric Cooperative,325,115720,0.281
+Charter (Spectrum),VA,Cox,197,115720,0.17
+Charter (Spectrum),VA,Prince George Electric Cooperative,175,115720,0.151
+Charter (Spectrum),VA,ZiTEL LLC,168,115720,0.145
+Charter (Spectrum),VA,Scott County Telephone Cooperative,115,115720,0.099
+Charter (Spectrum),VA,"Eastern Shore Communications, LLC",100,115720,0.086
+Charter (Spectrum),VA,Comcast (Xfinity),85,115720,0.073
+Charter (Spectrum),VA,"iGo Technology, Inc.",39,115720,0.034
+Charter (Spectrum),VA,Gearheart Communications,17,115720,0.015
+Charter (Spectrum),VA,Citizens Telephone Cooperative (VA),3,115720,0.003
+Charter (Spectrum),VA,Optimum (Altice USA),3,115720,0.003
+Charter (Spectrum),VT,Consolidated (Fidium),6539,16568,39.468
+Charter (Spectrum),VT,East Central Vermont Telecommunications District,1608,16568,9.705
+Charter (Spectrum),VT,NEK Community Broadband,1217,16568,7.345
+Charter (Spectrum),VT,Waitsfield & Champlain Valley Telecom,491,16568,2.964
+Charter (Spectrum),VT,"Citizens Telephone Company of Hammond NY, Inc.",77,16568,0.465
+Charter (Spectrum),VT,Comcast (Xfinity),33,16568,0.199
+Charter (Spectrum),VT,Deerfield Valley Communications Union District,1,16568,0.006
+Charter (Spectrum),VT,Pear Networks LLC,1,16568,0.006
+Charter (Spectrum),VT,Selectronics Corporation,1,16568,0.006
+Charter (Spectrum),WA,Ziply Fiber (Bell Canada),84679,246698,34.325
+Charter (Spectrum),WA,PUD No. 1 of Chelan County,19223,246698,7.792
+Charter (Spectrum),WA,"Native Network, Inc.",18779,246698,7.612
+Charter (Spectrum),WA,Lumen (Quantum Fiber / CenturyLink),6124,246698,2.482
+Charter (Spectrum),WA,PocketiNet Communications Inc.,5024,246698,2.036
+Charter (Spectrum),WA,Columbia Energy LLC,2763,246698,1.12
+Charter (Spectrum),WA,Palisade America's Investment LLC,1962,246698,0.795
+Charter (Spectrum),WA,Wahkiakum West Inc.,1552,246698,0.629
+Charter (Spectrum),WA,Inland Cellular Telephone Company,1303,246698,0.528
+Charter (Spectrum),WA,NCI Datacom,1191,246698,0.483
+Charter (Spectrum),WA,"Public Utility District of Grant County, Washington",1045,246698,0.424
+Charter (Spectrum),WA,"MiFiber Holding, LLC",1004,246698,0.407
+Charter (Spectrum),WA,Astound Broadband,444,246698,0.18
+Charter (Spectrum),WA,"Gigabeam Internet, LLC",153,246698,0.062
+Charter (Spectrum),WA,Northwest Open Access Network,149,246698,0.06
+Charter (Spectrum),WA,Okanogan County PUD No. 1,118,246698,0.048
+Charter (Spectrum),WA,Advanced Internet,114,246698,0.046
+Charter (Spectrum),WA,"IFN, LLC",28,246698,0.011
+Charter (Spectrum),WA,xyTel LLC,23,246698,0.009
+Charter (Spectrum),WA,"First Step Internet, LLC",21,246698,0.009
+Charter (Spectrum),WA,"Fatbeam Holdings, LLC",13,246698,0.005
+Charter (Spectrum),WA,Day Management Corporation,8,246698,0.003
+Charter (Spectrum),WA,"CresComm WiFi, LLC",4,246698,0.002
+Charter (Spectrum),WA,Comcast (Xfinity),2,246698,0.001
+Charter (Spectrum),WI,AT&T,334706,1632903,20.498
+Charter (Spectrum),WI,TDS Telecom,302928,1632903,18.551
+Charter (Spectrum),WI,Frontier,70755,1632903,4.333
+Charter (Spectrum),WI,Brightspeed,44139,1632903,2.703
+Charter (Spectrum),WI,Lumos (T-Mobile JV),25600,1632903,1.568
+Charter (Spectrum),WI,Wood County Telephone Company,16785,1632903,1.028
+Charter (Spectrum),WI,Hilbert Communications LLC,14310,1632903,0.876
+Charter (Spectrum),WI,Metronet (T-Mobile JV),13204,1632903,0.809
+Charter (Spectrum),WI,"Northeast Communications of Wisconsin, Inc.",5250,1632903,0.322
+Charter (Spectrum),WI,"Chibardun Telephone Cooperative, Inc.",4569,1632903,0.28
+Charter (Spectrum),WI,Reedsburg Utility Commission,4500,1632903,0.276
+Charter (Spectrum),WI,American Heartland Fiber Networks LLC,3894,1632903,0.238
+Charter (Spectrum),WI,Mount Horeb Telephone Company,3510,1632903,0.215
+Charter (Spectrum),WI,Lemonweir Valley Telephone Company,3447,1632903,0.211
+Charter (Spectrum),WI,Edge Broadband LLC,3153,1632903,0.193
+Charter (Spectrum),WI,"West Wisconsin Telcom Cooperative, Inc.",2964,1632903,0.182
+Charter (Spectrum),WI,Bloomer Telephone Company,2415,1632903,0.148
+Charter (Spectrum),WI,"Marquette-Adams Telephone Cooperative, Inc.",2312,1632903,0.142
+Charter (Spectrum),WI,"Chequamegon Communications Cooperative, Inc.",2214,1632903,0.136
+Charter (Spectrum),WI,Amherst Telephone Company,2035,1632903,0.125
+Charter (Spectrum),WI,"Richland-Grant Telephone Cooperative, Inc.",1975,1632903,0.121
+Charter (Spectrum),WI,"Hillsboro Telephone Company, Inc.",1553,1632903,0.095
+Charter (Spectrum),WI,"Citizens Telephone Cooperative, Inc. (WI)",1529,1632903,0.094
+Charter (Spectrum),WI,Bertram Communications LLC,1193,1632903,0.073
+Charter (Spectrum),WI,Sharon Telephone Company (IL & WI),1189,1632903,0.073
+Charter (Spectrum),WI,"City of Superior, Wisconsin",922,1632903,0.056
+Charter (Spectrum),WI,"Country Wireless, LLC",787,1632903,0.048
+Charter (Spectrum),WI,Sonic,784,1632903,0.048
+Charter (Spectrum),WI,"UpNet WI, LLC",679,1632903,0.042
+Charter (Spectrum),WI,"Comelec Services, Inc.",588,1632903,0.036
+Charter (Spectrum),WI,"LaValle Telephone Cooperative, Inc.",420,1632903,0.026
+Charter (Spectrum),WI,"Vernon Telephone Cooperative, Inc.",305,1632903,0.019
+Charter (Spectrum),WI,Mediacom,259,1632903,0.016
+Charter (Spectrum),WI,SonicNet Inc.,195,1632903,0.012
+Charter (Spectrum),WI,"Bruce Telephone Company, Inc.",166,1632903,0.01
+Charter (Spectrum),WI,Rural Communications Holding Corporation,147,1632903,0.009
+Charter (Spectrum),WI,Coon Valley Farmers Telephone Company,125,1632903,0.008
+Charter (Spectrum),WI,Wittenberg Telephone Company,112,1632903,0.007
+Charter (Spectrum),WI,"Clear Lake Telephone Company, Inc.",96,1632903,0.006
+Charter (Spectrum),WI,"Tri-County Communications Cooperative, Inc.",96,1632903,0.006
+Charter (Spectrum),WI,"Geneva On-Line, Inc.",90,1632903,0.006
+Charter (Spectrum),WI,"Lakeland Communications, Inc.",86,1632903,0.005
+Charter (Spectrum),WI,"Siren Telephone Company, Inc.",49,1632903,0.003
+Charter (Spectrum),WI,"ResTech Services, LLC",46,1632903,0.003
+Charter (Spectrum),WI,PCs for People,43,1632903,0.003
+Charter (Spectrum),WI,"Netwurx, LLC",21,1632903,0.001
+Charter (Spectrum),WI,Cochrane Cooperative Telephone Company,20,1632903,0.001
+Charter (Spectrum),WI,Comcast (Xfinity),12,1632903,0.001
+Charter (Spectrum),WI,Lumen (Quantum Fiber / CenturyLink),10,1632903,0.001
+Charter (Spectrum),WI,Consolidated (Fidium),5,1632903,0.0
+Charter (Spectrum),WI,"Starwire Technologies, LLC",3,1632903,0.0
+Charter (Spectrum),WI,"Amery Telcom, Inc.",2,1632903,0.0
+Charter (Spectrum),WI,"Hiawatha Broadband Communications, Inc.",2,1632903,0.0
+Charter (Spectrum),WI,"Hoyos Consulting, LLC",2,1632903,0.0
+Charter (Spectrum),WI,"MachTen, Inc.",2,1632903,0.0
+Charter (Spectrum),WV,Frontier,21719,30380,71.491
+Charter (Spectrum),WV,"Citynet, LLC",3621,30380,11.919
+Charter (Spectrum),WV,Comcast (Xfinity),1545,30380,5.086
+Charter (Spectrum),WV,Optimum (Altice USA),560,30380,1.843
+Charter (Spectrum),WV,"TelAtlantic, Inc.",62,30380,0.204
+Charter (Spectrum),WY,Bluepeak,49196,126500,38.89
+Charter (Spectrum),WY,"Visionary Communications, Inc.",21285,126500,16.826
+Charter (Spectrum),WY,"BHT Holdings, Inc.",8328,126500,6.583
+Charter (Spectrum),WY,"Range Telephone Cooperative, Inc.",5350,126500,4.229
+Charter (Spectrum),WY,"Horizon Communications, Inc.",3126,126500,2.471
+Charter (Spectrum),WY,Lumen (Quantum Fiber / CenturyLink),2459,126500,1.944
+Charter (Spectrum),WY,Mountain West Technologies Corporation,1111,126500,0.878
+Charter (Spectrum),WY,Wyoming.Com,385,126500,0.304
+Charter (Spectrum),WY,Northern Arapaho Tribal Industries,192,126500,0.152
+Charter (Spectrum),WY,LARIAT,1,126500,0.001
+Charter (Spectrum),WY,Ziply Fiber (Bell Canada),1,126500,0.001
+Cox,AR,AT&T,83179,233621,35.604
+Cox,AR,"Ozarks Electric Cooperative, Inc.",45127,233621,19.316
+Cox,AR,Ritter,17967,233621,7.691
+Cox,AR,Arkansas Valley Electric Cooperative Corporation,17560,233621,7.516
+Cox,AR,"Dobson Technologies, Inc.",10041,233621,4.298
+Cox,AR,Brightspeed,8955,233621,3.833
+Cox,AR,"D D & B, Inc.",7698,233621,3.295
+Cox,AR,Windstream/Uniti (Kinetic),6146,233621,2.631
+Cox,AR,Optimum (Altice USA),2,233621,0.001
+Cox,AR,"NATCO Communications, Inc.",1,233621,0.0
+Cox,AR,"Northeast Rural Services, Inc.",1,233621,0.0
+Cox,AZ,Lumen (Quantum Fiber / CenturyLink),310905,1737896,17.89
+Cox,AZ,Wyyerd,137004,1737896,7.883
+Cox,AZ,Google Fiber,55867,1737896,3.215
+Cox,AZ,AT&T,53393,1737896,3.072
+Cox,AZ,"Schurz Communications, Inc.",35781,1737896,2.059
+Cox,AZ,Mediacom,19809,1737896,1.14
+Cox,AZ,"Generate-Ubiquity Holdings, LLC",17037,1737896,0.98
+Cox,AZ,BAM Broadband OpCo LLC,10669,1737896,0.614
+Cox,AZ,Allo Communications LLC,6922,1737896,0.398
+Cox,AZ,Boston Omaha Corporation,6914,1737896,0.398
+Cox,AZ,Metronet (T-Mobile JV),3319,1737896,0.191
+Cox,AZ,Comcast (Xfinity),3091,1737896,0.178
+Cox,AZ,Hotwire,89,1737896,0.005
+Cox,AZ,Wecom LLC,7,1737896,0.0
+Cox,AZ,Saddleback Communications Inc.,6,1737896,0.0
+Cox,AZ,"Consolidated Smart Broadband Systems, LLC",4,1737896,0.0
+Cox,CA,AT&T,199397,806911,24.711
+Cox,CA,Frontier,45064,806911,5.585
+Cox,CA,Wyyerd,41473,806911,5.14
+Cox,CA,Charter (Spectrum),22166,806911,2.747
+Cox,CA,Google Fiber,21034,806911,2.607
+Cox,CA,"Cityside Networks, LLC",18934,806911,2.346
+Cox,CA,Ting,7425,806911,0.92
+Cox,CA,"Generate-Ubiquity Holdings, LLC",2584,806911,0.32
+Cox,CA,Astound Broadband,322,806911,0.04
+Cox,CA,"Race Telecommunications, Inc.",63,806911,0.008
+Cox,CA,Comcast (Xfinity),38,806911,0.005
+Cox,CA,Golden Rain Foundation,36,806911,0.004
+Cox,CA,"Orion CableSystems, Inc.",29,806911,0.004
+Cox,CA,Sonic,9,806911,0.001
+Cox,CA,"Broadband MDU Holdings, LLC",2,806911,0.0
+Cox,CA,"IsoFusion, Inc.",1,806911,0.0
+Cox,CT,Frontier,104233,139298,74.827
+Cox,CT,"Future Fiber FinCo, LLC",65735,139298,47.19
+Cox,CT,Comcast (Xfinity),926,139298,0.665
+Cox,CT,Charter (Spectrum),36,139298,0.026
+Cox,FL,AT&T,120932,293521,41.2
+Cox,FL,"LiveOak Fiber, LLC",50628,293521,17.249
+Cox,FL,"IQ Fiber Intermediate Holdings, LLC",19176,293521,6.533
+Cox,FL,"Pavlov Media, Inc.",18029,293521,6.142
+Cox,FL,Lumen (Quantum Fiber / CenturyLink),15402,293521,5.247
+Cox,FL,Lumos (T-Mobile JV),14646,293521,4.99
+Cox,FL,Wire 3 Holdings,9459,293521,3.223
+Cox,FL,Charter (Spectrum),6910,293521,2.354
+Cox,FL,Metronet (T-Mobile JV),6608,293521,2.251
+Cox,FL,Windstream/Uniti (Kinetic),3092,293521,1.053
+Cox,FL,Mediacom,1879,293521,0.64
+Cox,FL,City of Valparaiso,1348,293521,0.459
+Cox,FL,"Zito West Holding, LLC",754,293521,0.257
+Cox,FL,Comcast (Xfinity),216,293521,0.074
+Cox,FL,Consolidated (Fidium),154,293521,0.052
+Cox,FL,City of Ocala,149,293521,0.051
+Cox,FL,"Telapex, Inc.",147,293521,0.05
+Cox,FL,Hotwire,41,293521,0.014
+Cox,FL,"Fiber by Central Florida, LLC",39,293521,0.013
+Cox,FL,Velofi LLC,19,293521,0.006
+Cox,FL,Point Broadband,11,293521,0.004
+Cox,FL,EATEL Corp.,11,293521,0.004
+Cox,FL,Oak Run Associates Ltd.,4,293521,0.001
+Cox,GA,AT&T,31054,118765,26.147
+Cox,GA,Cable One (Sparklight),29820,118765,25.108
+Cox,GA,Windstream/Uniti (Kinetic),16975,118765,14.293
+Cox,GA,"Conexon Connect, LLC",10022,118765,8.439
+Cox,GA,Tri-County Electric Membership Corporation,2748,118765,2.314
+Cox,GA,"Public Service Communications, Inc.",2697,118765,2.271
+Cox,GA,"Zito West Holding, LLC",505,118765,0.425
+Cox,GA,"Delta Communications, LLC",151,118765,0.127
+Cox,GA,Velofi LLC,18,118765,0.015
+Cox,GA,Comcast (Xfinity),8,118765,0.007
+Cox,GA,Charter (Spectrum),3,118765,0.003
+Cox,IA,Google Fiber,9897,25997,38.07
+Cox,IA,Lumen (Quantum Fiber / CenturyLink),6643,25997,25.553
+Cox,IA,Metronet (T-Mobile JV),4296,25997,16.525
+Cox,IA,Breda Telephone Corp.,1237,25997,4.758
+Cox,IA,"Great Plains Communications, Inc.",412,25997,1.585
+Cox,ID,Lumen (Quantum Fiber / CenturyLink),94,10524,0.893
+Cox,KS,AT&T,198678,413015,48.104
+Cox,KS,"IdeaTek Telcom, LLC",109454,413015,26.501
+Cox,KS,AMG Technology Investment Group LLC,46371,413015,11.227
+Cox,KS,Rural Telephone Service Company,14123,413015,3.419
+Cox,KS,"Twin Valley Management, Inc.",12929,413015,3.13
+Cox,KS,Craw-Kan Telephone Cooperative Inc.,11000,413015,2.663
+Cox,KS,Brightspeed,10176,413015,2.464
+Cox,KS,"Wamego Telephone Company, Inc.",9704,413015,2.35
+Cox,KS,"Delta Communications, LLC",8386,413015,2.03
+Cox,KS,"The Butler Rural Electric Cooperative Association, Inc.",5659,413015,1.37
+Cox,KS,"PGB Fiber, LLC",4517,413015,1.094
+Cox,KS,Mutual Telephone Company (KS),4413,413015,1.068
+Cox,KS,JMZ Corporation,3864,413015,0.936
+Cox,KS,LICT Corporation,3793,413015,0.918
+Cox,KS,"Back 2 Roots, LLC",3233,413015,0.783
+Cox,KS,"Golden Belt Telephone Association, Inc",1927,413015,0.467
+Cox,KS,"KanOkla Telephone Association, Inc.",1353,413015,0.328
+Cox,KS,H&B Enterprises Inc.,971,413015,0.235
+Cox,KS,"South Central Telephone Association, Inc.",355,413015,0.086
+Cox,KS,"Blue Valley Tele-Communications, Inc.",284,413015,0.069
+Cox,KS,"Home Enterprises, Inc.",214,413015,0.052
+Cox,KS,City of Coffeyville,134,413015,0.032
+Cox,KS,"United Telephone Association, Inc.",18,413015,0.004
+Cox,KS,"Golden Wheat, Inc.",5,413015,0.001
+Cox,KS,Columbus Telephone Company,2,413015,0.0
+Cox,KS,"LaHarpe Telephone Company, Inc. (KS)",1,413015,0.0
+Cox,LA,AT&T,375392,694601,54.044
+Cox,LA,Lafayette City Parish Consolidated Government,70868,694601,10.203
+Cox,LA,EATEL Corp.,52811,694601,7.603
+Cox,LA,Brightspeed,7128,694601,1.026
+Cox,LA,Metronet (T-Mobile JV),6174,694601,0.889
+Cox,LA,"Kaplan Telephone Company, Inc.",2874,694601,0.414
+Cox,LA,Optimum (Altice USA),1297,694601,0.187
+Cox,LA,"Cajun Broadband, Inc.",1257,694601,0.181
+Cox,LA,Delcambre Telephone Co.,1001,694601,0.144
+Cox,LA,Direct Management Company,630,694601,0.091
+Cox,LA,Charter (Spectrum),386,694601,0.056
+Cox,LA,"Allen's TV Cable Service, Inc.",151,694601,0.022
+Cox,LA,"Zito West Holding, LLC",136,694601,0.02
+Cox,LA,Gonthier Inc.,99,694601,0.014
+Cox,LA,Comcast (Xfinity),15,694601,0.002
+Cox,LA,Cable One (Sparklight),1,694601,0.0
+Cox,MA,Comcast (Xfinity),56,1451,3.859
+Cox,MA,Verizon (Fios),53,1451,3.653
+Cox,MA,Charter (Spectrum),19,1451,1.309
+Cox,MO,McDonald County Telephone Company,4,4,100.0
+Cox,NC,Brightspeed,1350,2680,50.373
+Cox,NC,Mediacom,1219,2680,45.485
+Cox,NE,Lumen (Quantum Fiber / CenturyLink),112690,242171,46.533
+Cox,NE,Metronet (T-Mobile JV),37675,242171,15.557
+Cox,NE,"Generate-Ubiquity Holdings, LLC",35099,242171,14.493
+Cox,NE,Allo Communications LLC,35020,242171,14.461
+Cox,NE,Google Fiber,22460,242171,9.274
+Cox,NE,American Broadband Holding Company,20530,242171,8.477
+Cox,NE,"Great Plains Communications, Inc.",8060,242171,3.328
+Cox,NE,Windstream/Uniti (Kinetic),499,242171,0.206
+Cox,NE,Alpine Connective LLC,12,242171,0.005
+Cox,NE,"Block Communications, Inc.",10,242171,0.004
+Cox,NE,"Skywave Wireless, Inc.",9,242171,0.004
+Cox,NE,Aureon Network Services Inc.,1,242171,0.0
+Cox,NV,Lumen (Quantum Fiber / CenturyLink),200165,663487,30.169
+Cox,NV,AT&T,14452,663487,2.178
+Cox,NV,Hotwire,85,663487,0.013
+Cox,NV,"Broadband MDU Holdings, LLC",3,663487,0.0
+Cox,OH,AT&T,67226,82413,81.572
+Cox,OH,Breezeline (Cogeco),43085,82413,52.279
+Cox,OH,Charter (Spectrum),5862,82413,7.113
+Cox,OH,Windstream/Uniti (Kinetic),49,82413,0.059
+Cox,OH,PCs for People,23,82413,0.028
+Cox,OK,AT&T,416705,713421,58.409
+Cox,OK,Oklahoma Electric Cooperative,47088,713421,6.6
+Cox,OK,Windstream/Uniti (Kinetic),28577,713421,4.006
+Cox,OK,Metronet (T-Mobile JV),14967,713421,2.098
+Cox,OK,Bluepeak,9655,713421,1.353
+Cox,OK,Bixby Telephone Company,8845,713421,1.24
+Cox,OK,"Dobson Technologies, Inc.",8368,713421,1.173
+Cox,OK,Vyve Broadband,7186,713421,1.007
+Cox,OK,"WEHCO Video, Inc.",5207,713421,0.73
+Cox,OK,Lake Region Technology & Communications LLC,2996,713421,0.42
+Cox,OK,"City of El Reno, Oklahoma",2247,713421,0.315
+Cox,OK,East Central Oklahoma Electric Cooperative,2147,713421,0.301
+Cox,OK,Arkansas Valley Electric Cooperative Corporation,2049,713421,0.287
+Cox,OK,"NBVDS Investment, LLC",1079,713421,0.151
+Cox,OK,Central Rural Electric Cooperative,1046,713421,0.147
+Cox,OK,Pioneer Telephone Cooperative (OK),847,713421,0.119
+Cox,OK,"Osage, LLC",681,713421,0.095
+Cox,OK,TDS Telecom,653,713421,0.092
+Cox,OK,AirLink Internet Services,413,713421,0.058
+Cox,OK,"Grid Southwest, LLC",392,713421,0.055
+Cox,OK,"Northeast Rural Services, Inc.",248,713421,0.035
+Cox,OK,Cookson Hills Electric Cooperative,222,713421,0.031
+Cox,OK,"Totah Communications, Inc.",102,713421,0.014
+Cox,OK,Brightspeed,13,713421,0.002
+Cox,OK,Optimum (Altice USA),7,713421,0.001
+Cox,RI,Verizon (Fios),256531,316010,81.178
+Cox,RI,"WH i3B Bidco LLC/WH i3B Topco, LLC",15914,316010,5.036
+Cox,RI,Comcast (Xfinity),195,316010,0.062
+Cox,RI,Charter (Spectrum),45,316010,0.014
+Cox,RI,Breezeline (Cogeco),7,316010,0.002
+Cox,VA,Verizon (Fios),533985,802083,66.575
+Cox,VA,Shenandoah Telecommunications Company,69085,802083,8.613
+Cox,VA,Metronet (T-Mobile JV),51638,802083,6.438
+Cox,VA,Lumos (T-Mobile JV),36580,802083,4.561
+Cox,VA,Comcast (Xfinity),4267,802083,0.532
+Cox,VA,Astound Broadband,3074,802083,0.383
+Cox,VA,Wilkes Telephone Membership Corporation,432,802083,0.054
+Cox,VA,Charter (Spectrum),197,802083,0.025
+Cox,VA,ZiTEL LLC,124,802083,0.015
+Cox,VA,Citizens Telephone Cooperative (VA),18,802083,0.002
+Cox,VA,Boston Omaha Corporation,16,802083,0.002
+Cox,VA,Mediacom,3,802083,0.0
+Optimum (Altice USA),AR,Ritter,42855,185597,23.09
+Optimum (Altice USA),AR,Brightspeed,27962,185597,15.066
+Optimum (Altice USA),AR,First Electric Cooperative Corporation,26788,185597,14.433
+Optimum (Altice USA),AR,AT&T,21582,185597,11.628
+Optimum (Altice USA),AR,CG Computer Works LLC,12133,185597,6.537
+Optimum (Altice USA),AR,Comcast (Xfinity),10643,185597,5.734
+Optimum (Altice USA),AR,"North Arkansas Electric Cooperative, Inc.",7655,185597,4.125
+Optimum (Altice USA),AR,South Central Arkansas Electric Cooperative,5737,185597,3.091
+Optimum (Altice USA),AR,Craighead Elecric Cooperative Corporation,4010,185597,2.161
+Optimum (Altice USA),AR,"Yelcot Holding Group, Inc.",3320,185597,1.789
+Optimum (Altice USA),AR,"City of Clarksville, Arkansas",3009,185597,1.621
+Optimum (Altice USA),AR,"CableSouth Media III, LLC",2843,185597,1.532
+Optimum (Altice USA),AR,Arkansas Valley Electric Cooperative Corporation,2575,185597,1.387
+Optimum (Altice USA),AR,"Ripple Fiber, LLC",2138,185597,1.152
+Optimum (Altice USA),AR,Windstream/Uniti (Kinetic),2068,185597,1.114
+Optimum (Altice USA),AR,"NATCO Communications, Inc.",2011,185597,1.084
+Optimum (Altice USA),AR,"Clay County Connect, Inc.",1608,185597,0.866
+Optimum (Altice USA),AR,Farmer Electric Cooperative Corporation,1518,185597,0.818
+Optimum (Altice USA),AR,"Ind. Co. Cable TV, Inc.",1464,185597,0.789
+Optimum (Altice USA),AR,Red River Cellular Telephone Corporation,1372,185597,0.739
+Optimum (Altice USA),AR,"WEHCO Video, Inc.",749,185597,0.404
+Optimum (Altice USA),AR,"Hillbilly Wireless Internet, Inc.",614,185597,0.331
+Optimum (Altice USA),AR,Premier Holdings LLC,523,185597,0.282
+Optimum (Altice USA),AR,"Townes Telecommunications, Inc.",277,185597,0.149
+Optimum (Altice USA),AR,Aristotle Unified Communications Inc.,206,185597,0.111
+Optimum (Altice USA),AR,"Central Arkansas Telephone Cooperative, Inc.",84,185597,0.045
+Optimum (Altice USA),AR,"Enlightened by Woodruff Electric, LLC",70,185597,0.038
+Optimum (Altice USA),AR,Cable One (Sparklight),8,185597,0.004
+Optimum (Altice USA),AR,Conway Corporation,6,185597,0.003
+Optimum (Altice USA),AR,"Southwest Arkansas Electric Cooperative, Inc.",3,185597,0.002
+Optimum (Altice USA),AR,Cox,2,185597,0.001
+Optimum (Altice USA),AR,Petit Jean Electric Cooperative Corp.,2,185597,0.001
+Optimum (Altice USA),AR,"Southwest Arkansas Telephone Cooperative, Inc.",2,185597,0.001
+Optimum (Altice USA),AR,"C & L Broadband Connect, LLC",1,185597,0.001
+Optimum (Altice USA),AZ,Allo Communications LLC,53152,159486,33.327
+Optimum (Altice USA),AZ,"PCC Holdings, Inc.",23901,159486,14.986
+Optimum (Altice USA),AZ,Cable One (Sparklight),5094,159486,3.194
+Optimum (Altice USA),AZ,Wecom LLC,3046,159486,1.91
+Optimum (Altice USA),AZ,Lumen (Quantum Fiber / CenturyLink),1000,159486,0.627
+Optimum (Altice USA),AZ,Frontier,428,159486,0.268
+Optimum (Altice USA),AZ,"Fort Mojave Telecommunications, Inc.",18,159486,0.011
+Optimum (Altice USA),CA,"VFN Holdings, Inc.",8371,84903,9.859
+Optimum (Altice USA),CA,Frontier,6666,84903,7.851
+Optimum (Altice USA),CA,AT&T,3258,84903,3.837
+Optimum (Altice USA),CA,Astound Broadband,1181,84903,1.391
+Optimum (Altice USA),CA,Comcast (Xfinity),1001,84903,1.179
+Optimum (Altice USA),CA,Plumas-Sierra Rural Electric Cooperative,576,84903,0.678
+Optimum (Altice USA),CA,Charter (Spectrum),486,84903,0.572
+Optimum (Altice USA),CA,"Race Telecommunications, Inc.",95,84903,0.112
+Optimum (Altice USA),CA,Hunter Communications & Technologies LLC,60,84903,0.071
+Optimum (Altice USA),CA,Sebastian Enterprises,12,84903,0.014
+Optimum (Altice USA),CA,Inyo Networks Inc.,4,84903,0.005
+Optimum (Altice USA),CT,Frontier,175334,214870,81.6
+Optimum (Altice USA),CT,Comcast (Xfinity),92617,214870,43.104
+Optimum (Altice USA),CT,"Future Fiber FinCo, LLC",44291,214870,20.613
+Optimum (Altice USA),CT,Verizon (Fios),10367,214870,4.825
+Optimum (Altice USA),CT,Charter (Spectrum),1069,214870,0.498
+Optimum (Altice USA),CT,"Decatur Holding Company, Inc.",1,214870,0.0
+Optimum (Altice USA),ID,Ziply Fiber (Bell Canada),6643,11427,58.134
+Optimum (Altice USA),ID,"Newmax, LLC",1143,11427,10.003
+Optimum (Altice USA),ID,Inland Cellular Telephone Company,3,11427,0.026
+Optimum (Altice USA),ID,"Fatbeam Holdings, LLC",1,11427,0.009
+Optimum (Altice USA),KS,Comcast (Xfinity),5139,13777,37.301
+Optimum (Altice USA),KS,JMZ Corporation,3509,13777,25.47
+Optimum (Altice USA),KS,Craw-Kan Telephone Cooperative Inc.,3495,13777,25.368
+Optimum (Altice USA),KS,"Delta Communications, LLC",2713,13777,19.692
+Optimum (Altice USA),KS,Brightspeed,1812,13777,13.152
+Optimum (Altice USA),KS,"Peoples Telecommunications, LLC",1480,13777,10.743
+Optimum (Altice USA),KS,"South Central Telephone Association, Inc.",1077,13777,7.817
+Optimum (Altice USA),KS,"Townes Telecommunications, Inc.",380,13777,2.758
+Optimum (Altice USA),KS,"Everfast Fiber Networks, LLC",163,13777,1.183
+Optimum (Altice USA),KS,Google Fiber,157,13777,1.14
+Optimum (Altice USA),KS,AT&T,124,13777,0.9
+Optimum (Altice USA),KS,Charter (Spectrum),67,13777,0.486
+Optimum (Altice USA),KY,"Foothills Rural Telephone Cooperative Corporation, Inc.",4013,28173,14.244
+Optimum (Altice USA),KY,Russellville Electric Plant Board,3640,28173,12.92
+Optimum (Altice USA),KY,Gearheart Communications,2500,28173,8.874
+Optimum (Altice USA),KY,Windstream/Uniti (Kinetic),1330,28173,4.721
+Optimum (Altice USA),KY,"Logan Telephone Cooperative, Inc.",1102,28173,3.912
+Optimum (Altice USA),KY,Charter (Spectrum),56,28173,0.199
+Optimum (Altice USA),KY,"Electric Plant Board of the City of Hopkinsville, Kentucky",19,28173,0.067
+Optimum (Altice USA),KY,Shenandoah Telecommunications Company,14,28173,0.05
+Optimum (Altice USA),KY,"Eastern Telephone & Technologies, Inc.",1,28173,0.004
+Optimum (Altice USA),LA,AT&T,69716,213667,32.628
+Optimum (Altice USA),LA,Metronet (T-Mobile JV),43667,213667,20.437
+Optimum (Altice USA),LA,Comcast (Xfinity),11962,213667,5.598
+Optimum (Altice USA),LA,"CableSouth Media III, LLC",9027,213667,4.225
+Optimum (Altice USA),LA,Brightspeed,6763,213667,3.165
+Optimum (Altice USA),LA,American Broadband Holding Company,6614,213667,3.095
+Optimum (Altice USA),LA,Lafayette City Parish Consolidated Government,5399,213667,2.527
+Optimum (Altice USA),LA,Ritter,4570,213667,2.139
+Optimum (Altice USA),LA,"CP-Tel Holdings, Inc.",3768,213667,1.763
+Optimum (Altice USA),LA,"Conexon Connect, LLC",2133,213667,0.998
+Optimum (Altice USA),LA,"Cajun Broadband, Inc.",1636,213667,0.766
+Optimum (Altice USA),LA,Cox,1297,213667,0.607
+Optimum (Altice USA),LA,Charter (Spectrum),1134,213667,0.531
+Optimum (Altice USA),LA,"Volt Broadband, LLC",969,213667,0.454
+Optimum (Altice USA),LA,Delcambre Telephone Co.,578,213667,0.271
+Optimum (Altice USA),LA,"Northeast Louisiana Telephone Co., Inc.",244,213667,0.114
+Optimum (Altice USA),LA,Vyve Broadband,209,213667,0.098
+Optimum (Altice USA),LA,EATEL Corp.,13,213667,0.006
+Optimum (Altice USA),LA,"Trinity Communications, LLC",10,213667,0.005
+Optimum (Altice USA),MO,"United Electric Cooperative, Inc.",31759,113720,27.927
+Optimum (Altice USA),MO,Metronet (T-Mobile JV),16787,113720,14.762
+Optimum (Altice USA),MO,White River Valley Electric Cooperative,14762,113720,12.981
+Optimum (Altice USA),MO,"Ozark Fiber, LLC",9972,113720,8.769
+Optimum (Altice USA),MO,Carthage Water and Electric Plant,5513,113720,4.848
+Optimum (Altice USA),MO,AT&T,4898,113720,4.307
+Optimum (Altice USA),MO,Brightspeed,3831,113720,3.369
+Optimum (Altice USA),MO,Socket Telecom LLC,3058,113720,2.689
+Optimum (Altice USA),MO,"Mid-States Services, LLC",2555,113720,2.247
+Optimum (Altice USA),MO,Chariton Valley Telephone Corporation,2175,113720,1.913
+Optimum (Altice USA),MO,Total Highspeed LLC,1453,113720,1.278
+Optimum (Altice USA),MO,"Co-Mo Electric Cooperative, Inc.",1312,113720,1.154
+Optimum (Altice USA),MO,Charter (Spectrum),1115,113720,0.98
+Optimum (Altice USA),MO,"Callabyte Technology, LLC",756,113720,0.665
+Optimum (Altice USA),MO,Comcast (Xfinity),466,113720,0.41
+Optimum (Altice USA),MO,Mediacom,416,113720,0.366
+Optimum (Altice USA),MO,Windstream/Uniti (Kinetic),220,113720,0.193
+Optimum (Altice USA),MO,Net Vision Communications LLC,132,113720,0.116
+Optimum (Altice USA),MO,Grand River Mutual Telephone Corporation,59,113720,0.052
+Optimum (Altice USA),MO,Barry Electric Cooperative,15,113720,0.013
+Optimum (Altice USA),MO,Granby Telephone Company,6,113720,0.005
+Optimum (Altice USA),MO,Cable One (Sparklight),1,113720,0.001
+Optimum (Altice USA),MO,Gateway Fiber Holdings LLC,1,113720,0.001
+Optimum (Altice USA),MO,"IAMO Communications, Inc.",1,113720,0.001
+Optimum (Altice USA),MO,Oregon Telephone Corporation,1,113720,0.001
+Optimum (Altice USA),MO,"Townes Telecommunications, Inc.",1,113720,0.001
+Optimum (Altice USA),MS,"Telapex, Inc.",2206,24893,8.862
+Optimum (Altice USA),MS,Mobile Communications LLC,1451,24893,5.829
+Optimum (Altice USA),MS,Delta Electric Power Association,1294,24893,5.198
+Optimum (Altice USA),MS,"TecInfo Communications, LLC",520,24893,2.089
+Optimum (Altice USA),MS,Cable One (Sparklight),75,24893,0.301
+Optimum (Altice USA),MS,AT&T,6,24893,0.024
+Optimum (Altice USA),NC,Brightspeed,86538,221751,39.025
+Optimum (Altice USA),NC,Metronet (T-Mobile JV),57564,221751,25.959
+Optimum (Altice USA),NC,AT&T,11605,221751,5.233
+Optimum (Altice USA),NC,"NfinityLink Communications, Inc.",9396,221751,4.237
+Optimum (Altice USA),NC,Charter (Spectrum),7753,221751,3.496
+Optimum (Altice USA),NC,"Ripple Fiber, LLC",5052,221751,2.278
+Optimum (Altice USA),NC,Skyline Telephone Membership Corporation,4174,221751,1.882
+Optimum (Altice USA),NC,Vyve Broadband,3982,221751,1.796
+Optimum (Altice USA),NC,Frontier,2968,221751,1.338
+Optimum (Altice USA),NC,Wilkes Telephone Membership Corporation,548,221751,0.247
+Optimum (Altice USA),NC,Locality Networks Inc.,515,221751,0.232
+Optimum (Altice USA),NC,"Skyrunner, Inc.",295,221751,0.133
+Optimum (Altice USA),NC,"BalsamWest FiberNET, LLC",47,221751,0.021
+Optimum (Altice USA),NC,ENC Access Investments LLC,46,221751,0.021
+Optimum (Altice USA),NC,"ERC Broadband, LLC",24,221751,0.011
+Optimum (Altice USA),NC,"Comporium, Inc.",14,221751,0.006
+Optimum (Altice USA),NC,City of Wilson,3,221751,0.001
+Optimum (Altice USA),NC,Hotwire,2,221751,0.001
+Optimum (Altice USA),NC,"StarVision, Inc.",2,221751,0.001
+Optimum (Altice USA),NC,Lumos (T-Mobile JV),1,221751,0.0
+Optimum (Altice USA),NJ,Verizon (Fios),670059,971601,68.964
+Optimum (Altice USA),NJ,Comcast (Xfinity),94170,971601,9.692
+Optimum (Altice USA),NJ,"Planet Networks, Inc.",39980,971601,4.115
+Optimum (Altice USA),NJ,Brightspeed,14810,971601,1.524
+Optimum (Altice USA),NJ,Court Square Capital Partners,6749,971601,0.695
+Optimum (Altice USA),NJ,Charter (Spectrum),2238,971601,0.23
+Optimum (Altice USA),NJ,Astound Broadband,9,971601,0.001
+Optimum (Altice USA),NJ,Hotwire,2,971601,0.0
+Optimum (Altice USA),NJ,Invest Newark,1,971601,0.0
+Optimum (Altice USA),NJ,Litebridge LLC,1,971601,0.0
+Optimum (Altice USA),NJ,"Starry, Inc.",1,971601,0.0
+Optimum (Altice USA),NM,"ENMR Telephone Cooperative, Inc.",14529,14929,97.321
+Optimum (Altice USA),NM,"Roosevelt County Rural Telephone Cooperative, Inc.",362,14929,2.425
+Optimum (Altice USA),NV,"Valley Communications Association, LLC",6803,10787,63.067
+Optimum (Altice USA),NV,Lumen (Quantum Fiber / CenturyLink),1,10787,0.009
+Optimum (Altice USA),NY,Verizon (Fios),1158306,1471462,78.718
+Optimum (Altice USA),NY,Charter (Spectrum),10187,1471462,0.692
+Optimum (Altice USA),NY,Court Square Capital Partners,8947,1471462,0.608
+Optimum (Altice USA),NY,Frontier,8730,1471462,0.593
+Optimum (Altice USA),NY,Comcast (Xfinity),916,1471462,0.062
+Optimum (Altice USA),NY,Astound Broadband,481,1471462,0.033
+Optimum (Altice USA),NY,Consolidated (Fidium),266,1471462,0.018
+Optimum (Altice USA),NY,Litebridge LLC,146,1471462,0.01
+Optimum (Altice USA),NY,Archtop Fiber Holdings LLC,72,1471462,0.005
+Optimum (Altice USA),NY,"Greenlight Networks, LLC",58,1471462,0.004
+Optimum (Altice USA),NY,"Starry, Inc.",56,1471462,0.004
+Optimum (Altice USA),NY,Mid-Hudson Cablevision,28,1471462,0.002
+Optimum (Altice USA),NY,"Planet Networks, Inc.",3,1471462,0.0
+Optimum (Altice USA),OH,Frontier,4752,23925,19.862
+Optimum (Altice USA),OH,"Community Antenna Service, Inc.",4456,23925,18.625
+Optimum (Altice USA),OH,Charter (Spectrum),1723,23925,7.202
+Optimum (Altice USA),OH,Windstream/Uniti (Kinetic),184,23925,0.769
+Optimum (Altice USA),OK,"Dobson Technologies, Inc.",47898,128105,37.39
+Optimum (Altice USA),OK,Bluepeak,47605,128105,37.161
+Optimum (Altice USA),OK,Pioneer Telephone Cooperative (OK),10466,128105,8.17
+Optimum (Altice USA),OK,Windstream/Uniti (Kinetic),8235,128105,6.428
+Optimum (Altice USA),OK,Oklahoma Electric Cooperative,6013,128105,4.694
+Optimum (Altice USA),OK,"Hilliary Communications, LLC",5458,128105,4.261
+Optimum (Altice USA),OK,Central Rural Electric Cooperative,4152,128105,3.241
+Optimum (Altice USA),OK,"Northeast Rural Services, Inc.",3901,128105,3.045
+Optimum (Altice USA),OK,Pine Telephone Company,3324,128105,2.595
+Optimum (Altice USA),OK,AT&T,3199,128105,2.497
+Optimum (Altice USA),OK,Canadian Valley Electric Cooperative,2728,128105,2.13
+Optimum (Altice USA),OK,City of Sallisaw,2517,128105,1.965
+Optimum (Altice USA),OK,East Central Oklahoma Electric Cooperative,2047,128105,1.598
+Optimum (Altice USA),OK,Lake Region Technology & Communications LLC,1303,128105,1.017
+Optimum (Altice USA),OK,Cookson Hills Electric Cooperative,897,128105,0.7
+Optimum (Altice USA),OK,Arkansas Valley Electric Cooperative Corporation,610,128105,0.476
+Optimum (Altice USA),OK,Vyve Broadband,544,128105,0.425
+Optimum (Altice USA),OK,Hinton Holding Company,431,128105,0.336
+Optimum (Altice USA),OK,Carnegie Telephone Company,139,128105,0.109
+Optimum (Altice USA),OK,"NBVDS Investment, LLC",134,128105,0.105
+Optimum (Altice USA),OK,"Valliant Telephone Company, Inc.",97,128105,0.076
+Optimum (Altice USA),OK,Bixby Telephone Company,55,128105,0.043
+Optimum (Altice USA),OK,"Professional Value Internet Services, LLC",41,128105,0.032
+Optimum (Altice USA),OK,Cable One (Sparklight),7,128105,0.005
+Optimum (Altice USA),OK,Cox,7,128105,0.005
+Optimum (Altice USA),OK,ICS Advanced Technologies,2,128105,0.002
+Optimum (Altice USA),OK,Grand Telephone Company,1,128105,0.001
+Optimum (Altice USA),PA,Blue Ridge Communications,11,1880,0.585
+Optimum (Altice USA),PA,Verizon (Fios),7,1880,0.372
+Optimum (Altice USA),TX,AT&T,434647,1206843,36.015
+Optimum (Altice USA),TX,Metronet (T-Mobile JV),267645,1206843,22.177
+Optimum (Altice USA),TX,Comcast (Xfinity),115813,1206843,9.596
+Optimum (Altice USA),TX,Frontier,109413,1206843,9.066
+Optimum (Altice USA),TX,Tachus LLC,93835,1206843,7.775
+Optimum (Altice USA),TX,Consolidated (Fidium),52327,1206843,4.336
+Optimum (Altice USA),TX,Charter (Spectrum),40664,1206843,3.369
+Optimum (Altice USA),TX,Astound Broadband,34479,1206843,2.857
+Optimum (Altice USA),TX,Windstream/Uniti (Kinetic),27518,1206843,2.28
+Optimum (Altice USA),TX,Cable One (Sparklight),27339,1206843,2.265
+Optimum (Altice USA),TX,"Generate-Ubiquity Holdings, LLC",24277,1206843,2.012
+Optimum (Altice USA),TX,Peoples Telephone Cooperative,20309,1206843,1.683
+Optimum (Altice USA),TX,"Ezee Fiber Texas, LLC",18305,1206843,1.517
+Optimum (Altice USA),TX,Brightspeed,17315,1206843,1.435
+Optimum (Altice USA),TX,"Open Infra, Inc.",15835,1206843,1.312
+Optimum (Altice USA),TX,"VFN Holdings, Inc.",13377,1206843,1.108
+Optimum (Altice USA),TX,"Poka Lambro Telephone Cooperative, Inc.",11694,1206843,0.969
+Optimum (Altice USA),TX,AMG Technology Investment Group LLC,11122,1206843,0.922
+Optimum (Altice USA),TX,Nortex Communications,10961,1206843,0.908
+Optimum (Altice USA),TX,Vyve Broadband,9458,1206843,0.784
+Optimum (Altice USA),TX,"Eastex Telephone Cooperative, Inc.",9356,1206843,0.775
+Optimum (Altice USA),TX,"Santa Rosa Telephone Cooperative, Inc.",8825,1206843,0.731
+Optimum (Altice USA),TX,"PATHWAYZ Communications, Inc.",8568,1206843,0.71
+Optimum (Altice USA),TX,Grayson Collin Electric Cooperative,8527,1206843,0.707
+Optimum (Altice USA),TX,"MSEC Communications, LLC",8145,1206843,0.675
+Optimum (Altice USA),TX,West Texas Rural Telephone Cooperative Inc.,7826,1206843,0.648
+Optimum (Altice USA),TX,"Etex Telephone Cooperative, Inc.",6535,1206843,0.541
+Optimum (Altice USA),TX,Cherokee County Electric Cooperative Association,5241,1206843,0.434
+Optimum (Altice USA),TX,"Legacy ISP, LLC",4309,1206843,0.357
+Optimum (Altice USA),TX,"Community Telephone Co., Inc.",3790,1206843,0.314
+Optimum (Altice USA),TX,"Taylor Telephone Cooperative, Inc.",3514,1206843,0.291
+Optimum (Altice USA),TX,Google Fiber,3240,1206843,0.268
+Optimum (Altice USA),TX,Innovative Financial Technologies LLC,3192,1206843,0.264
+Optimum (Altice USA),TX,"Mid-Plains Rural Telephone Cooperative, Inc.",2842,1206843,0.235
+Optimum (Altice USA),TX,Centric Infrastructure Group LLC,2673,1206843,0.221
+Optimum (Altice USA),TX,"Hill Country Telephone Cooperative, Inc.",2551,1206843,0.211
+Optimum (Altice USA),TX,Point Broadband,2358,1206843,0.195
+Optimum (Altice USA),TX,"Pavlov Media, Inc.",2290,1206843,0.19
+Optimum (Altice USA),TX,"South Plains Telephone Cooperative, Inc.",2158,1206843,0.179
+Optimum (Altice USA),TX,Taylor Electric Cooperative,1890,1206843,0.157
+Optimum (Altice USA),TX,"Wi-Fiber, Inc.",1841,1206843,0.153
+Optimum (Altice USA),TX,Lake Livingston Telephone Company,1835,1206843,0.152
+Optimum (Altice USA),TX,"Victoria Electric Cooperative, Inc.",1551,1206843,0.129
+Optimum (Altice USA),TX,"Brazos Telephone Cooperative, Inc.",1441,1206843,0.119
+Optimum (Altice USA),TX,"Wes-Tex Telephone Cooperative, Inc.",1415,1206843,0.117
+Optimum (Altice USA),TX,"yondoo Broadband, LLC",1186,1206843,0.098
+Optimum (Altice USA),TX,City of Mont Belvieu,1009,1206843,0.084
+Optimum (Altice USA),TX,"Hilliary Communications, LLC",994,1206843,0.082
+Optimum (Altice USA),TX,"ITC Broadband Operating, LLC",904,1206843,0.075
+Optimum (Altice USA),TX,Hotwire,822,1206843,0.068
+Optimum (Altice USA),TX,Arrive Internet,739,1206843,0.061
+Optimum (Altice USA),TX,"Blossom Telephone Co., Inc.",704,1206843,0.058
+Optimum (Altice USA),TX,"Cap Rock Telephone Cooperative, Inc.",686,1206843,0.057
+Optimum (Altice USA),TX,"James Bouse Enterprises, LLC",653,1206843,0.054
+Optimum (Altice USA),TX,"ENMR Telephone Cooperative, Inc.",561,1206843,0.046
+Optimum (Altice USA),TX,"Plains Internet, LLC",432,1206843,0.036
+Optimum (Altice USA),TX,"Flying Bull Internet, LLC",414,1206843,0.034
+Optimum (Altice USA),TX,"JAB Wireless, Inc.",303,1206843,0.025
+Optimum (Altice USA),TX,"Dell Telephone Cooperative, Inc.",286,1206843,0.024
+Optimum (Altice USA),TX,"WEHCO Video, Inc.",284,1206843,0.024
+Optimum (Altice USA),TX,"WiFires Communications, LLC",227,1206843,0.019
+Optimum (Altice USA),TX,"Lyte Fiber, LLC",177,1206843,0.015
+Optimum (Altice USA),TX,"Bartlett Electric Cooperative, Inc.",156,1206843,0.013
+Optimum (Altice USA),TX,"ANTS-Technology, Inc.",146,1206843,0.012
+Optimum (Altice USA),TX,TOTE Holdings LLC,137,1206843,0.011
+Optimum (Altice USA),TX,"SureFire Internet, LLC",127,1206843,0.011
+Optimum (Altice USA),TX,"Zito West Holding, LLC",96,1206843,0.008
+Optimum (Altice USA),TX,"Wellcom Technologies Highlands, LP",25,1206843,0.002
+Optimum (Altice USA),TX,"BSX Holdings, LLC",22,1206843,0.002
+Optimum (Altice USA),TX,Boston Omaha Corporation,16,1206843,0.001
+Optimum (Altice USA),TX,"Nevill Holdings, Inc.",7,1206843,0.001
+Optimum (Altice USA),TX,"Bandera Electric Cooperative, Inc.",5,1206843,0.0
+Optimum (Altice USA),TX,3 Rooms Communications LLC,2,1206843,0.0
+Optimum (Altice USA),TX,"Central Texas Telephone Cooperative, Inc.",2,1206843,0.0
+Optimum (Altice USA),TX,ICS Advanced Technologies,2,1206843,0.0
+Optimum (Altice USA),TX,"LCS Fibercom, LLC",2,1206843,0.0
+Optimum (Altice USA),TX,PCs for People,2,1206843,0.0
+Optimum (Altice USA),TX,"Cumby Telephone Cooperative, Inc.",1,1206843,0.0
+Optimum (Altice USA),TX,"MiFiber Holding, LLC",1,1206843,0.0
+Optimum (Altice USA),VA,Pembroke Telephone Cooperative,472,4668,10.111
+Optimum (Altice USA),VA,Charter (Spectrum),3,4668,0.064
+Optimum (Altice USA),VA,Comcast (Xfinity),2,4668,0.043
+Optimum (Altice USA),VA,Citizens Telephone Cooperative (VA),1,4668,0.021
+Optimum (Altice USA),WV,Frontier,106462,259537,41.02
+Optimum (Altice USA),WV,"Community Antenna Service, Inc.",21392,259537,8.242
+Optimum (Altice USA),WV,Comcast (Xfinity),7397,259537,2.85
+Optimum (Altice USA),WV,"Micrologic, Inc.",4994,259537,1.924
+Optimum (Altice USA),WV,"Citynet, LLC",919,259537,0.354
+Optimum (Altice USA),WV,Charter (Spectrum),560,259537,0.216
+Optimum (Altice USA),WV,Shenandoah Telecommunications Company,379,259537,0.146
+Optimum (Altice USA),WV,WVVA.net Inc.,366,259537,0.141
+Optimum (Altice USA),WV,Breezeline (Cogeco),69,259537,0.027
+Optimum (Altice USA),WV,Armstrong,25,259537,0.01
+Optimum (Altice USA),WV,Alpha Technologies Inc.,15,259537,0.006
+Optimum (Altice USA),WV,"Foothills Rural Telephone Cooperative Corporation, Inc.",9,259537,0.003
+Optimum (Altice USA),WV,Gearheart Communications,3,259537,0.001
+Optimum (Altice USA),WV,Crystal Broadband Networks,2,259537,0.001
+Cable One (Sparklight),AL,AT&T,23850,73619,32.397
+Cable One (Sparklight),AL,Coosa Valley Electric Cooperative,9461,73619,12.851
+Cable One (Sparklight),AL,Brightspeed,7204,73619,9.786
+Cable One (Sparklight),AL,Windstream/Uniti (Kinetic),5641,73619,7.662
+Cable One (Sparklight),AL,Charter (Spectrum),2508,73619,3.407
+Cable One (Sparklight),AL,Comcast (Xfinity),525,73619,0.713
+Cable One (Sparklight),AL,"Ragland Telephone Co., Inc.",13,73619,0.018
+Cable One (Sparklight),AL,"Tombigbee Electric Cooperative, Inc.",13,73619,0.018
+Cable One (Sparklight),AR,Comcast (Xfinity),26856,79039,33.978
+Cable One (Sparklight),AR,AT&T,24189,79039,30.604
+Cable One (Sparklight),AR,First Electric Cooperative Corporation,12319,79039,15.586
+Cable One (Sparklight),AR,Windstream/Uniti (Kinetic),8869,79039,11.221
+Cable One (Sparklight),AR,Ritter,4231,79039,5.353
+Cable One (Sparklight),AR,"Southwest Arkansas Electric Cooperative, Inc.",3984,79039,5.041
+Cable One (Sparklight),AR,"Ripple Fiber, LLC",3940,79039,4.985
+Cable One (Sparklight),AR,Red River Cellular Telephone Corporation,3891,79039,4.923
+Cable One (Sparklight),AR,Brightspeed,3058,79039,3.869
+Cable One (Sparklight),AR,"Clay County Connect, Inc.",1392,79039,1.761
+Cable One (Sparklight),AR,"Southwest Arkansas Telephone Cooperative, Inc.",1178,79039,1.49
+Cable One (Sparklight),AR,Craighead Elecric Cooperative Corporation,840,79039,1.063
+Cable One (Sparklight),AR,"North Arkansas Electric Cooperative, Inc.",235,79039,0.297
+Cable One (Sparklight),AR,"WEHCO Video, Inc.",168,79039,0.213
+Cable One (Sparklight),AR,South Central Arkansas Electric Cooperative,85,79039,0.108
+Cable One (Sparklight),AR,LTD Broadband LLC,44,79039,0.056
+Cable One (Sparklight),AR,"Ind. Co. Cable TV, Inc.",16,79039,0.02
+Cable One (Sparklight),AR,Optimum (Altice USA),8,79039,0.01
+Cable One (Sparklight),AZ,"Valley Telephone Cooperative, Inc. (AZ/NM)",8308,140744,5.903
+Cable One (Sparklight),AZ,Optimum (Altice USA),5094,140744,3.619
+Cable One (Sparklight),AZ,Lumen (Quantum Fiber / CenturyLink),2318,140744,1.647
+Cable One (Sparklight),AZ,"Conexon Connect, LLC",948,140744,0.674
+Cable One (Sparklight),AZ,"Ponderosa Communications, Inc.",203,140744,0.144
+Cable One (Sparklight),AZ,Metronet (T-Mobile JV),146,140744,0.104
+Cable One (Sparklight),AZ,Midvale Telephone Exchange,31,140744,0.022
+Cable One (Sparklight),AZ,Frontier,1,140744,0.001
+Cable One (Sparklight),GA,Cox,29820,72404,41.186
+Cable One (Sparklight),GA,Windstream/Uniti (Kinetic),16352,72404,22.584
+Cable One (Sparklight),GA,"Conexon Connect, LLC",10926,72404,15.09
+Cable One (Sparklight),GA,TDS Telecom,7705,72404,10.642
+Cable One (Sparklight),GA,AT&T,4592,72404,6.342
+Cable One (Sparklight),GA,Comcast (Xfinity),3945,72404,5.449
+Cable One (Sparklight),GA,"LiveOak Fiber, LLC",3800,72404,5.248
+Cable One (Sparklight),GA,Tri-County Electric Membership Corporation,2813,72404,3.885
+Cable One (Sparklight),GA,Charter (Spectrum),1253,72404,1.731
+Cable One (Sparklight),GA,Vyve Broadband,657,72404,0.907
+Cable One (Sparklight),GA,"Bulloch County Rural Telephone Cooperative, Inc.",351,72404,0.485
+Cable One (Sparklight),GA,Mediacom,159,72404,0.22
+Cable One (Sparklight),GA,Altamaha Electric Corporation,68,72404,0.094
+Cable One (Sparklight),GA,Velofi LLC,35,72404,0.048
+Cable One (Sparklight),GA,Plant Telephone Company,8,72404,0.011
+Cable One (Sparklight),GA,"Delta Communications, LLC",7,72404,0.01
+Cable One (Sparklight),GA,"Progressive Rural Telephone Co-Op., Inc.",4,72404,0.006
+Cable One (Sparklight),GA,"Public Service Communications, Inc.",2,72404,0.003
+Cable One (Sparklight),IA,Metronet (T-Mobile JV),25452,30792,82.658
+Cable One (Sparklight),IA,Long Lines,3755,30792,12.195
+Cable One (Sparklight),IA,Mutual Telephone Company (IA),112,30792,0.364
+Cable One (Sparklight),IA,Lumen (Quantum Fiber / CenturyLink),76,30792,0.247
+Cable One (Sparklight),IA,ImOn,46,30792,0.149
+Cable One (Sparklight),IA,Western Iowa Telephone Association,19,30792,0.062
+Cable One (Sparklight),IA,ICS Advanced Technologies,3,30792,0.01
+Cable One (Sparklight),ID,Lumen (Quantum Fiber / CenturyLink),74816,426739,17.532
+Cable One (Sparklight),ID,TDS Telecom,59010,426739,13.828
+Cable One (Sparklight),ID,"Project Mutual Telephone Cooperative Association, Inc.",19331,426739,4.53
+Cable One (Sparklight),ID,"Fatbeam Holdings, LLC",16866,426739,3.952
+Cable One (Sparklight),ID,"Horizon Communications, Inc.",16510,426739,3.869
+Cable One (Sparklight),ID,Fybercom LLC,16270,426739,3.813
+Cable One (Sparklight),ID,Google Fiber,13864,426739,3.249
+Cable One (Sparklight),ID,Air Bridge Broadband LLC,13077,426739,3.064
+Cable One (Sparklight),ID,Direct Management Company,8421,426739,1.973
+Cable One (Sparklight),ID,Farmers Mutual Telephone Company (ID),3063,426739,0.718
+Cable One (Sparklight),ID,Ziply Fiber (Bell Canada),1691,426739,0.396
+Cable One (Sparklight),ID,Filer Mutual Telephone Company,1666,426739,0.39
+Cable One (Sparklight),ID,"Eminent Technical Solutions, LLC",1646,426739,0.386
+Cable One (Sparklight),ID,"Blackfoot Telephone Cooperative, Inc.",1385,426739,0.325
+Cable One (Sparklight),ID,Safelink Internet,312,426739,0.073
+Cable One (Sparklight),ID,Midvale Telephone Exchange,247,426739,0.058
+Cable One (Sparklight),ID,White Cloud Networks,243,426739,0.057
+Cable One (Sparklight),ID,Inland Cellular Telephone Company,24,426739,0.006
+Cable One (Sparklight),ID,"First Step Internet, LLC",14,426739,0.003
+Cable One (Sparklight),IL,Frontier,44408,122102,36.37
+Cable One (Sparklight),IL,"MCC Network Services, LLC",32158,122102,26.337
+Cable One (Sparklight),IL,"Computer Techniques, Inc.",23435,122102,19.193
+Cable One (Sparklight),IL,Consolidated (Fidium),7672,122102,6.283
+Cable One (Sparklight),IL,"Royell Communications, Inc.",4818,122102,3.946
+Cable One (Sparklight),IL,"Pavlov Media, Inc.",4112,122102,3.368
+Cable One (Sparklight),IL,"Delta Communications, LLC",2533,122102,2.074
+Cable One (Sparklight),IL,Hamilton County Telephone Co-Op,2061,122102,1.688
+Cable One (Sparklight),IL,"Wabash Telephone Cooperative, Inc.",2005,122102,1.642
+Cable One (Sparklight),IL,"Schwartz Ventures, Inc.",1010,122102,0.827
+Cable One (Sparklight),IL,Logonix Corporation,968,122102,0.793
+Cable One (Sparklight),IL,McDonough Telephone Cooperative Inc.,871,122102,0.713
+Cable One (Sparklight),IL,"JAB Wireless, Inc.",806,122102,0.66
+Cable One (Sparklight),IL,"Grafton Communications, Inc.",444,122102,0.364
+Cable One (Sparklight),IL,Charter (Spectrum),301,122102,0.247
+Cable One (Sparklight),IL,Comcast (Xfinity),278,122102,0.228
+Cable One (Sparklight),IL,"Shawnee Communications, Inc.",246,122102,0.201
+Cable One (Sparklight),IL,"ProTek Communications, LLC",108,122102,0.088
+Cable One (Sparklight),IL,Astound Broadband,16,122102,0.013
+Cable One (Sparklight),IL,"Crossville Consolidated Communications, Inc.",10,122102,0.008
+Cable One (Sparklight),IL,AT&T,7,122102,0.006
+Cable One (Sparklight),IL,Egyptian Telephone Cooperative Association,4,122102,0.003
+Cable One (Sparklight),IL,Mediacom,1,122102,0.001
+Cable One (Sparklight),IN,"Joink, LLC",18093,87718,20.626
+Cable One (Sparklight),IN,Frontier,12053,87718,13.741
+Cable One (Sparklight),IN,Daviess-Martin County Rural Telephone Corporation,10414,87718,11.872
+Cable One (Sparklight),IN,Charter (Spectrum),8262,87718,9.419
+Cable One (Sparklight),IN,Metronet (T-Mobile JV),7364,87718,8.395
+Cable One (Sparklight),IN,South Central Indiana Rural Electric Membership Corporation,4498,87718,5.128
+Cable One (Sparklight),IN,Orange County REMC,4245,87718,4.839
+Cable One (Sparklight),IN,"Clay County Rural Telephone Cooperative, Inc.",4142,87718,4.722
+Cable One (Sparklight),IN,Comcast (Xfinity),3523,87718,4.016
+Cable One (Sparklight),IN,"Mainstream Fiber Networks, LLC",2188,87718,2.494
+Cable One (Sparklight),IN,Brightspeed,1611,87718,1.837
+Cable One (Sparklight),IN,AT&T,1440,87718,1.642
+Cable One (Sparklight),IN,Bloomingdale Home Telephone Company,1398,87718,1.594
+Cable One (Sparklight),IN,TDS Telecom,1384,87718,1.578
+Cable One (Sparklight),IN,"Smithville Holding Company, Inc.",1232,87718,1.405
+Cable One (Sparklight),IN,Mulberry Cooperative Telephone Co. Inc.,1212,87718,1.382
+Cable One (Sparklight),IN,Benton Ridge Telephone Company,367,87718,0.418
+Cable One (Sparklight),IN,Johnson County Rural Electric Membership Cooperative,194,87718,0.221
+Cable One (Sparklight),IN,Tipmont Rural Electric Membership Corporation,33,87718,0.038
+Cable One (Sparklight),IN,"Precision Data Solutions, LLC",30,87718,0.034
+Cable One (Sparklight),IN,"Perry-Spencer Rural Telephone Cooperative, Inc.",22,87718,0.025
+Cable One (Sparklight),IN,Haywire,7,87718,0.008
+Cable One (Sparklight),KS,"IdeaTek Telcom, LLC",6306,27847,22.645
+Cable One (Sparklight),KS,JMZ Corporation,4824,27847,17.323
+Cable One (Sparklight),KS,City of Chanute Kansas,3242,27847,11.642
+Cable One (Sparklight),KS,Wave Wireless LLC,921,27847,3.307
+Cable One (Sparklight),KS,Mediacom,899,27847,3.228
+Cable One (Sparklight),KS,Brightspeed,710,27847,2.55
+Cable One (Sparklight),KS,Columbus Telephone Company,8,27847,0.029
+Cable One (Sparklight),KS,Craw-Kan Telephone Cooperative Inc.,7,27847,0.025
+Cable One (Sparklight),LA,AT&T,9868,57682,17.108
+Cable One (Sparklight),LA,Comcast (Xfinity),8507,57682,14.748
+Cable One (Sparklight),LA,Brightspeed,3399,57682,5.893
+Cable One (Sparklight),LA,"Conexon Connect, LLC",2281,57682,3.954
+Cable One (Sparklight),LA,"Volt Broadband, LLC",1077,57682,1.867
+Cable One (Sparklight),LA,SkyRider Communications LLC,1062,57682,1.841
+Cable One (Sparklight),LA,Cowboy Internet Services,308,57682,0.534
+Cable One (Sparklight),LA,"CP-Tel Holdings, Inc.",220,57682,0.381
+Cable One (Sparklight),LA,"CableSouth Media III, LLC",213,57682,0.369
+Cable One (Sparklight),LA,"Zito West Holding, LLC",29,57682,0.05
+Cable One (Sparklight),LA,Cox,1,57682,0.002
+Cable One (Sparklight),MN,Midco,14398,14748,97.627
+Cable One (Sparklight),MN,Lumen (Quantum Fiber / CenturyLink),528,14748,3.58
+Cable One (Sparklight),MN,Park Region Mutual Telephone Company,141,14748,0.956
+Cable One (Sparklight),MN,Consolidated (Fidium),44,14748,0.298
+Cable One (Sparklight),MO,Socket Telecom LLC,15987,156820,10.194
+Cable One (Sparklight),MO,Brightspeed,12844,156820,8.19
+Cable One (Sparklight),MO,AT&T,11917,156820,7.599
+Cable One (Sparklight),MO,Charter (Spectrum),11735,156820,7.483
+Cable One (Sparklight),MO,"Big River Telephone, LLC",6519,156820,4.157
+Cable One (Sparklight),MO,"Ozark Fiber, LLC",5292,156820,3.375
+Cable One (Sparklight),MO,Ritter,5134,156820,3.274
+Cable One (Sparklight),MO,Kennett Board of Public Works,4689,156820,2.99
+Cable One (Sparklight),MO,"WH i3B Bidco LLC/WH i3B Topco, LLC",3952,156820,2.52
+Cable One (Sparklight),MO,"PD Fiber, LLC",3126,156820,1.993
+Cable One (Sparklight),MO,Mediacom,2750,156820,1.754
+Cable One (Sparklight),MO,SEMO Electric Cooperative,2652,156820,1.691
+Cable One (Sparklight),MO,Northeast Missouri Rural Telephone Company,2498,156820,1.593
+Cable One (Sparklight),MO,FDF Communications Co.,2400,156820,1.53
+Cable One (Sparklight),MO,Comcast (Xfinity),1776,156820,1.133
+Cable One (Sparklight),MO,"Boycom Cablevision, Inc.",1526,156820,0.973
+Cable One (Sparklight),MO,Gascosage Electric Cooperative,1486,156820,0.948
+Cable One (Sparklight),MO,LTD Broadband LLC,1127,156820,0.719
+Cable One (Sparklight),MO,Aptitude Internet LLC,1052,156820,0.671
+Cable One (Sparklight),MO,"Steelville Telephone Exchange, Inc.",1050,156820,0.67
+Cable One (Sparklight),MO,Gateway Fiber Holdings LLC,847,156820,0.54
+Cable One (Sparklight),MO,"Conexon Connect, LLC",616,156820,0.393
+Cable One (Sparklight),MO,Windstream/Uniti (Kinetic),496,156820,0.316
+Cable One (Sparklight),MO,Total Highspeed LLC,255,156820,0.163
+Cable One (Sparklight),MO,Current Inc.,229,156820,0.146
+Cable One (Sparklight),MO,Chariton Valley Telephone Corporation,216,156820,0.138
+Cable One (Sparklight),MO,MJZ Networkz LLC,44,156820,0.028
+Cable One (Sparklight),MO,Wave Internet Technologies LLC,7,156820,0.004
+Cable One (Sparklight),MO,"KC Web, Inc.",3,156820,0.002
+Cable One (Sparklight),MO,"Delta Communications, LLC",1,156820,0.001
+Cable One (Sparklight),MO,Optimum (Altice USA),1,156820,0.001
+Cable One (Sparklight),MS,AT&T,113419,243667,46.547
+Cable One (Sparklight),MS,"Telapex, Inc.",38886,243667,15.959
+Cable One (Sparklight),MS,Coast Electric Power Association,29968,243667,12.299
+Cable One (Sparklight),MS,Singing River Electric Cooperative,27172,243667,11.151
+Cable One (Sparklight),MS,"4-County Fiber, LLC",8636,243667,3.544
+Cable One (Sparklight),MS,Delta Electric Power Association,6231,243667,2.557
+Cable One (Sparklight),MS,Tallahatchie Valley Internet Services,4833,243667,1.983
+Cable One (Sparklight),MS,"M-Pulse Fiber, LLC",2522,243667,1.035
+Cable One (Sparklight),MS,"DE Fastlink, LLC",1506,243667,0.618
+Cable One (Sparklight),MS,East Mississippi Electric Power Association,1388,243667,0.57
+Cable One (Sparklight),MS,"Conexon Connect, LLC",1379,243667,0.566
+Cable One (Sparklight),MS,"TecInfo Communications, LLC",894,243667,0.367
+Cable One (Sparklight),MS,Mobile Communications LLC,732,243667,0.3
+Cable One (Sparklight),MS,Uplink Internet LLC,299,243667,0.123
+Cable One (Sparklight),MS,Optimum (Altice USA),75,243667,0.031
+Cable One (Sparklight),MS,Fail Telecommunication Corporation,69,243667,0.028
+Cable One (Sparklight),MS,Mediacom,16,243667,0.007
+Cable One (Sparklight),MS,EATEL Corp.,15,243667,0.006
+Cable One (Sparklight),MS,Aristotle Unified Communications Inc.,6,243667,0.002
+Cable One (Sparklight),MS,Comcast (Xfinity),6,243667,0.002
+Cable One (Sparklight),ND,Midco,42737,44612,95.797
+Cable One (Sparklight),ND,Lumen (Quantum Fiber / CenturyLink),5116,44612,11.468
+Cable One (Sparklight),ND,Gateway Fiber Holdings LLC,1811,44612,4.059
+Cable One (Sparklight),ND,Dickey Rural Telephone Cooperative,1142,44612,2.56
+Cable One (Sparklight),ND,Park Region Mutual Telephone Company,501,44612,1.123
+Cable One (Sparklight),ND,Consolidated (Fidium),240,44612,0.538
+Cable One (Sparklight),ND,Griggs County Telephone Company,125,44612,0.28
+Cable One (Sparklight),NE,Allo Communications LLC,10288,22921,44.885
+Cable One (Sparklight),NE,Long Lines,4113,22921,17.944
+Cable One (Sparklight),NE,ImOn,3040,22921,13.263
+Cable One (Sparklight),NE,"Skywave Wireless, Inc.",1986,22921,8.665
+Cable One (Sparklight),NE,"Midstates Data Transport, LLC",697,22921,3.041
+Cable One (Sparklight),NE,"Great Plains Communications, Inc.",275,22921,1.2
+Cable One (Sparklight),NE,"Pierce Telecommunications, Inc.",169,22921,0.737
+Cable One (Sparklight),NE,Northeast Nebraska Telephone Company,96,22921,0.419
+Cable One (Sparklight),NE,Lumen (Quantum Fiber / CenturyLink),66,22921,0.288
+Cable One (Sparklight),NM,Comcast (Xfinity),28195,61092,46.152
+Cable One (Sparklight),NM,"ENMR Telephone Cooperative, Inc.",14998,61092,24.55
+Cable One (Sparklight),NM,"Ezee Fiber Texas, LLC",4774,61092,7.814
+Cable One (Sparklight),NM,Lumen (Quantum Fiber / CenturyLink),2112,61092,3.457
+Cable One (Sparklight),OK,"Dobson Technologies, Inc.",80159,152631,52.518
+Cable One (Sparklight),OK,Bluepeak,52204,152631,34.203
+Cable One (Sparklight),OK,AT&T,15590,152631,10.214
+Cable One (Sparklight),OK,"City of Ponca, Oklahoma",11604,152631,7.603
+Cable One (Sparklight),OK,"Hilliary Communications, LLC",8089,152631,5.3
+Cable One (Sparklight),OK,Chickasaw Holding Company,3584,152631,2.348
+Cable One (Sparklight),OK,Pioneer Telephone Cooperative (OK),2480,152631,1.625
+Cable One (Sparklight),OK,The Chickasaw Nation,1431,152631,0.938
+Cable One (Sparklight),OK,"Northeast Rural Services, Inc.",788,152631,0.516
+Cable One (Sparklight),OK,The Junction Internet LLC,205,152631,0.134
+Cable One (Sparklight),OK,Bixby Telephone Company,101,152631,0.066
+Cable One (Sparklight),OK,"IdeaTek Telcom, LLC",9,152631,0.006
+Cable One (Sparklight),OK,Optimum (Altice USA),7,152631,0.005
+Cable One (Sparklight),OK,TDS Telecom,5,152631,0.003
+Cable One (Sparklight),OK,Windstream/Uniti (Kinetic),1,152631,0.001
+Cable One (Sparklight),OR,Oregon Telephone Corporation,1703,6715,25.361
+Cable One (Sparklight),OR,Farmers Mutual Telephone Company (ID),228,6715,3.395
+Cable One (Sparklight),OR,Hunter Communications & Technologies LLC,1,6715,0.015
+Cable One (Sparklight),SC,Charter (Spectrum),31982,84172,37.996
+Cable One (Sparklight),SC,Comcast (Xfinity),17664,84172,20.986
+Cable One (Sparklight),SC,Brightspeed,10145,84172,12.053
+Cable One (Sparklight),SC,"Palmetto Rural Telephone Cooperative, Inc.",3181,84172,3.779
+Cable One (Sparklight),SC,Hotwire,146,84172,0.173
+Cable One (Sparklight),SD,Long Lines,2404,2903,82.811
+Cable One (Sparklight),SD,ImOn,1552,2903,53.462
+Cable One (Sparklight),TN,Ritter,4813,12457,38.637
+Cable One (Sparklight),TN,"Forked Deer Electric Cooperative, Inc.",2950,12457,23.681
+Cable One (Sparklight),TN,Telephone Electronics Corporation,348,12457,2.794
+Cable One (Sparklight),TN,Gibson Electric Membership Corporation,304,12457,2.44
+Cable One (Sparklight),TN,Comcast (Xfinity),1,12457,0.008
+Cable One (Sparklight),TX,AT&T,72222,350054,20.632
+Cable One (Sparklight),TX,Frontier,49090,350054,14.024
+Cable One (Sparklight),TX,"WEHCO Video, Inc.",39367,350054,11.246
+Cable One (Sparklight),TX,Astound Broadband,36208,350054,10.344
+Cable One (Sparklight),TX,Optimum (Altice USA),27339,350054,7.81
+Cable One (Sparklight),TX,Windstream/Uniti (Kinetic),26796,350054,7.655
+Cable One (Sparklight),TX,Comcast (Xfinity),22809,350054,6.516
+Cable One (Sparklight),TX,Metronet (T-Mobile JV),21704,350054,6.2
+Cable One (Sparklight),TX,"JAB Wireless, Inc.",13916,350054,3.975
+Cable One (Sparklight),TX,"Lyte Fiber, LLC",10138,350054,2.896
+Cable One (Sparklight),TX,Bluepeak,6611,350054,1.889
+Cable One (Sparklight),TX,"Plains Internet, LLC",5345,350054,1.527
+Cable One (Sparklight),TX,Charter (Spectrum),5322,350054,1.52
+Cable One (Sparklight),TX,"Ezee Fiber Texas, LLC",4912,350054,1.403
+Cable One (Sparklight),TX,"Ganado Telephone Company, Inc.",4345,350054,1.241
+Cable One (Sparklight),TX,"Colorado Valley Telephone Cooperative, Inc.",4007,350054,1.145
+Cable One (Sparklight),TX,"PATHWAYZ Communications, Inc.",3738,350054,1.068
+Cable One (Sparklight),TX,"Wi-Fiber, Inc.",3292,350054,0.94
+Cable One (Sparklight),TX,Grayson Collin Electric Cooperative,2463,350054,0.704
+Cable One (Sparklight),TX,"Etex Telephone Cooperative, Inc.",2207,350054,0.63
+Cable One (Sparklight),TX,Ritter,2207,350054,0.63
+Cable One (Sparklight),TX,"Zito West Holding, LLC",1396,350054,0.399
+Cable One (Sparklight),TX,"Victoria Electric Cooperative, Inc.",1392,350054,0.398
+Cable One (Sparklight),TX,Jackson Electric Cooperative,1369,350054,0.391
+Cable One (Sparklight),TX,AMG Technology Investment Group LLC,1364,350054,0.39
+Cable One (Sparklight),TX,"Southwest Arkansas Electric Cooperative, Inc.",929,350054,0.265
+Cable One (Sparklight),TX,Brazoria Telephone Company,877,350054,0.251
+Cable One (Sparklight),TX,"XIT Rural Telephone Cooperative, Inc.",848,350054,0.242
+Cable One (Sparklight),TX,"RB3, LLC",762,350054,0.218
+Cable One (Sparklight),TX,Hotwire,107,350054,0.031
+Cable One (Sparklight),TX,Red River Cellular Telephone Corporation,13,350054,0.004
+Cable One (Sparklight),TX,Vyve Broadband,5,350054,0.001
+Cable One (Sparklight),TX,"Internet Management Services, Inc.",3,350054,0.001
+Cable One (Sparklight),TX,"Smartcom Telephone, LLC",2,350054,0.001
+Cable One (Sparklight),TX,"Eastex Telephone Cooperative, Inc.",1,350054,0.0
+Cable One (Sparklight),WA,Inland Cellular Telephone Company,2052,8554,23.989
+Cable One (Sparklight),WA,"Newmax, LLC",1002,8554,11.714
+Cable One (Sparklight),WA,TDS Telecom,519,8554,6.067
+Cable One (Sparklight),WA,"First Step Internet, LLC",120,8554,1.403
+Cable One (Sparklight),WA,Lumen (Quantum Fiber / CenturyLink),33,8554,0.386

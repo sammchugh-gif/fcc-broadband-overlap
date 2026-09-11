@@ -1,0 +1,222 @@
+rank,target,operator_as_filed,current_parent,overlap_bsls,pct_of_target_footprint,their_total_footprint_bsls,pct_of_their_footprint,overlap_their_fiber_bsls,overlap_their_cable_bsls
+1,Optimum (Altice USA),Verizon (Fios),Verizon (incl. Frontier),1838739,34.266,9364253,19.636,1838739,0
+2,Optimum (Altice USA),AT&T,AT&T (incl. Lumen consumer fiber),549035,10.232,19375357,2.834,549035,0
+3,Optimum (Altice USA),Frontier,Verizon (incl. Frontier),414753,7.729,6545954,6.336,414753,0
+4,Optimum (Altice USA),Metronet (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),385663,7.187,2612682,14.761,385663,0
+5,Optimum (Altice USA),Comcast (Xfinity),Comcast (Xfinity),340126,6.339,38786664,0.877,172331,167971
+6,Optimum (Altice USA),Brightspeed,Brightspeed,159031,2.964,1793486,8.867,159031,0
+7,Optimum (Altice USA),Tachus LLC,Tachus LLC,93835,1.749,178878,52.458,93835,0
+8,Optimum (Altice USA),Charter (Spectrum),Charter + Cox (Spectrum),67055,1.25,35944137,0.187,30985,37611
+9,Optimum (Altice USA),Allo Communications LLC,Allo Communications LLC,53152,0.991,436620,12.174,53152,0
+10,Optimum (Altice USA),Consolidated (Fidium),Consolidated (Fidium),52593,0.98,1058652,4.968,52593,0
+11,Optimum (Altice USA),"Dobson Technologies, Inc.","Dobson Technologies, Inc.",47898,0.893,196373,24.391,47898,0
+12,Optimum (Altice USA),Bluepeak,Bluepeak,47605,0.887,316917,15.021,47599,28
+13,Optimum (Altice USA),Ritter,Ritter,47425,0.884,177817,26.671,45302,2163
+14,Optimum (Altice USA),"Future Fiber FinCo, LLC","Future Fiber FinCo, LLC",44291,0.825,540181,8.199,44291,0
+15,Optimum (Altice USA),"Planet Networks, Inc.","Planet Networks, Inc.",39983,0.745,52084,76.766,39983,0
+16,Optimum (Altice USA),Windstream/Uniti (Kinetic),Windstream/Uniti (Kinetic),39555,0.737,1526157,2.592,39555,0
+17,Optimum (Altice USA),Astound Broadband,Astound Broadband,36150,0.674,2518837,1.435,3371,33069
+18,Optimum (Altice USA),Cable One (Sparklight),Cable One (Sparklight),32524,0.606,2280032,1.426,31732,793
+19,Optimum (Altice USA),"United Electric Cooperative, Inc.","United Electric Cooperative, Inc.",31759,0.592,81763,38.843,31759,0
+20,Optimum (Altice USA),First Electric Cooperative Corporation,First Electric Cooperative Corporation,26788,0.499,82726,32.382,26788,0
+21,Optimum (Altice USA),"Community Antenna Service, Inc.","Community Antenna Service, Inc.",25848,0.482,32019,80.727,0,25848
+22,Optimum (Altice USA),"Generate-Ubiquity Holdings, LLC","Generate-Ubiquity Holdings, LLC",24277,0.452,179727,13.508,24277,0
+23,Optimum (Altice USA),"PCC Holdings, Inc.","PCC Holdings, Inc.",23901,0.445,41929,57.004,23901,0
+24,Optimum (Altice USA),"VFN Holdings, Inc.","VFN Holdings, Inc.",21748,0.405,52739,41.237,21748,0
+25,Optimum (Altice USA),Peoples Telephone Cooperative,Peoples Telephone Cooperative,20309,0.378,54161,37.497,20309,0
+26,Optimum (Altice USA),"Ezee Fiber Texas, LLC","Ezee Fiber Texas, LLC",18305,0.341,373234,4.904,18305,0
+27,Optimum (Altice USA),"Open Infra, Inc.","Open Infra, Inc.",15835,0.295,87397,18.118,15835,0
+28,Optimum (Altice USA),Court Square Capital Partners,Court Square Capital Partners,15696,0.293,21035,74.618,15696,0
+29,Optimum (Altice USA),"ENMR Telephone Cooperative, Inc.","ENMR Telephone Cooperative, Inc.",15090,0.281,63317,23.832,15090,0
+30,Optimum (Altice USA),White River Valley Electric Cooperative,White River Valley Electric Cooperative,14762,0.275,31078,47.5,14762,0
+31,Optimum (Altice USA),Vyve Broadband,Vyve Broadband,14193,0.264,560197,2.534,13764,429
+32,Optimum (Altice USA),CG Computer Works LLC,CG Computer Works LLC,12133,0.226,22621,53.636,12133,0
+33,Optimum (Altice USA),"CableSouth Media III, LLC","CableSouth Media III, LLC",11870,0.221,119756,9.912,9829,2139
+34,Optimum (Altice USA),"Poka Lambro Telephone Cooperative, Inc.","Poka Lambro Telephone Cooperative, Inc.",11694,0.218,28891,40.476,8961,2733
+35,Optimum (Altice USA),AMG Technology Investment Group LLC,AMG Technology Investment Group LLC,11122,0.207,103541,10.742,11122,0
+36,Optimum (Altice USA),Nortex Communications,Nortex Communications,10961,0.204,26115,41.972,10961,0
+37,Optimum (Altice USA),Pioneer Telephone Cooperative (OK),Pioneer Telephone Cooperative (OK),10466,0.195,66019,15.853,10466,0
+38,Optimum (Altice USA),"Ozark Fiber, LLC","Ozark Fiber, LLC",9972,0.186,19128,52.133,9972,0
+39,Optimum (Altice USA),"NfinityLink Communications, Inc.","NfinityLink Communications, Inc.",9396,0.175,19806,47.44,9383,13
+40,Optimum (Altice USA),"Eastex Telephone Cooperative, Inc.","Eastex Telephone Cooperative, Inc.",9356,0.174,41866,22.347,9356,0
+41,Optimum (Altice USA),"Santa Rosa Telephone Cooperative, Inc.","Santa Rosa Telephone Cooperative, Inc.",8825,0.164,35091,25.149,8825,0
+42,Optimum (Altice USA),"PATHWAYZ Communications, Inc.","PATHWAYZ Communications, Inc.",8568,0.16,16276,52.642,8568,0
+43,Optimum (Altice USA),Grayson Collin Electric Cooperative,Grayson Collin Electric Cooperative,8527,0.159,15871,53.727,8527,0
+44,Optimum (Altice USA),"MSEC Communications, LLC","MSEC Communications, LLC",8145,0.152,40856,19.936,8145,0
+45,Optimum (Altice USA),West Texas Rural Telephone Cooperative Inc.,West Texas Rural Telephone Cooperative Inc.,7826,0.146,12480,62.708,7826,0
+46,Optimum (Altice USA),"North Arkansas Electric Cooperative, Inc.","North Arkansas Electric Cooperative, Inc.",7655,0.143,34953,21.901,7655,0
+47,Optimum (Altice USA),"Ripple Fiber, LLC","Ripple Fiber, LLC",7190,0.134,206137,3.488,7190,0
+48,Optimum (Altice USA),"Valley Communications Association, LLC","Valley Communications Association, LLC",6803,0.127,16851,40.371,6803,0
+49,Optimum (Altice USA),Ziply Fiber (Bell Canada),Ziply Fiber (Bell Canada),6643,0.124,763929,0.87,6643,0
+50,Optimum (Altice USA),American Broadband Holding Company,American Broadband Holding Company,6614,0.123,56888,11.626,6614,0
+51,Optimum (Altice USA),"Etex Telephone Cooperative, Inc.","Etex Telephone Cooperative, Inc.",6535,0.122,27266,23.968,6535,0
+52,Optimum (Altice USA),"Hilliary Communications, LLC","Hilliary Communications, LLC",6452,0.12,40574,15.902,6452,1
+53,Optimum (Altice USA),Oklahoma Electric Cooperative,Oklahoma Electric Cooperative,6013,0.112,95994,6.264,6013,0
+54,Optimum (Altice USA),South Central Arkansas Electric Cooperative,South Central Arkansas Electric Cooperative,5737,0.107,27110,21.162,5737,0
+55,Optimum (Altice USA),Carthage Water and Electric Plant,Carthage Water and Electric Plant,5513,0.103,5946,92.718,5513,0
+56,Optimum (Altice USA),Lafayette City Parish Consolidated Government,Lafayette City Parish Consolidated Government,5399,0.101,89130,6.057,5399,0
+57,Optimum (Altice USA),Cherokee County Electric Cooperative Association,Cherokee County Electric Cooperative Association,5241,0.098,14354,36.512,5241,0
+58,Optimum (Altice USA),"Micrologic, Inc.","Micrologic, Inc.",4994,0.093,9544,52.326,4994,0
+59,Optimum (Altice USA),"Legacy ISP, LLC","Legacy ISP, LLC",4309,0.08,5677,75.903,4309,0
+60,Optimum (Altice USA),Skyline Telephone Membership Corporation,Skyline Telephone Membership Corporation,4174,0.078,60122,6.943,4174,0
+61,Optimum (Altice USA),Central Rural Electric Cooperative,Central Rural Electric Cooperative,4152,0.077,24948,16.643,4152,0
+62,Optimum (Altice USA),"Foothills Rural Telephone Cooperative Corporation, Inc.","Foothills Rural Telephone Cooperative Corporation, Inc.",4022,0.075,29211,13.769,4022,0
+63,Optimum (Altice USA),Craighead Elecric Cooperative Corporation,Craighead Elecric Cooperative Corporation,4010,0.075,29472,13.606,4010,0
+64,Optimum (Altice USA),"Northeast Rural Services, Inc.","Northeast Rural Services, Inc.",3901,0.073,31352,12.443,3901,0
+65,Optimum (Altice USA),"Community Telephone Co., Inc.","Community Telephone Co., Inc.",3790,0.071,22525,16.826,3790,0
+66,Optimum (Altice USA),"CP-Tel Holdings, Inc.","CP-Tel Holdings, Inc.",3768,0.07,6835,55.128,3768,0
+67,Optimum (Altice USA),Russellville Electric Plant Board,Russellville Electric Plant Board,3640,0.068,5130,70.955,3640,0
+68,Optimum (Altice USA),"Taylor Telephone Cooperative, Inc.","Taylor Telephone Cooperative, Inc.",3514,0.065,15672,22.422,3514,0
+69,Optimum (Altice USA),JMZ Corporation,JMZ Corporation,3509,0.065,34925,10.047,3509,0
+70,Optimum (Altice USA),Craw-Kan Telephone Cooperative Inc.,Craw-Kan Telephone Cooperative Inc.,3495,0.065,32649,10.705,3495,0
+71,Optimum (Altice USA),Google Fiber,Google Fiber,3397,0.063,1886259,0.18,3397,0
+72,Optimum (Altice USA),Pine Telephone Company,Pine Telephone Company,3324,0.062,21787,15.257,3324,0
+73,Optimum (Altice USA),"Yelcot Holding Group, Inc.","Yelcot Holding Group, Inc.",3320,0.062,15584,21.304,3320,1
+74,Optimum (Altice USA),Innovative Financial Technologies LLC,Innovative Financial Technologies LLC,3192,0.059,11063,28.853,3192,0
+75,Optimum (Altice USA),Arkansas Valley Electric Cooperative Corporation,Arkansas Valley Electric Cooperative Corporation,3185,0.059,56189,5.668,3185,0
+76,Optimum (Altice USA),Socket Telecom LLC,Socket Telecom LLC,3058,0.057,118266,2.586,3058,0
+77,Optimum (Altice USA),Wecom LLC,Wecom LLC,3046,0.057,19138,15.916,3046,0
+78,Optimum (Altice USA),"City of Clarksville, Arkansas","City of Clarksville, Arkansas",3009,0.056,3548,84.808,3009,0
+79,Optimum (Altice USA),"Mid-Plains Rural Telephone Cooperative, Inc.","Mid-Plains Rural Telephone Cooperative, Inc.",2842,0.053,9279,30.628,2842,0
+80,Optimum (Altice USA),Canadian Valley Electric Cooperative,Canadian Valley Electric Cooperative,2728,0.051,30144,9.05,2728,0
+81,Optimum (Altice USA),"Delta Communications, LLC","Delta Communications, LLC",2713,0.051,170364,1.592,2713,0
+82,Optimum (Altice USA),Centric Infrastructure Group LLC,Centric Infrastructure Group LLC,2673,0.05,22062,12.116,2673,0
+83,Optimum (Altice USA),"Mid-States Services, LLC","Mid-States Services, LLC",2555,0.048,4832,52.877,2555,0
+84,Optimum (Altice USA),"Hill Country Telephone Cooperative, Inc.","Hill Country Telephone Cooperative, Inc.",2551,0.048,20113,12.683,2551,0
+85,Optimum (Altice USA),City of Sallisaw,City of Sallisaw,2517,0.047,2902,86.733,2517,0
+86,Optimum (Altice USA),Gearheart Communications,Gearheart Communications,2503,0.047,36819,6.798,1934,569
+87,Optimum (Altice USA),Point Broadband,Point Broadband,2358,0.044,348159,0.677,2358,0
+88,Optimum (Altice USA),"Pavlov Media, Inc.","Pavlov Media, Inc.",2290,0.043,114421,2.001,2290,0
+89,Optimum (Altice USA),"Telapex, Inc.","Telapex, Inc.",2206,0.041,381068,0.579,2206,0
+90,Optimum (Altice USA),Chariton Valley Telephone Corporation,Chariton Valley Telephone Corporation,2175,0.041,30581,7.112,2175,0
+91,Optimum (Altice USA),"South Plains Telephone Cooperative, Inc.","South Plains Telephone Cooperative, Inc.",2158,0.04,7308,29.529,2158,0
+92,Optimum (Altice USA),"Conexon Connect, LLC","Conexon Connect, LLC",2133,0.04,415600,0.513,2133,0
+93,Optimum (Altice USA),East Central Oklahoma Electric Cooperative,East Central Oklahoma Electric Cooperative,2047,0.038,35509,5.765,2047,0
+94,Optimum (Altice USA),"NATCO Communications, Inc.","NATCO Communications, Inc.",2011,0.037,5573,36.085,2011,0
+95,Optimum (Altice USA),Taylor Electric Cooperative,Taylor Electric Cooperative,1890,0.035,3763,50.226,1890,0
+96,Optimum (Altice USA),"Wi-Fiber, Inc.","Wi-Fiber, Inc.",1841,0.034,13266,13.878,1841,0
+97,Optimum (Altice USA),Lake Livingston Telephone Company,Lake Livingston Telephone Company,1835,0.034,2153,85.23,1835,0
+98,Optimum (Altice USA),"Cajun Broadband, Inc.","Cajun Broadband, Inc.",1636,0.03,5465,29.936,1636,0
+99,Optimum (Altice USA),"Clay County Connect, Inc.","Clay County Connect, Inc.",1608,0.03,12017,13.381,1608,0
+100,Optimum (Altice USA),"Victoria Electric Cooperative, Inc.","Victoria Electric Cooperative, Inc.",1551,0.029,8406,18.451,1551,0
+101,Optimum (Altice USA),Farmer Electric Cooperative Corporation,Farmer Electric Cooperative Corporation,1518,0.028,4041,37.565,1518,0
+102,Optimum (Altice USA),"Peoples Telecommunications, LLC","Peoples Telecommunications, LLC",1480,0.028,4688,31.57,1480,0
+103,Optimum (Altice USA),"Ind. Co. Cable TV, Inc.","Ind. Co. Cable TV, Inc.",1464,0.027,7933,18.455,1299,1401
+104,Optimum (Altice USA),Total Highspeed LLC,Total Highspeed LLC,1453,0.027,14701,9.884,1453,0
+105,Optimum (Altice USA),Mobile Communications LLC,Mobile Communications LLC,1451,0.027,3216,45.118,1451,0
+106,Optimum (Altice USA),"Brazos Telephone Cooperative, Inc.","Brazos Telephone Cooperative, Inc.",1441,0.027,9390,15.346,1441,0
+107,Optimum (Altice USA),"Wes-Tex Telephone Cooperative, Inc.","Wes-Tex Telephone Cooperative, Inc.",1415,0.026,6393,22.134,1415,0
+108,Optimum (Altice USA),Red River Cellular Telephone Corporation,Red River Cellular Telephone Corporation,1372,0.026,8381,16.37,1372,0
+109,Optimum (Altice USA),"Co-Mo Electric Cooperative, Inc.","Co-Mo Electric Cooperative, Inc.",1312,0.024,55238,2.375,1312,0
+110,Optimum (Altice USA),Cox,Charter + Cox (Spectrum),1306,0.024,7297869,0.018,3,1303
+111,Optimum (Altice USA),Lake Region Technology & Communications LLC,Lake Region Technology & Communications LLC,1303,0.024,26072,4.998,1303,0
+112,Optimum (Altice USA),Delta Electric Power Association,Delta Electric Power Association,1294,0.024,20606,6.28,1294,0
+113,Optimum (Altice USA),"yondoo Broadband, LLC","yondoo Broadband, LLC",1186,0.022,2951,40.19,1186,0
+114,Optimum (Altice USA),"Newmax, LLC","Newmax, LLC",1143,0.021,7438,15.367,1143,0
+115,Optimum (Altice USA),"Logan Telephone Cooperative, Inc.","Logan Telephone Cooperative, Inc.",1102,0.021,8699,12.668,1102,0
+116,Optimum (Altice USA),"South Central Telephone Association, Inc.","South Central Telephone Association, Inc.",1077,0.02,8175,13.174,1077,0
+117,Optimum (Altice USA),"WEHCO Video, Inc.","WEHCO Video, Inc.",1033,0.019,172012,0.601,120,914
+118,Optimum (Altice USA),City of Mont Belvieu,City of Mont Belvieu,1009,0.019,3457,29.187,1009,0
+119,Optimum (Altice USA),Lumen (Quantum Fiber / CenturyLink),AT&T (incl. Lumen consumer fiber),1001,0.019,3157729,0.032,1001,0
+120,Optimum (Altice USA),"Volt Broadband, LLC","Volt Broadband, LLC",969,0.018,11884,8.154,969,0
+121,Optimum (Altice USA),"Citynet, LLC","Citynet, LLC",919,0.017,27601,3.33,919,0
+122,Optimum (Altice USA),"ITC Broadband Operating, LLC","ITC Broadband Operating, LLC",904,0.017,59428,1.521,806,98
+123,Optimum (Altice USA),Cookson Hills Electric Cooperative,Cookson Hills Electric Cooperative,897,0.017,18708,4.795,897,0
+124,Optimum (Altice USA),Hotwire,Hotwire,826,0.015,144179,0.573,826,0
+125,Optimum (Altice USA),"Callabyte Technology, LLC","Callabyte Technology, LLC",756,0.014,21602,3.5,756,0
+126,Optimum (Altice USA),Arrive Internet,Arrive Internet,739,0.014,2611,28.303,739,0
+127,Optimum (Altice USA),"Blossom Telephone Co., Inc.","Blossom Telephone Co., Inc.",704,0.013,1712,41.121,704,0
+128,Optimum (Altice USA),"Cap Rock Telephone Cooperative, Inc.","Cap Rock Telephone Cooperative, Inc.",686,0.013,7018,9.775,686,0
+129,Optimum (Altice USA),"Townes Telecommunications, Inc.","Townes Telecommunications, Inc.",658,0.012,10566,6.228,658,0
+130,Optimum (Altice USA),"James Bouse Enterprises, LLC","James Bouse Enterprises, LLC",653,0.012,6929,9.424,653,0
+131,Optimum (Altice USA),"Hillbilly Wireless Internet, Inc.","Hillbilly Wireless Internet, Inc.",614,0.011,2241,27.398,614,0
+132,Optimum (Altice USA),Delcambre Telephone Co.,Delcambre Telephone Co.,578,0.011,1745,33.123,578,0
+133,Optimum (Altice USA),Plumas-Sierra Rural Electric Cooperative,Plumas-Sierra Rural Electric Cooperative,576,0.011,6694,8.605,576,0
+134,Optimum (Altice USA),Wilkes Telephone Membership Corporation,Wilkes Telephone Membership Corporation,548,0.01,61212,0.895,548,0
+135,Optimum (Altice USA),Premier Holdings LLC,Premier Holdings LLC,523,0.01,2259,23.152,523,0
+136,Optimum (Altice USA),"TecInfo Communications, LLC","TecInfo Communications, LLC",520,0.01,4369,11.902,520,0
+137,Optimum (Altice USA),Locality Networks Inc.,Locality Networks Inc.,515,0.01,532,96.805,515,0
+138,Optimum (Altice USA),Pembroke Telephone Cooperative,Pembroke Telephone Cooperative,472,0.009,2110,22.37,472,0
+139,Optimum (Altice USA),"Plains Internet, LLC","Plains Internet, LLC",432,0.008,6610,6.536,432,0
+140,Optimum (Altice USA),Hinton Holding Company,Hinton Holding Company,431,0.008,4474,9.633,431,0
+141,Optimum (Altice USA),Mediacom,Mediacom,416,0.008,2668787,0.016,5,416
+142,Optimum (Altice USA),"Flying Bull Internet, LLC","Flying Bull Internet, LLC",414,0.008,26985,1.534,414,0
+143,Optimum (Altice USA),Shenandoah Telecommunications Company,Shenandoah Telecommunications Company,393,0.007,530410,0.074,9,384
+144,Optimum (Altice USA),WVVA.net Inc.,WVVA.net Inc.,366,0.007,4068,8.997,366,0
+145,Optimum (Altice USA),"Roosevelt County Rural Telephone Cooperative, Inc.","Roosevelt County Rural Telephone Cooperative, Inc.",362,0.007,9089,3.983,362,0
+146,Optimum (Altice USA),"JAB Wireless, Inc.","JAB Wireless, Inc.",303,0.006,89596,0.338,303,0
+147,Optimum (Altice USA),"Skyrunner, Inc.","Skyrunner, Inc.",295,0.005,8591,3.434,295,0
+148,Optimum (Altice USA),"Dell Telephone Cooperative, Inc.","Dell Telephone Cooperative, Inc.",286,0.005,685,41.752,286,0
+149,Optimum (Altice USA),"Northeast Louisiana Telephone Co., Inc.","Northeast Louisiana Telephone Co., Inc.",244,0.005,1779,13.716,244,0
+150,Optimum (Altice USA),"WiFires Communications, LLC","WiFires Communications, LLC",227,0.004,285,79.649,227,0
+151,Optimum (Altice USA),Aristotle Unified Communications Inc.,Aristotle Unified Communications Inc.,206,0.004,1319,15.618,206,0
+152,Optimum (Altice USA),"Lyte Fiber, LLC","Lyte Fiber, LLC",177,0.003,27250,0.65,177,0
+153,Optimum (Altice USA),"Everfast Fiber Networks, LLC","Everfast Fiber Networks, LLC",163,0.003,290684,0.056,163,0
+154,Optimum (Altice USA),"Bartlett Electric Cooperative, Inc.","Bartlett Electric Cooperative, Inc.",156,0.003,5385,2.897,156,0
+155,Optimum (Altice USA),Litebridge LLC,Litebridge LLC,147,0.003,175,84.0,147,0
+156,Optimum (Altice USA),"ANTS-Technology, Inc.","ANTS-Technology, Inc.",146,0.003,327,44.648,146,0
+157,Optimum (Altice USA),Carnegie Telephone Company,Carnegie Telephone Company,139,0.003,3313,4.196,139,0
+158,Optimum (Altice USA),TOTE Holdings LLC,TOTE Holdings LLC,137,0.003,5674,2.415,137,0
+159,Optimum (Altice USA),"NBVDS Investment, LLC","NBVDS Investment, LLC",134,0.002,15297,0.876,134,0
+160,Optimum (Altice USA),Net Vision Communications LLC,Net Vision Communications LLC,132,0.002,265,49.811,132,0
+161,Optimum (Altice USA),"SureFire Internet, LLC","SureFire Internet, LLC",127,0.002,384,33.073,127,0
+162,Optimum (Altice USA),"Valliant Telephone Company, Inc.","Valliant Telephone Company, Inc.",97,0.002,2499,3.882,97,0
+163,Optimum (Altice USA),"Zito West Holding, LLC","Zito West Holding, LLC",96,0.002,265591,0.036,19,96
+164,Optimum (Altice USA),"Race Telecommunications, Inc.","Race Telecommunications, Inc.",95,0.002,142205,0.067,95,0
+165,Optimum (Altice USA),"Central Arkansas Telephone Cooperative, Inc.","Central Arkansas Telephone Cooperative, Inc.",84,0.002,5227,1.607,84,0
+166,Optimum (Altice USA),Archtop Fiber Holdings LLC,Archtop Fiber Holdings LLC,72,0.001,24884,0.289,72,0
+167,Optimum (Altice USA),"Enlightened by Woodruff Electric, LLC","Enlightened by Woodruff Electric, LLC",70,0.001,7890,0.887,70,0
+168,Optimum (Altice USA),Breezeline (Cogeco),Breezeline (Cogeco),69,0.001,1333175,0.005,0,69
+169,Optimum (Altice USA),Hunter Communications & Technologies LLC,Hunter Communications & Technologies LLC,60,0.001,89041,0.067,60,0
+170,Optimum (Altice USA),Grand River Mutual Telephone Corporation,Grand River Mutual Telephone Corporation,59,0.001,27791,0.212,59,0
+171,Optimum (Altice USA),"Greenlight Networks, LLC","Greenlight Networks, LLC",58,0.001,286873,0.02,58,0
+172,Optimum (Altice USA),"Starry, Inc.","Starry, Inc.",57,0.001,331,17.221,57,0
+173,Optimum (Altice USA),Bixby Telephone Company,Bixby Telephone Company,55,0.001,10511,0.523,55,0
+174,Optimum (Altice USA),"BalsamWest FiberNET, LLC","BalsamWest FiberNET, LLC",47,0.001,1812,2.594,47,0
+175,Optimum (Altice USA),ENC Access Investments LLC,ENC Access Investments LLC,46,0.001,1694,2.715,46,0
+176,Optimum (Altice USA),"Professional Value Internet Services, LLC","Professional Value Internet Services, LLC",41,0.001,720,5.694,41,0
+177,Optimum (Altice USA),Mid-Hudson Cablevision,Mid-Hudson Cablevision,28,0.001,35818,0.078,1,27
+178,Optimum (Altice USA),"Wellcom Technologies Highlands, LP","Wellcom Technologies Highlands, LP",25,0.0,853,2.931,25,0
+179,Optimum (Altice USA),Armstrong,Armstrong,25,0.0,462472,0.005,2,23
+180,Optimum (Altice USA),"ERC Broadband, LLC","ERC Broadband, LLC",24,0.0,50,48.0,24,0
+181,Optimum (Altice USA),"BSX Holdings, LLC","BSX Holdings, LLC",22,0.0,1261,1.745,22,0
+182,Optimum (Altice USA),"Electric Plant Board of the City of Hopkinsville, Kentucky","Electric Plant Board of the City of Hopkinsville, Kentucky",19,0.0,30955,0.061,19,0
+183,Optimum (Altice USA),"Fort Mojave Telecommunications, Inc.","Fort Mojave Telecommunications, Inc.",18,0.0,2441,0.737,18,0
+184,Optimum (Altice USA),Boston Omaha Corporation,Boston Omaha Corporation,16,0.0,25690,0.062,16,0
+185,Optimum (Altice USA),Barry Electric Cooperative,Barry Electric Cooperative,15,0.0,8442,0.178,15,0
+186,Optimum (Altice USA),Alpha Technologies Inc.,Alpha Technologies Inc.,15,0.0,32,46.875,15,0
+187,Optimum (Altice USA),"Comporium, Inc.","Comporium, Inc.",14,0.0,198803,0.007,0,14
+188,Optimum (Altice USA),EATEL Corp.,EATEL Corp.,13,0.0,91270,0.014,13,0
+189,Optimum (Altice USA),Sebastian Enterprises,Sebastian Enterprises,12,0.0,7410,0.162,12,0
+190,Optimum (Altice USA),Blue Ridge Communications,Blue Ridge Communications,11,0.0,275256,0.004,0,11
+191,Optimum (Altice USA),"Trinity Communications, LLC","Trinity Communications, LLC",10,0.0,44,22.727,10,0
+192,Optimum (Altice USA),"Nevill Holdings, Inc.","Nevill Holdings, Inc.",7,0.0,14574,0.048,7,0
+193,Optimum (Altice USA),Conway Corporation,Conway Corporation,6,0.0,21344,0.028,0,6
+194,Optimum (Altice USA),Granby Telephone Company,Granby Telephone Company,6,0.0,3475,0.173,6,0
+195,Optimum (Altice USA),"Bandera Electric Cooperative, Inc.","Bandera Electric Cooperative, Inc.",5,0.0,25261,0.02,5,0
+196,Optimum (Altice USA),Inyo Networks Inc.,Inyo Networks Inc.,4,0.0,6146,0.065,4,0
+197,Optimum (Altice USA),ICS Advanced Technologies,ICS Advanced Technologies,4,0.0,252,1.587,4,0
+198,Optimum (Altice USA),Inland Cellular Telephone Company,Inland Cellular Telephone Company,3,0.0,7649,0.039,3,0
+199,Optimum (Altice USA),"Southwest Arkansas Electric Cooperative, Inc.","Southwest Arkansas Electric Cooperative, Inc.",3,0.0,22668,0.013,3,0
+200,Optimum (Altice USA),City of Wilson,City of Wilson,3,0.0,27013,0.011,3,0
+201,Optimum (Altice USA),PCs for People,PCs for People,2,0.0,174,1.149,0,2
+202,Optimum (Altice USA),"StarVision, Inc.","StarVision, Inc.",2,0.0,10652,0.019,2,0
+203,Optimum (Altice USA),3 Rooms Communications LLC,3 Rooms Communications LLC,2,0.0,2514,0.08,2,0
+204,Optimum (Altice USA),Petit Jean Electric Cooperative Corp.,Petit Jean Electric Cooperative Corp.,2,0.0,18323,0.011,2,0
+205,Optimum (Altice USA),"Southwest Arkansas Telephone Cooperative, Inc.","Southwest Arkansas Telephone Cooperative, Inc.",2,0.0,7724,0.026,2,0
+206,Optimum (Altice USA),Crystal Broadband Networks,Crystal Broadband Networks,2,0.0,7338,0.027,2,0
+207,Optimum (Altice USA),"LCS Fibercom, LLC","LCS Fibercom, LLC",2,0.0,916,0.218,2,0
+208,Optimum (Altice USA),"Central Texas Telephone Cooperative, Inc.","Central Texas Telephone Cooperative, Inc.",2,0.0,12016,0.017,2,0
+209,Optimum (Altice USA),Gateway Fiber Holdings LLC,Gateway Fiber Holdings LLC,1,0.0,134105,0.001,1,0
+210,Optimum (Altice USA),"Fatbeam Holdings, LLC","Fatbeam Holdings, LLC",1,0.0,16958,0.006,1,0
+211,Optimum (Altice USA),"C & L Broadband Connect, LLC","C & L Broadband Connect, LLC",1,0.0,6493,0.015,1,0
+212,Optimum (Altice USA),"Eastern Telephone & Technologies, Inc.","Eastern Telephone & Technologies, Inc.",1,0.0,62,1.613,1,0
+213,Optimum (Altice USA),"Decatur Holding Company, Inc.","Decatur Holding Company, Inc.",1,0.0,2982,0.034,1,0
+214,Optimum (Altice USA),"IAMO Communications, Inc.","IAMO Communications, Inc.",1,0.0,3448,0.029,1,0
+215,Optimum (Altice USA),Oregon Telephone Corporation,Oregon Telephone Corporation,1,0.0,22660,0.004,1,0
+216,Optimum (Altice USA),Lumos (T-Mobile JV),T-Mobile Fiber (Metronet + Lumos),1,0.0,641150,0.0,1,0
+217,Optimum (Altice USA),Invest Newark,Invest Newark,1,0.0,1,100.0,1,0
+218,Optimum (Altice USA),Grand Telephone Company,Grand Telephone Company,1,0.0,2059,0.049,1,0
+219,Optimum (Altice USA),"Cumby Telephone Cooperative, Inc.","Cumby Telephone Cooperative, Inc.",1,0.0,6230,0.016,1,0
+220,Optimum (Altice USA),"MiFiber Holding, LLC","MiFiber Holding, LLC",1,0.0,6131,0.016,1,0
+221,Optimum (Altice USA),Citizens Telephone Cooperative (VA),Citizens Telephone Cooperative (VA),1,0.0,14074,0.007,1,0
